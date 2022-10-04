@@ -36,7 +36,7 @@ markdowns:$(alldocx) # convert docx to md
 		--template=essay.md.template \
 		-o $$md ; \
 		./scripts/md_urlize.py $$md $$i ; \
-		./scripts/md_unique_footnotes.py $$md ; \
+		./scripts/md_unique_footnotes.py $$md ; 
 	done
 
 
@@ -72,6 +72,8 @@ book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do  ./scripts/md_stripmetada.py $$i >> md/book.md ; \
 	done
+
+
 #Note: md_urlize.py script requires Django to be installed
 
 
