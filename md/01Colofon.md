@@ -19,17 +19,15 @@ Rights: CC BY-NC 4.0
 
 INC Theory on Demand \#45
 
-**The Internet from India**
+## OVERLOAD, CREEP, EXCESS – AN INTERNET FROM INDIA
 
-Editors:
+Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
 
 Copy editor:
 
-Cover Design:
+Cover Design: Katja van Stiphout
 
 Design and EPUB development:
-
-Printing and binding: Tuijtel
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 
@@ -64,4 +62,8 @@ NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
 of this license, visit
 [www.creativecommons.org/licences/by-nc-sa/4.0/](http://www.creativecommons.org/licences/by-nc-sa/4.0/).
 
-INC, HvA, CoECI logo
+<br/>
+
+![](imgs/INC-logoCMYK.png)
+
+<br/> 
