@@ -25,7 +25,7 @@ taken in the first stage of the CSCS Identity project field work.
 
 **SECTION 1**
 
-[]{#_Hlk110777929 .anchor}Fig 1. The Tenth Five-year Plan, 2002-07, and
+Fig 1. The Tenth Five-year Plan, 2002-07, and
 usually seen as the point when e-governance was launched in India. It
 saw the implementation of the Information Technology Act of 2000 and the
 founding of the Ministry of Information Technology, the mass

@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Annotated Timeline
 
-[]{#_Hlk112345062 .anchor}Timelines are chronological devices, giving
+Timelines are chronological devices, giving
 the impression of progress. Yet, the timeline of events that we curate
 here is less to depict a story of progress or disrepair, and more to
 portray a snapshot of defining moments in the public life of the digital

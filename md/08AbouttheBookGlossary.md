@@ -144,7 +144,7 @@ reading and understanding the problems around the internet(s) in India,
 and hence you might encounter terms that might not necessarily be
 expected in this reading like Overload, Creep, and Excess.
 
-[]{#_Hlk110605844 .anchor}While the titular terms will have their day,
+While the titular terms will have their day,
 and we will expand on them, this glossary bears the unbearable weight of
 signaling what we think are unexpected concepts that you might encounter
 in this book, while also refusing to take any definitional
@@ -210,13 +210,13 @@ creating order and control through a careful parsing and archiving of
 the world’s information, it comes as a surprise that so many of the
 pauses in the essays are about its bureaucratization.
 
-[]{#_Hlk110612858 .anchor}A central feature of the digital turn of
+A central feature of the digital turn of
 governance has however been the overcoming of the proverbial ‘last
 mile’, a communications term typically used as a means of leapfrogging
 bureaucratic and procedural holdups, leakages, and corrupt
 intermediaries, to directly reach intended recipients either through
 their bank accounts, through point-of-service devices, or other
-biometric mechanisms. []{#_Hlk110613127 .anchor}The painstaking
+biometric mechanisms. The painstaking
 introduction of the clumsy systems of a Relational Database Management
 System (RDBMS) profoundly changed the very experience of citizenship as
 they favor specific forms of data that reshape the relationship of the
@@ -250,7 +250,7 @@ contrary to all evidence, are posited as undifferentiable. In contrast,
 our account of the book is heavily reliant and hugely embedded in
 conditions of citizenship.
 
-[]{#_Hlk110616410 .anchor}Citizenship was difficult to define in
+Citizenship was difficult to define in
 post-Partition India given the massive numbers of people who could
 potentially have turned stateless, and so – nearly a decade after
 Independence – India put together its first Citizenship Act in 1955
@@ -263,8 +263,7 @@ major protests that contextualize several of the concerns of this book.
 
 Creep theorizes citizenship by looking at the complex constitutional and
 jurisprudence challenges that emerging internet practices and
-subjectivities have thrown in quick succession. []{#_Hlk110616777
-.anchor}Particularly in the last decade, the continued replaying of ‘the
+subjectivities have thrown in quick succession. Particularly in the last decade, the continued replaying of ‘the
 citizen + internet = terrorist’ formula sees the profound ways in which
 the development of the internet, primarily as a nation-building exercise
 and then as a policing vehicle, is changing the very definitions of who
@@ -289,11 +288,10 @@ presented by a growing number of digital crises.
 
 Bruno Latour, in his exposition of the ‘Actor-Network Theory’, had
 famously postulated that technologies make themselves visible in the
-moments of their breaking or their failure. []{#_Hlk110617115
-.anchor}The three essays here might argue that the internet doesn’t
+moments of their breaking or their failure. The three essays here might argue that the internet doesn’t
 quite break but is nevertheless kept on the verge of breaking so that
 the gap between ‘almost working’ and ‘not quite working’ remains a
-narrow one. []{#_Hlk110617079 .anchor}The internet, it would seem, is
+narrow one. The internet, it would seem, is
 largely a *response to crises*, is thus itself in a state of crisis, and
 creates crises. Such a circularity, making the internet not just an
 attribute of crisis but as synonymous with crises, is evident across
@@ -322,7 +320,7 @@ hyperconnectivity of COVID-19 pandemic access. In *Excess*, we show how
 new citizenship can become bereft of meaning: an explanation without a
 signification, in the newly arranged databases of governance.
 
-[]{#_Hlk110617828 .anchor}And yet, in these explorations of access and
+And yet, in these explorations of access and
 connectivity looms the figure of disconnection. Sometimes it is willful,
 as in the case of internet blackouts, at other times it is accidental, a
 by-product of procedural bureaucracy, and on yet other occasions it is
@@ -338,8 +336,7 @@ idiosyncrasies and imaginaries of the internet from India.
 Maybe ‘governance’ should not be in the list of unsuspecting words to
 talk about the internet. Or so we thought, given that so much of the
 internet seems to be nothing more than an exercise in governance that
-accidentally happens to be about technology. []{#_Hlk110619528
-.anchor}Especially against the backdrop of the biometric citizenship
+accidentally happens to be about technology. Especially against the backdrop of the biometric citizenship
 project Aadhaar, against which all three sections stage themselves, it
 becomes inevitable to not just look at the governance of the internet
 but also the ways in which governance itself is being shaped by the
@@ -410,7 +407,7 @@ digital records is an act of creating digital dependence, which set up a
 clear trajectory of digital literacy which cannot be reversed or
 questioned.
 
-[]{#_Hlk110624932 .anchor}The idea of the nation-state and its enduring
+The idea of the nation-state and its enduring
 control of internet technologies to establish its dominion and power are
 also present in the continued conversations around protests, politics,
 and the policies that have been enacted, trying to make sense of the
@@ -482,13 +479,12 @@ infrastructure of the internets.
 The subject of digital studies is the subject of digital usage. Much
 attention has been given to the idea of the user, the peer, the digital
 native, the networked individual, that makes the nodes of the
-computational networks come to life. []{#_Hlk110626934
-.anchor}Especially with social media penetrations, and the forced move
+computational networks come to life. Especially with social media penetrations, and the forced move
 to digitize everything pandemic, leading to zoom fatigue and platform
 exhaustion, it is increasingly clear that even if the internet might
 have been made for cats, it predominantly shapes individual
 subjectivity. In this book, we try a different provocation.
-[]{#_Hlk110626972 .anchor}Through the three essays, we suggest that the
+Through the three essays, we suggest that the
 user, rather than this individuated, self-affirming,
 information-mongering self, has in fact been evacuated of meaning,
 agency, and autonomy because of the ways in which the person is
@@ -530,7 +526,7 @@ verified by opaque technological protocols. *Excess* sees how a
 mandatory interpellation of digital users in the repair and maintenance
 of their own data sets, performing the labor of keeping themselves
 alive, creates a ‘vacant citizenship’ that makes them participate in
-practices of slow violence. []{#_Hlk110628157 .anchor}The digital was
+practices of slow violence. The digital was
 supposed to fill the gaps in governance and social construction, but it
 seems to instead produce vacancies, which can be filled only by those
 who can bear the affordances of digital verification and the burden of

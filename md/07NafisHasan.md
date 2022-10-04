@@ -53,7 +53,7 @@ Media reports and other writing were bolstering these fears by
 quantifying casualties: ‘Over 22k Indian Websites, 114 Govt Portals
 Hacked between Apr 2017-Jan 2018’, read one newspaper report.[^07NafisHasan_1]
 
-[]{#_Hlk109122227 .anchor}Standing for a moment outside this threatening
+Standing for a moment outside this threatening
 present, one begins to see that the dangers being alluded to are in
 response to an original expectation from the juggernaut of digitization.
 This was an expectation of mobility, where information firmly lodged in
@@ -64,15 +64,14 @@ after decades of the digitization machine at work, possibly a reason for
 the grave reactions toward it. There is a robust, if brief, history of
 the datafication of government, which is not often recalled but is a
 reference point of the current predicament. Historically speaking, what
-we see now is a situation I term excess. []{#_Hlk109122378
-.anchor}Excess or the excesses of digitization become a vantage point to
+we see now is a situation I term excess. Excess or the excesses of digitization become a vantage point to
 illuminate the historical conditions and trajectory of digitization as a
 changing technopolitical assemblage of people, ideas, and technologies
 and their effects beyond expected outcomes. Other people interested in
 this history have asked and convincingly pointed out to the many
 political choices that have led to the present. In other words, we have
 some scholarly excavations of *why* digitization is in the state it is
-in. []{#_Hlk109811667 .anchor}Somewhat uniquely, this essay asks not why
+in. Somewhat uniquely, this essay asks not why
 but *how* we reached here. Also uniquely, the story of this how is
 revealed through a technological object: database management systems as
 a conglomeration of code and algorithms that came to define and direct
@@ -129,8 +128,8 @@ In 1993, Infosys recorded revenue of \$5 million.[^07NafisHasan_3] One year late
 that had jumped to \$9 million on the back of Finacle – a banking system
 that centralized customer data to a back-end database system, while
 allowing a proliferation of service at myriad front ends: at the branch,
-in the home, or online. [[]{#_Hlk109128420 .anchor}]{#_Hlk109128488
-.anchor}In a short period of time, Finacle went from 10 banks to 100,
+in the home, or online. 
+In a short period of time, Finacle went from 10 banks to 100,
 and then rocketed to 1,000 banks across 150 countries.[^07NafisHasan_4] A year later,
 in 1994, the automobile company Maruti introduced an Oracle database to
 keep track of a million moving parts in its Gurgaon manufacturing
@@ -209,7 +208,7 @@ conventionally viewed through a political economic lens of a withering
 state and emerging markets, and less often in its cultural impact on
 personhood.
 
-[]{#_Hlk109813550 .anchor}While emphasizing what I see as the tectonic
+While emphasizing what I see as the tectonic
 effects of a single technology, I do not elide the political; indeed, I
 hope to provide something of a techno-political account of
 post-liberalization in India: the ways in which political actions are
@@ -235,7 +234,7 @@ Let us consider some of the ways in which the entry of RDBMS helps
 account for the momentous changes that occurred in the 90s. One view on
 neoliberalism sees it as taking place autonomously, in what Thomas
 Friedman names ‘golden enclaves’ existing outside state
-institutions.[^07NafisHasan_10] []{#_Hlk109813664 .anchor}A look at the ‘national’
+institutions.[^07NafisHasan_10] A look at the ‘national’
 career of technologies suggests otherwise – the founding of the call
 center industry in India that peaked in the late 90s, for example.
 
@@ -262,7 +261,7 @@ from companies like Oracle and Microsoft to run their centers. Without
 that, it would have been prohibitively expensive to import RDBMS and to
 make the call center business profitable for firms abroad.
 
-[]{#_Hlk109143677 .anchor}The point of this example is to show that
+The point of this example is to show that
 tracing the career of technologies of neoliberalism such as RDBMS can
 *reconceptualize neoliberalism itself*, taking it away from Friedman’s
 golden enclaves and into entangled governmental policies (allowing the
@@ -435,7 +434,7 @@ how would the relationship of bureaucracy and society change when
 information once lodged in office registers now became untethered and
 mobile?
 
-[]{#_heading=h.gjdgxs .anchor}In the initial years of digitization, this
+In the initial years of digitization, this
 relationship did not change very much. Early attempts at dislodging data
 concealed in dusty registers of district offices were, as I describe
 below, thwarted by available infrastructure. While these attempts aimed
@@ -561,7 +560,7 @@ citizenship premised on state-endowed rights and entitlements? I have
 been developing an idea of service as a form of value which the
 technical arrangement of RDBMS sets into motion. I intend now to
 conceptualize what a service-based approach to *citizenship* might look
-like. [[]{#_Hlk109301508 .anchor}]{#_Hlk109301683 .anchor}I do this by
+like. I do this by
 thinking about how technical configurations like RDBMS aid us in forming
 neoliberal subjects with particular characteristics, and how this in
 turn produces an altered terrain of citizenship: for instance, a shift
@@ -576,7 +575,7 @@ have often been thought of as collective national projects demanding
 contributions from all citizens, and yet the question of responsibility
 has not received adequate interest.
 
-[]{#_Hlk109572586 .anchor}Individual responsibility,
+Individual responsibility,
 self-responsibility, or *responsibilization*, as new forms in which the
 governed are encouraged, freely and rationally, to conduct
 themselves,[^07NafisHasan_25] are a neoliberal hallmark in which citizenship recasts
@@ -587,7 +586,7 @@ Ong’s terms, applies an ‘optimizing’[^07NafisHasan_26] technique to produc
 of its populations that crucially depends on an ethic of responsibility
 among its citizens.
 
-[]{#_Hlk109573231 .anchor}Such an ethic of responsibility, one that
+Such an ethic of responsibility, one that
 technical arrangements such as RDBMS actively produce, is one of
 entrepreneurial governance producing entrepreneurial citizens. The
 stories of both people and institutions affected by RDBMS that I chart
@@ -601,7 +600,7 @@ were the business consultants and marketing men who spearheaded RDBMS
 into India and who took to multiple channels to advertise its positive
 effects.
 
-[]{#_Hlk109332531 .anchor}I have in mind people like Narasimhiah
+I have in mind people like Narasimhiah
 Seshagiri,[^07NafisHasan_27] who built a network before the internet that could relay
 information about planning and development from one corner of the
 country to the other, and J. G. Krishnayya, a management consultant, who
@@ -642,8 +641,7 @@ Government’ were all written in direct and interventionist language and
 were meant to provide practical and yet transformative advice on how to
 change things for the future. He prescribed both ‘a new philosophy of
 information in government’ and ways to operationalize that philosophy
-through the design of data and systems.[^07NafisHasan_30] []{#_Hlk109337935
-.anchor}In Section II, I describe the development of this
+through the design of data and systems.[^07NafisHasan_30] In Section II, I describe the development of this
 entrepreneurial ethos, propelled by new techniques of organizing data,
 which drove the datafication of a large number of government programs,
 from land management to identity and health records.
@@ -669,7 +667,7 @@ citizens (like rights) but are instead tacitly elided by the state and
 its agents and shifted onto citizens. As men and women across the
 country are busy repairing their data, damaged as a result of the
 excesses of digitization, *citizenship is experienced as a form of
-violence*. []{#_Hlk109339623 .anchor}This is not structural,
+violence*. This is not structural,
 spectacular, or episodic forms of violence that scholars of the state
 have alerted us to, but what I call a form of ‘slow violence’ given the
 slow and concealed way repair creeps into a citizen’s life.
@@ -681,7 +679,7 @@ slow and concealed way repair creeps into a citizen’s life.
 Many years before data governance came to be synonymous with the
 digital, the Planning Commission’s Monitoring and Information Division
 (M&I) had begun seriously thinking about an ‘Information System’ that
-envisaged nodes and flow of data. []{#_Hlk109342622 .anchor}The
+envisaged nodes and flow of data. The
 conceptual and logical work generated around building this system – the
 debates over data and its flow – revealed the people in charge of
 building the system, their biases and preferences. Most of all, it
@@ -963,7 +961,7 @@ system for individual sets of data. NIC’s job was to create a
 standardized sectoral DBMS allowing sector-wise comparison, even when
 the data itself was stored in the Planning Commission’s supercomputer.
 
-[]{#_Hlk109671425 .anchor}NIC launched this project with three priority
+NIC launched this project with three priority
 data banks, or information systems, for three sectors that the
 Commission identified as having a ‘pronounced influence on the national
 economy,[^07NafisHasan_46]^ ^namely agriculture, manpower, and industry and
@@ -997,7 +995,7 @@ and tabularized format. These sectoral DBMS databases were to be hosted
 on a main computer in New Delhi, purchased by the UNDP, and linked to
 minicomputers in states and districts.
 
-[]{#_Hlk109675723 .anchor}The Commission’s centralized data bank did
+The Commission’s centralized data bank did
 eventually take off, but the infrastructural work of creating a network
 that would link the supercomputer with the minis, of designing the
 format for data storage in the DBMS, and, most importantly, of getting
@@ -1100,7 +1098,7 @@ possibilities, the entities were ordered into tables, with other
 constraints in mind, such as not increasing the columns of a table
 beyond 15. This was the background of tables. The front itself was an
 interactive screen that allowed for various combinations of the entities
-to be seen. []{#_Hlk109690993 .anchor}Codd, when pioneering the database
+to be seen. Codd, when pioneering the database
 model, had stressed on this feature of RDBMS,[^07NafisHasan_50] and indeed the fact
 that people using it did not have to worry about the ordering of the
 tables or the E-R relations would be a critical component of its
@@ -1186,7 +1184,7 @@ First, however, a short description of the promises and perils of RDBMS
 and the entrepreneurial spirit it gave rise to as it entered India in
 the 90s. In several of the statements of its early promoters can also be
 read a call for responsibility as a potential for better governance of
-the nation. []{#_Hlk109694575 .anchor}Such a spirit would be further
+the nation. Such a spirit would be further
 tied to the arrival of ‘experts’, different from incumbent bureaucrats
 and managers, leading eventually, I suggest below in my example of the
 digitization of landownership data, to a further weakening of control
@@ -1214,7 +1212,7 @@ regardless of database location or desktop platform \[…\] helping define
 standards that will make technology more accessible and affordable to
 users’.[^07NafisHasan_57]
 
-[]{#_Hlk109730664 .anchor}Meanwhile, Sybase, best known for aiding the
+Meanwhile, Sybase, best known for aiding the
 computerization of Wall Street in the mid-80s with its RDBMS software
 product made exclusively for Sun Microsystems’ client-server
 configuration, tied up with Hindustan Computers Ltd., better known as
@@ -1590,7 +1588,7 @@ discrete and transactable fashion. Just as claims to rights and
 entitlements are made unequally, repair too is practiced unevenly. This
 is not a problem of capacity, rather it is the concealment of data error
 within ongoing material disruptions between citizens and states.
-[]{#_Hlk109781542 .anchor}When citizens are required to bear the
+When citizens are required to bear the
 responsibility of repair, it is not a visible transfer of
 responsibility, rather it is a tacit, neglected, fringe encounter,
 embroiled within ongoing material disruptions between the citizen and
@@ -2174,18 +2172,18 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_23]: ‘Over 22k Indian Websites, 114 Govt Portals Hacked’.
 
 [^07NafisHasan_24]: See ‘Chapter 6: Transfer of Personal Data Outside India’, in
-    []{#_Hlk109788622 .anchor}Committee of Experts under the
+   Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India, 2018,
     https://www.meity.gov.in/writereaddata/files/Data\_Protection\_Committee\_Report.pdf..
-    Also see, []{#_Hlk109788644 .anchor}Parminder Jeet Singh, ‘Bringing
+    Also see, Parminder Jeet Singh, ‘Bringing
     Data under the Rule of Law’, *The Hindu*, 20 September 2018,
     https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece.
 
 [^07NafisHasan_25]: Barry et al., *Foucault and Political Reason.*
 
-[^07NafisHasan_26]: []{#_Hlk109788667 .anchor}Aihwa Ong, *Neoliberalism as Exception:
+[^07NafisHasan_26]: Aihwa Ong, *Neoliberalism as Exception:
     Mutations in Citizenship and Sovereignty*, Durham: Duke University
     Press, 2006, p. 6.
 
@@ -2197,7 +2195,7 @@ government since the Commission built its first centralized database?
     for much of the e-governance to come. See Sukumar, *Midnight’s
     Machines*.
 
-[^07NafisHasan_28]: []{#_Hlk109788692 .anchor}Lilly Irani, *Chasing
+[^07NafisHasan_28]: Lilly Irani, *Chasing
     Innovation: Making Entrepreneurial Citizens in Modern India*,
     Princeton: Princeton University Press, 2019.
 
@@ -2212,7 +2210,7 @@ government since the Commission built its first centralized database?
     Jayal, *Citizenship and its Discontents: An Indian History*,
     Cambridge, MA: Harvard University Press, 2013, p. 3.
 
-[^07NafisHasan_32]: []{#_Hlk109788725 .anchor}Planning Commission, ‘Standing
+[^07NafisHasan_32]: Planning Commission, ‘Standing
     Committee for Directing and Reviewing Improvement of Data Base for
     Planning and Policy Making’, Vol. I, 1978, File No.
     O-11-17/1/78-M&I, National Archives of India.
@@ -2232,7 +2230,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_38]: Krishnayya et al, *sacm*, p. 2.
 
-[^07NafisHasan_39]: []{#_Hlk109818548 .anchor}Unnamed File, File No. O-11717/5/75
+[^07NafisHasan_39]: Unnamed File, File No. O-11717/5/75
     M&I, National Archives of India.
 
 [^07NafisHasan_40]: Krishnayya et al, *sacm*, p. 2.
@@ -2254,13 +2252,13 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_45]: Unnamed File. File No. O-11717/5/75 M&I, National Archives of
     India.
 
-[^07NafisHasan_46]: []{#_Hlk109818583 .anchor}‘Setting up of a National Informatics
+[^07NafisHasan_46]: ‘Setting up of a National Informatics
     Centre - Proposal from the Electronics Commission’, File No.
     11017/5/77 M&I, National Archives of India.
 
 [^07NafisHasan_47]: ‘Setting up of a National Informatics Centre’.
 
-[^07NafisHasan_48]: []{#_Hlk109788760 .anchor}Michael Castelle, ‘Relational and
+[^07NafisHasan_48]: Michael Castelle, ‘Relational and
     Non-Relational Models in the Entextualization of Bureaucracy’,
     *Computational Culture* 3 (November 2013).
     http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/.
@@ -2274,22 +2272,22 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_52]: Castelle, ‘Relational and Non-Relational Models’.
 
-[^07NafisHasan_53]: []{#_Hlk109788788 .anchor}David Alan Grier, ‘The Relational
+[^07NafisHasan_53]: David Alan Grier, ‘The Relational
     Database and the Concept of the Information System', *IEEE Annals of
     the History of Computing* 34.4 (2012): 13.
 
-[^07NafisHasan_54]: [[]{#_Hlk109695774 .anchor}]{#_Hlk109788828 .anchor}Dewang Mehta,
+[^07NafisHasan_54]: Dewang Mehta,
     ‘India on the Global Pathway’, *Times of India*, 7 February 1996,
     ProQuest Historical Newspapers.
 
 [^07NafisHasan_55]: Campbell-Kelly, ‘The RDBMS Industry', p. 18.
 
-[^07NafisHasan_56]: []{#_Hlk109788853 .anchor}‘IDM-Informix Tie-up’, *Times of
+[^07NafisHasan_56]: IDM-Informix Tie-up, *Times of
     India*, 24 December 1989, ProQuest Historical Newspapers.
 
 [^07NafisHasan_57]: ‘IDM-Informix Tie-up’.
 
-[^07NafisHasan_58]: []{#_Hlk109788871 .anchor}Aprajita Sikri, ‘A US-Indian Database
+[^07NafisHasan_58]: Aprajita Sikri, ‘A US-Indian Database
     Venture’, *India Abroad*, 1 June 1990, ProQuest Historical
     Newspapers.
 
@@ -2297,26 +2295,25 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_60]: Campbell-Kelly, ‘The RDBMS Industry', p. 22.
 
-[^07NafisHasan_61]: []{#_Hlk109788893 .anchor}‘Oracle Opens India Liaison Office’,
+[^07NafisHasan_61]: ‘Oracle Opens India Liaison Office’,
     *Dataquest*, 1991,
     https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991.
 
 [^07NafisHasan_62]: ‘Oracle Opens India Liaison Office’.
 
-[^07NafisHasan_63]: []{#_Hlk109788912 .anchor}‘Nalanda Computer Education for RDBMS’,
+[^07NafisHasan_63]: ‘Nalanda Computer Education for RDBMS’,
     *The* *Times of India*, 29 May 1991, ProQuest Historical Newspapers.
 
-[^07NafisHasan_64]: []{#_Hlk109788942 .anchor} ‘Overseas Appointments’, *The* *Times
+[^07NafisHasan_64]: ‘Overseas Appointments’, *The* *Times
     of India*, 20 September 1992, ProQuest Historical Newspapers;
-    []{#_Hlk109788959 .anchor}‘Appointments,’ *The Times of India*, 6
-    April 1993, ProQuest Historical Newspapers; []{#_Hlk109788979
-    .anchor}‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
+    ‘Appointments,’ *The Times of India*, 6
+    April 1993, ProQuest Historical Newspapers; []‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
     ProQuest Historical Newspapers.
 
-[^07NafisHasan_65]: []{#_Hlk109789003 .anchor}‘On the Move’, *The* *Times of India*,
+[^07NafisHasan_65]: ‘On the Move’, *The* *Times of India*,
     22 March 1993, ProQuest Historical Newspapers.
 
-[^07NafisHasan_66]: []{#_Hlk109789015 .anchor}Madhu Valluri, ‘How Info-tech can Help
+[^07NafisHasan_66]: Madhu Valluri, ‘How Info-tech can Help
     Environment’, *The Times of India*, 14 April 1993, ProQuest
     Historical Newspapers.
 
@@ -2324,20 +2321,20 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_68]: ‘Pune Bourse Goes Online’.
 
-[^07NafisHasan_69]: []{#_Hlk109789041 .anchor}‘4-Day Conference Opens’, *The* *Times
+[^07NafisHasan_69]: ‘4-Day Conference Opens’, *The* *Times
     of India*, 8 February 1996, ProQuest Historical Newspapers.
 
-[^07NafisHasan_70]: []{#_Hlk109789058 .anchor}Rajesh Y.P., ‘Software Firms Eye a Pie
+[^07NafisHasan_70]: Rajesh Y.P., ‘Software Firms Eye a Pie
     in Banking’, *News - India Times*, 10 July 1998, ProQuest Historical
     Newspapers
 
-[^07NafisHasan_71]: []{#_Hlk109789091 .anchor}Moneesh Narula, ‘Bank Automation Gets
+[^07NafisHasan_71]: Moneesh Narula, ‘Bank Automation Gets
     Competitive’, *The Times of India*, 4 September 1993, ProQuest
     Historical Documents.
 
 [^07NafisHasan_72]: Narula, ‘Bank Automation Gets Competitive’.
 
-[^07NafisHasan_73]: []{#_Hlk109789111 .anchor} T. Narayanaswami, ‘The Central
+[^07NafisHasan_73]: T. Narayanaswami, ‘The Central
     Solution’, *The Times of India*, 7 May 1996, ProQuest Historical
     Documents.
 
@@ -2349,8 +2346,7 @@ government since the Commission built its first centralized database?
     difficult to obtain in large RDBMS-based applications. Nowadays,
     hardware resources were no longer a constraint, and the flexible
     data structures possible with an RDBMS core would greatly enhance
-    overall application flexibility’. See []{#_Hlk109789144
-    .anchor}Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
+    overall application flexibility’. See []Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
     ‘Modernization of Passenger Reservation System: Indian Railway’s
     Dilemma, *ICIS 2006 Proceedings* 98 (2006).
     http://aisel.aisnet.org/icis2006/98.
@@ -2361,11 +2357,11 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_76]: Srivastava et al., ‘Modernization of Passenger Reservation
     System’, p. 437.
 
-[^07NafisHasan_77]: []{#_Hlk109789174 .anchor}R.S. Smith, ‘Rule-by-Records and
+[^07NafisHasan_77]: R.S. Smith, ‘Rule-by-Records and
     Rule-by-Reports: Complementary Aspects of British Imperial Rule of
     Law’, *Contributions to Indian sociology* 19.1 (1985): 153–176.
 
-[^07NafisHasan_78]: []{#_Hlk109789192 .anchor}D.C. Wadhwa, ‘Guaranteeing Title to
+[^07NafisHasan_78]: D.C. Wadhwa, ‘Guaranteeing Title to
     Land’, *Economic and Political Weekly* 37.47 (2002): 4704.
 
 [^07NafisHasan_79]: Personal conversation with the cofounder of Comat Technologies,
@@ -2382,7 +2378,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_82]: This was made apparent to me in conversations with the architect
     of the Bhoomi database in Bangalore, in August 2019.
 
-[^07NafisHasan_83]: []{#_Hlk109789233 .anchor}Akshatha M, ‘Land Sharks Hack Bhoomi
+[^07NafisHasan_83]: Akshatha M, ‘Land Sharks Hack Bhoomi
     Data, Shift Government Land Title’, *The Economic Times*, 10
     September 2018,
     https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms.
@@ -2392,11 +2388,11 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_85]: Akshatha, ‘Land Sharks Hack Bhoomi Data’.
 
-[^07NafisHasan_86]: []{#_Hlk109789261 .anchor}Elisa Bertino and Ravi Sandhu,
+[^07NafisHasan_86]: Elisa Bertino and Ravi Sandhu,
     ‘Database Security—Concepts, Approaches, and Challenges’, *IEEE
     Transactions on Dependable and Secure Computing* 2.1 (2005): 2.
 
-[^07NafisHasan_87]: []{#_Hlk109789368 .anchor}Michael Geertz and Madhavi Gandhi,
+[^07NafisHasan_87]: Michael Geertz and Madhavi Gandhi,
     ‘Security Re-engineering for Databases: Concepts and Techniques’, in
     Michael Geertz and Sushil Jajodia (eds) *Handbook of Database
     Security: Applications and Trends*, New York: Springer, 2008, pp.
@@ -2404,24 +2400,24 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_88]: Geertz and Gandhi, ‘Security Re-engineering for Databases’.
 
-[^07NafisHasan_89]: []{#_Hlk109789436 .anchor}Harshavardhan Kayarkar, ‘Classification
+[^07NafisHasan_89]: Harshavardhan Kayarkar, ‘Classification
     of Various Security Techniques in Databases and their Comparative
     Analysis’, *arXiv preprint arXiv* 1206.4124 (2012): 1 and Seul-Gi
     Choi and Sung-Bae Cho, ‘Evolutionary Reinforcement Learning for
     Adaptively Detecting Database Intrusions’, *Logic Journal of the
     IGPL* 28.4 (2020): 449–460.
 
-[^07NafisHasan_90]: []{#_Hlk109789463 .anchor}Y. Khmelevsky, ‘Information and Data
+[^07NafisHasan_90]: Y. Khmelevsky, ‘Information and Data
     Protection Within a RDBMS’, *Condensed Matter Physics* 11.4 (2008):
     761–765.
 
-[^07NafisHasan_91]: []{#_Hlk109789496 .anchor}Michael Geertz and Sushil Jajodia (eds)
+[^07NafisHasan_91]: Michael Geertz and Sushil Jajodia (eds)
     *Handbook of Database Security: Applications and Trends*, New York:
     Springer, 2008, p. v.
 
 [^07NafisHasan_92]: Bertino and Sandhu, ‘Database Security, p. 2.
 
-[^07NafisHasan_93]: []{#_Hlk109818678 .anchor}‘eDistrict Mission Mode Project Under
+[^07NafisHasan_93]: ‘eDistrict Mission Mode Project Under
     the National eGovernance Plan. Pilot Implementation Guidelines’,
     Department of Information Technology, Government of India, January
     2009,
@@ -2473,13 +2469,13 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_111]: ‘Setting up of a National Informatics Centre’, p. 21.
 
-[^07NafisHasan_112]: []{#_Hlk109818736 .anchor}‘Request for Proposal (RFP) For
+[^07NafisHasan_112]: ‘Request for Proposal (RFP) For
     Selection of SWAN TPA’,
     https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf.
 
 [^07NafisHasan_113]: ‘Request for Proposal (RFP) For Selection of SWAN TPA’, p. 8.
 
-[^07NafisHasan_114]: []{#_Hlk109818751 .anchor}‘WGITA – IDI Handbook on IT Audit for
+[^07NafisHasan_114]: ‘WGITA – IDI Handbook on IT Audit for
     Supreme Audit Institutions’, February 2014,
     https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF.
 
@@ -2491,7 +2487,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_118]: ‘WGITA – IDI Handbook on IT Audit’, p. 90.
 
-[^07NafisHasan_119]: []{#_Hlk109789940 .anchor}Nils Gilman, Jesse Goldhammer and
+[^07NafisHasan_119]: Nils Gilman, Jesse Goldhammer and
     Steven Weber, ‘Can You Secure an Iron Cage?’, *Limn*, Issue 8,
     February 2017,
     https://limn.it/articles/can-you-secure-an-iron-cage/.

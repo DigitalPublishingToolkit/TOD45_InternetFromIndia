@@ -22,8 +22,7 @@ of titles supported by the Centre for the Study of Culture & Society
 (CSCS), Bangalore, under the broad theme of **Culture and Democracy at
 the Millennial Turn**.
 
-[[[[]{#_Hlk110553772 .anchor}]{#_Hlk110554899 .anchor}]{#_Hlk110554446
-.anchor}]{#_Hlk110554793 .anchor}Turns of millennia are usually
+Turns of millennia are usually
 occasions to review forms of knowledge production for what they have
 achieved. In India, however, such an endeavor takes unusual turns.
 Politically bracketed by globalization at one end and the onset of
@@ -58,7 +57,7 @@ resources and networks that good interdisciplinary work needed could
 never be supported within any single institution, however large or
 well-funded.
 
-[]{#_Hlk110555692 .anchor}It is clear that this period did not last. One
+It is clear that this period did not last. One
 sign of its demise may well be the loss of faith in the internet's
 neutrality, signaled by meltdowns, funding crises, corruption, fears of
 neoliberal excess, terrorist threats, surveillance mechanisms, and new
@@ -72,7 +71,7 @@ need to be viewed alongside the expectation that new practices of
 pedagogy and public engagement be given full recognition as research
 domains. Both came together – this series proposes – in the larger
 academic response mounted to the political challenges of the time.
-[]{#_Hlk110556202 .anchor}Across the literature we find outlined an era
+Across the literature we find outlined an era
 that was politically fraught, facing crises that were at once of the
 moment and requiring a larger historical frame, capable of some radical
 interdisciplinary/institutional barrier-breaking, and sustained if only

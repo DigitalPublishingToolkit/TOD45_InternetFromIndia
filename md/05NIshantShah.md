@@ -46,7 +46,7 @@ abuse directed at them through institutional and informal organization.
 The excess of information, or information overload, was no longer just
 an information design and data management question; it had become a
 weaponized mode of address, leading to silencing, intimidation, and
-harm. []{#_Hlk104992958 .anchor}While we were processing these
+harm. While we were processing these
 questions, the COVID-19 pandemic shrunk our lives into rectangles on
 screens and the weariness of increased digital engagement – encapsulated
 in the cultural zeitgeist as ‘Zoom fatigue’ – led to people’s
@@ -57,7 +57,7 @@ digitization and the insufferable weight of information, realizing that
 the thrill of plenty was now manifesting as the tyranny of overload.
 
 Information overload became the unspoken state of digital being and it
-took us by surprise. []{#_Hlk104821862 .anchor}The assurances of search
+took us by surprise. The assurances of search
 engines, database management, algorithmic curation, peer-2-peer
 dissemination, wisdom of crowds, intuitive information shaping, and
 emancipation from the task of remembering everything by putting it into
@@ -135,7 +135,7 @@ anchor in its second uprising), and casually threaten her with rape and
 death while inviting his followers to join him in teaching Joshua a
 lesson.
 
-[]{#_Hlk105158700 .anchor}The video, which has since been deleted and
+The video, which has since been deleted and
 re-uploaded multiple times, went viral amidst polarized responses from
 those supporting Mishra and those appalled at the blatant display of
 toxic masculinity and aggression woefully naturalized in the
@@ -223,7 +223,7 @@ take almost *any* digital content and expect something *more*, something
 *hidden*, something *extra* than what meets the eye or is available on
 the surface indicates a particular condition where blame,
 responsibility, and culpability become ever negotiated and constantly
-oscillating values without fixity. []{#_Hlk105595491 .anchor}The
+oscillating values without fixity. []The
 production of Joshua, as a perpetrator who had to apologize for her
 acts, and the presentation of Mishra, as a victim being wronged by angry
 Twitterati, are not exceptional, but rather a regular occurrence in an
@@ -237,7 +237,7 @@ paradoxes, this essay provides a symptomatic reading of three major
 *digital crises* that have emerged in India (along with the rest of the
 world) over the last two decades that saw an astonishing democratization
 of digital technologies even as it saw the digitization of democracy.
-[]{#_Hlk106243065 .anchor}Building through these crises, the sections in
+Building through these crises, the sections in
 this essay help us understand the implications of a naturalized
 information overload, and how such a condition allows us to unpack the
 almost paralyzed debates on misinformation, verification, fake news, and
@@ -256,10 +256,9 @@ information subjects. We increasingly define information as a
 other. Our informational condition is now also what defines our
 authorship, which in turn defines who speaks, on behalf of whom, in what
 voice, and with what authority. Our questions of agency, choice,
-freedom, and truth are all tied to conditions of []{#_Hlk105599465
-.anchor}informationality.
+freedom, and truth are all tied to conditions of informationality.
 
-[]{#_Hlk105600372 .anchor}It appears also to be widely accepted that
+It appears also to be widely accepted that
 such a condition of informationality exists at three different levels,
 in the three kinds of relationships we have with information. First, as
 subjects *of* information, where we don’t need personal and social media
@@ -279,10 +278,9 @@ preferences, and desires are continuously designed and influenced by a
 variety of other information hubs. This is at the heart of communication
 and marketing, and this is also the hold, in analogue media, of
 advertising and propaganda. It is, then, not surprising that with the
-rise of algorithmic []{#_Hlk105619175 .anchor}data mining practices we
+rise of algorithmic data mining practices we
 are being written more and more into information structures that
-*determine various markers of who we think we are*. []{#_Hlk105619306
-.anchor}An emerging global concern of invisible data being stored and
+*determine various markers of who we think we are*. An emerging global concern of invisible data being stored and
 circulated and manipulated and reintroduced into our lives is
 essentially a recognition that we are more written against than writing.
 
@@ -422,7 +420,7 @@ crashing, banks coming to a halt – but a sudden savagery that we would
 all regress into because the machines that regulated our information
 consumption would give up on their task of information regulation.
 
-[]{#_Hlk105942197 .anchor}I give you this huge, ahistorical, symptomatic
+I give you this huge, ahistorical, symptomatic
 overview to go back to my proposition – that somewhere, in the first two
 decades of the 21st century, our relationship with information shifted,
 and that this shift is perhaps best characterized by information
@@ -474,12 +472,11 @@ The information overload crisis, as in the case of the Joshua–Mishra
 controversy, can be studied – and has indeed been mainly analyzed – at
 the level of content: in editorials, analyses and conversations about
 the nature of hate speech and the polarizing formats of digital
-engagement. []{#_Hlk105943236 .anchor}However, such analyses do not
+engagement. However, such analyses do not
 always help us understand the phenomenon where *both* Mishra and Joshua
 are presented as victims, and how *all* the narratives seem to be
 received as potentially fake and are thus at once informationally
-overwhelming as well as deficient in credibility. []{#_Hlk105943676
-.anchor}This particular condition of information overload as both
+overwhelming as well as deficient in credibility. This particular condition of information overload as both
 *saturated* and *depleted* by informationality has to be understood as
 *itself* a crisis as opposed to the *reason* for a crisis. It
 establishes information overload not as a future horizon or a historical
@@ -579,7 +576,6 @@ crises, but are made invisible by the focus on the technological terrain
 and the idea of the user as the predominant way of describing and
 resolving these crises.
 
-[]{#_Toc54550966 .anchor}
 
 ## Your Access/Accessing You
 
@@ -648,8 +644,7 @@ system, or computer network.[^05NIshantShah_35]
 
 Even in this definition, both the conditions and means of access are
 clearly nuanced. Access was not just about usage *but any meaningful
-interaction with the entire digital ecosystem*. []{#_Hlk105976834
-.anchor}Access was discussed in the context of unauthorized access;
+interaction with the entire digital ecosystem*. Access was discussed in the context of unauthorized access;
 storage, retention, and retrieval; licensing and public access;
 availability and perpetuity; security and legitimation; denial and
 maleficent blockage of access; privacy and replication of information;
@@ -668,7 +663,7 @@ practices recognize lack of access to digital infrastructure as an axis
 of discrimination and seek to invest in creating access
 opportunities.[^05NIshantShah_37]
 
-[]{#_Hlk105978858 .anchor}Access, here, typically carries a double bind
+Access, here, typically carries a double bind
 of anxiety. On the one hand, it generates anxiety about the need to
 *grant* access. On the other, and immediately afterward, it triggers
 concerns about the *control and regulation* of practices that emerge.
@@ -974,7 +969,7 @@ transgressive access that is also the most popular (but forgotten in
 viral time) is the story of the famous DPS MMS (Delhi Public School
 Multimedia Messaging Service) case. A short, grainy, low-resolution clip
 that portrayed two students, allegedly studying at the Delhi Public
-School in New Delhi, went viral in 2004. []{#_Hlk106119476 .anchor}The
+School in New Delhi, went viral in 2004. The
 pornographic clip, shot by the male student using his then cutting-edge
 camera-enabled phone, shows the face of the female student performing
 fellatio as he verbally encouraged her. The male student leaked the
@@ -1172,7 +1167,7 @@ As network engineer and theorist Duncan Watts points out in his ‘Small
 World Phenomenon’, the digital network is essentially a collection of
 small worlds – each world self-contained and self-referential, but with
 an infinite capacity for expansion and replication.[^05NIshantShah_61]
-[]{#_Hlk106157449 .anchor}The regulation of physical computation
+The regulation of physical computation
 networks like the internet needs a different mode of control, one which
 sets up instances of governance for every ‘small world’ and yet has the
 capacity to scale that to each world that is simultaneously generic and
@@ -1205,8 +1200,7 @@ nature of the content. The service provider – also known as intermediary
 – consisting of telecommunication companies, platform providers,
 application owners, device manufacturers – was generally imagined as
 neutral, whereas the informational relationship and its content was a
-direct relationship between the state and the []{#_Hlk106179558
-.anchor}citizen-user. In the face of new networked logics, through the
+direct relationship between the state and the citizen-user. In the face of new networked logics, through the
 1990s it became quickly clear that the logic and logistics of the
 central governmental regulation were not going to work. Especially with
 the rise of hate speech, gendered violence, terrorist recruitment, fake
@@ -1247,7 +1241,7 @@ monitoring the access to its ‘computer resources’, but also the control
 over ‘removal of access to any information, data, or communication link
 by an intermediary after such information, data, or communication link
 comes to the actual knowledge of a person authorized by the
-intermediary’.[^05NIshantShah_67] []{#_Hlk106198980 .anchor}The guidelines help us
+intermediary’.[^05NIshantShah_67] The guidelines help us
 understand that access is a two-way link; they monitor not only persons
 accessing but also persons being accessed. They identify persons who
 might be violated because of *other* persons accessing *their* data and
@@ -1413,7 +1407,7 @@ participate as data subjects from the new data owners produced in these
 conditions. The subject remains informationally circumscribed but also
 severed from the regulation of the digital spaces and, ironically,
 information overload remains the way by which this exclusion is
-engineered. []{#_Toc54550971 .anchor}
+engineered.
 
 ## Stitching Things Together
 
@@ -1514,8 +1508,7 @@ current technologies.
 
 Alternatively, if we were to extrapolate from their implicit messages,
 the only way to fight these current technologies of information overload
-is to develop yet more technologies of []{#_Hlk106212262
-.anchor}counter-information overload. In many ways, this debate is
+is to develop yet more technologies of counter-information overload. In many ways, this debate is
 reminiscent of the first propositions by Alan Turing during the Second
 World War to break the code of encrypted Nazi information by developing
 decryption machines. Alan Turing’s so called ‘Turing Test’ is often
@@ -1536,7 +1529,7 @@ proposing that computer networks are more adept at *manipulating
 structures and symbols that we may think of as human language* and can
 thus produce complex results that can no longer be understood or decoded
 by human faculties. The imitation machine, then, would be the answer to
-the encryption produced by one machine. []{#_Hlk106213084 .anchor}At the
+the encryption produced by one machine. At the
 level of both scale and complexity as well as of speed, the measure of
 one machinic process would be another machinic process, or rather, the
 best imitation of a machine would be another machine so that when
@@ -1544,7 +1537,7 @@ machines start speaking to each other, the human in the information
 circuit would either become unbearably overloaded or outright excluded
 from this information transfer.
 
-[]{#_Hlk106213124 .anchor}Turing was effectively warning us that if we
+Turing was effectively warning us that if we
 continued to reduce language to nothing more than granular arrangement
 of data, strip it off all the different contexts, bodies, and affects
 that give it meaning, we would soon find language becoming a paralyzing
@@ -1599,14 +1592,14 @@ inevitable.
 
 ## Making of a Youser
 
-[]{#_Hlk106214937 .anchor}The idea of the youser was perhaps most
+The idea of the youser was perhaps most
 visible in two almost science-fiction-like predictions that were made in
 2014 by two of the biggest digital technology actors, showing us the
 imagined future of data-driven realities. Google announced the backing
 of a life-extension company called Calico that aimed to cure not disease
 but death itself, thus promising immortality. Such immortality would be
 achieved through extensive data mining of the human code.
-[]{#_Hlk106214914 .anchor}A company that combines biotechnology,
+A company that combines biotechnology,
 artificial intelligence, deep-learning algorithms, and pharmaceutical
 experiments was now sure that deep data mining that allowed for
 unprecedented and unfathomable intimacy of code with human biology would
@@ -1991,7 +1984,7 @@ Thomas Poell: *programmability*, *popularity*, *connectivity*, and
 *datafication*. As they argue, in our data-driven computational
 networks, computation now ‘refers to the ability of networked platforms
 to render into data many aspects of the world that have never been
-quantified before’.[^05NIshantShah_111] []{#_Hlk106238477 .anchor}These
+quantified before’.[^05NIshantShah_111] These
 quantifications, unprecedented in their volume and velocity, being
 constantly consolidated and circulated, provide the platform basis for a
 whole new structure of *governance* which tries simultaneously to
@@ -2066,8 +2059,7 @@ networks to create these alternative ‘small worlds’. They find each
 other through weak ties of topical interest and the algorithmic
 correlation of weak ties to form a sustained community consolidated on
 unregulated platforms, where they emerge as a collective force rather
-than merely fringe elements of irrational thought. []{#_Hlk106241296
-.anchor}Thus the ‘content possibility’ that enables irrational
+than merely fringe elements of irrational thought. Thus the ‘content possibility’ that enables irrational
 argumentation, conspiracy theories, and absurd fantasies, none of which
 get either detected or filtered by the computational networks of weak
 ties because such networks are only tied to ‘network probability’ that
@@ -2240,8 +2232,7 @@ written.
 
 [^05NIshantShah_3]: ‘Agrima Joshua Case: Maha HM Anil Deshmukh Asks Mumbai Police to
     Take Legal Action against Comedian over Chhatrapati Shivaji Maharaj
-    Remark’, *The Free Press Journal*, 11 July 2020, []{#_Hlk105225732
-    .anchor}https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
+    Remark’, *The Free Press Journal*, 11 July 2020, https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
 
 [^05NIshantShah_4]: ‘Agrima Joshua Row: Comedian Posts Video Apologizing to Members of
     Political Parties’, *The Free Press Journal*, 11 July 2020,

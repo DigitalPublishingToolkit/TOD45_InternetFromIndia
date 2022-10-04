@@ -35,11 +35,10 @@ markdowns:$(alldocx) # convert docx to md
 	       	--atx-headers \
 		--template=essay.md.template \
 		-o $$md ; \
-		./scripts/md_urlize.py $$md $$i ; \
-		./scripts/md_unique_footnotes.py $$md ; 
+		./scripts/md_unique_footnotes.py $$md ; \
 	done
 
-
+	#	./scripts/md_urlize.py $$md $$i ; 
 
 icmls: $(allmarkdown)
 	for i in $(allmarkdown) ; \

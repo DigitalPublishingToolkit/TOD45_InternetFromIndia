@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 ## Introductory Note
 
-[]{#_Hlk106796107 .anchor}This essay was written in April and June 2020,
+This essay was written in April and June 2020,
 during India’s first COVID-19 lockdown, and bears the marks of that
 astonishing moment. The lockdown, as is well known, was announced on
 March 24, 2000 under the Disaster Management Act, 2005 by the sudden
@@ -44,7 +44,7 @@ and most severe internet shutdown the world has seen, in the state of
 Kashmir. And a scant four months earlier, nationwide protests had taken
 place against the 2019 amendment to the Citizenship Act, 1955, whose
 incendiary Section 2 (1)(b) was widely construed as directly targeting
-Muslim migrants. []{#_Hlk106800907 .anchor}The protests clubbed together
+Muslim migrants. The protests clubbed together
 four disparate initiatives by the state: the Citizenship (Amendment)
 Act, 2019 (CAA) together with a revised Unlawful Activities (Prevention)
 Act, 1967 (UAPA) that could now designate individuals as terrorists, the
@@ -52,7 +52,7 @@ National Register of Citizenship (NRC), and the technology that was
 believed to have been the one that enabled it all, India’s
 much-discussed Aadhaar or biometric authentication system.
 
-[]{#_Hlk106576139 .anchor}That April, as the jailed students (under
+That April, as the jailed students (under
 UAPA) of the Jamia Millia Islamia University came together with the
 parallel images of millions upon millions of India’s displaced migrants
 walking across the length of the subcontinent, or taking whatever means
@@ -62,7 +62,7 @@ incessantly evoked the Partition of India, the last time such a scale of
 subcontinental upheaval had taken place, it became clear that questions
 of identity – and the regulatory mechanisms defining it – needed,
 historically, conceptually, and politically, to take on a similar span.
-[]{#_Hlk106576037 .anchor}You could not account for the Disaster
+You could not account for the Disaster
 Management Act or the several technologies of ‘contact tracing’ it
 brought in (most notably the Arogya Setu health app) without at the same
 time looking at the history of legislation that went back to the
@@ -83,7 +83,7 @@ powers that looks a lot like the Emergency, with significant curbs on
 public movement, the imposition of censorship, and the incarceration of
 political dissidents.
 
-[]{#_Hlk106802330 .anchor}What may well be new, however, was the
+What may well be new, however, was the
 political weaponization of the massive digital infrastructure assembled
 since the 90s. This infrastructure, which initially saw the famous
 information technology revolution in the early 2000s, followed by the
@@ -92,7 +92,7 @@ citizens (label depending on the nature of the benefit), also
 undergirded a massive neoliberal state apparatus whose consequences may
 only now be apparent.
 
-[]{#_Hlk106802528 .anchor}For all its immediacy, the story may well go
+For all its immediacy, the story may well go
 back a long way. The fragmentation of ‘the people’ – the ‘we’ who wrote
 the Constitution of India – into multiple rights and duties also
 dispersed ‘the people’ into numerous new categories. These include,
@@ -103,7 +103,7 @@ new questions basic to the idea of identity, ranging from bodily
 incarceration and what one major Supreme Court judgment called ‘civil
 death’ to an increasingly invisible ‘virtuality’.
 
-[[]{#_Hlk107688614 .anchor}]{#_Hlk107688422 .anchor}This story is told
+This story is told
 here in bold strokes, over five parts that foreground the conception of
 ‘creep’ or the phenomenon of how tools, devices, structures, or modes
 develop a purpose far removed from their initial conception. The first
@@ -133,7 +133,7 @@ the public domain – a right directly threatened by the 2020 lockdown.
 
 ## 
 
-[]{#_Hlk107688707 .anchor}On April 10, 2020, three weeks into the first
+On April 10, 2020, three weeks into the first
 COVID-19 lockdown, Safoora Zargar, an MPhil student at Delhi’s Jamia
 Millia Islamia University, was arrested by Delhi Police. She was a
 member of a student body that had been active in the agitations that had
@@ -176,7 +176,7 @@ their homes continued to seek temporary shelter and basic help, the
 COVID-19 pandemic came upon us. In late March, a nationwide lockdown was
 declared, initially for three weeks but extended four times thereafter,
 leaving millions of migrant laborers stranded in conditions of extreme
-hunger and penury. []{#_Hlk107689280 .anchor}This lockdown was
+hunger and penury. This lockdown was
 authorized by an unusual emergency measure: a time-bound Order issued on
 March 24, 2020 invoking the Disaster Management Act, 2005. The Ministry
 of Home Affairs decided that it was ‘satisfied that the country is
@@ -198,7 +198,7 @@ anti-terrorist measure. In 1967, it had mainly targeted organizations,
 or ‘unlawful associations’, usually either Maoist or Muslim, trying to
 ‘bring about \[…\] the secession of a part of the territory of India
 from the Union, or \[…\] disrupt the sovereignty and territorial
-integrity of India’.[^06AshishRajadhayksha_5] []{#_Hlk107397835 .anchor}A major shift, of
+integrity of India’.[^06AshishRajadhayksha_5] A major shift, of
 some relevance to the argument that now follows, was the 2004 amendment
 that began recognizing ‘persons’ as also potential terrorists, making it
 possible to give such organizations an identifiable name and a face,
@@ -223,7 +223,7 @@ at the Patiala House Court refused to monitor the cases for once again,
 as the Delhi High Court too had said, the ‘time was not right’. This
 time the reason was the ‘circumstances ensuing in the nation due to
 pandemic’ that made it ‘not feasible to call for weekly reports and to
-monitor them’.[^06AshishRajadhayksha_8] []{#_Hlk107305633 .anchor}Zargar, who was several
+monitor them’.[^06AshishRajadhayksha_8] Zargar, who was several
 months pregnant when she was arrested, had been at the time of writing
 placed in solitary confinement, in her own interest according to the
 police, who officially renamed it as quarantine.[^06AshishRajadhayksha_9]
@@ -244,7 +244,7 @@ crisis of identity, somewhere between work and home. I shall attempt
 instead to address what seems to be a techno-normative maneuver that
 brings together several of the key issues in which both the arrested
 students and the stranded laborers find themselves implicated.
-[]{#_Hlk107309353 .anchor}The National Population Register or NPR, the
+The National Population Register or NPR, the
 ‘video footages, technical & other footprints’ that the police claim to
 have as the basis for Zargar’s arrest, the modified UAPA, and the
 astonishing Emergency powers that the pandemic vested in the hands of
@@ -281,8 +281,7 @@ individuated subjectivity, has historically been separated from another
 kind of undifferentiated subject, literally a *body to be enumerated*,
 to be fed, housed, incarcerated, quarantined. As a result, citizenship
 has a component part that is viewed as an entitlement, requiring
-qualifiers, impossible to make available for all. []{#_Hlk107309875
-.anchor}Niraja Gopal Jayal, in a complex argument which will appear many
+qualifiers, impossible to make available for all. Niraja Gopal Jayal, in a complex argument which will appear many
 times in this essay, identifies a differentiated citizenship, of status
 (or ‘thin’ citizenship) as against practice (‘thick’ citizenship).[^06AshishRajadhayksha_11]
 Within reform language, the first is meant to lead to the second in the
@@ -343,7 +342,7 @@ socio-technological rigidity. New questions of source codes and
 encryption arose even as a new battle over coercion and aspiration came
 to define, since 2000, the primary location for social rights in India.
 
-[]{#_Hlk107693396 .anchor}Divides between aspirational rather than
+Divides between aspirational rather than
 received identity would sharpen after 2004 when the arrival of social
 media – whose associational rights as defined by Apple and Facebook
 appeared to be beyond the control of and perhaps were even antagonistic
@@ -385,7 +384,7 @@ ID; so far it appears that some 90 million have done so.
 As it has rolled out, Aarogya Setu’s safeguards have been stressed by
 Rahul Matthan, a lawyer representing the Government of India on matters
 of technology and privacy law and tasked with putting together the legal
-framework for the app. []{#_Hlk107695322 .anchor}The data would, he
+framework for the app. The data would, he
 asserted, remain inside your phone; it would be extracted only if you
 came into actual contact with anyone who tested positive for Covid-19,
 unless, that is, it was needed for research or other such use.[^06AshishRajadhayksha_21] Your
@@ -395,11 +394,11 @@ from your phone every 30 days and, if at all it was pulled into any
 cloud, would be deleted from there within 45 or 60 days. The bottom line
 was that the app only existed for the limited purpose of fighting the
 pandemic. Most importantly, said Matthan, its implementation was
-voluntary[]{#_Hlk107695572 .anchor}. If you didn’t want it, you didn’t
+voluntary. If you didn’t want it, you didn’t
 have to have it; even if you did have it, you could switch off the
 Bluetooth and the GPS anytime or simply uninstall the app.[^06AshishRajadhayksha_22]
 
-[[]{#_Hlk107741945 .anchor}]{#_Hlk107742301 .anchor}Many of these claims
+Many of these claims
 have unraveled, some quite spectacularly. On April 12, 2020, a
 middle-aged woman sitting down to dinner with her husband and daughter
 in an apartment in the Mumbai suburb of Kalina suddenly encountered the
@@ -413,7 +412,7 @@ observed the lockdown, that no stranger could have possibly come within
 to be hospitalized and tested. She had apparently installed the Aarogya
 Setu app earlier that day, leaving many to puzzle out just where the bug
 lay, and not least why she had been treated like a criminal.
-[]{#_Hlk107696421 .anchor}Two days later, when a pizza delivery boy in
+Two days later, when a pizza delivery boy in
 Delhi working for the food delivery service Zomato tested positive,
 Zomato and several other local delivery services began using ‘Arogya
 Setu compliance certificates’ issued by a commercial entity named
@@ -433,7 +432,7 @@ condition for reopening. In 2020, reports were coming in that the app
 might be required to be compulsorily preinstalled on all new
 smartphones, and may well be uninstallable.[^06AshishRajadhayksha_27]
 
-[]{#_Hlk107743261 .anchor}By late May 2020, all of the above was still
+By late May 2020, all of the above was still
 happening under the Disaster Management Act, 2005. There was no clarity
 on when and if the technology would be pulled down, what kind of
 dedicated legislation would be put in place to run this in the longer
@@ -470,7 +469,7 @@ intentions. Aarogya Setu’s contact-tracing capability, at this moment
 its primary reason to exist, has been questioned by many, for example,
 by Professor Subhashis Banerjee of the Indian Institute of Technology
 Delhi in a remarkable presentation for the Internet Freedom
-Foundation.[^06AshishRajadhayksha_30] []{#_Hlk107745994 .anchor}The scientific-technical
+Foundation.[^06AshishRajadhayksha_30] The scientific-technical
 questions about whether the tool works or not need not detain this
 argument since all it takes is to shift focus and figure out a
 different, and perhaps infinitely more effective potential purpose for
@@ -534,7 +533,7 @@ still called it then, the term ‘Aadhaar’ was yet to enter common usage)
 was announced, there were admittedly reasons to worry. But there was
 also palpable excitement. The IT revolution still retained the last
 gasps of its 90s fervor and much of its history was still being written.
-[]{#_Hlk107773241 .anchor}Although many friends and colleagues perhaps
+Although many friends and colleagues perhaps
 more in tune with the times than us brought up grisly specters of Big
 Brother, we decided we weren’t going to jump the gun, we wouldn’t
 predetermine what would happen, for there were two, perhaps three,
@@ -639,7 +638,7 @@ intended. The UID would now, declared its book-working-paper manifesto,
 eliminate this problem once and for all. It now promised both accurate
 identification of and targeted delivery to intended recipients.
 
-[]{#_Hlk107793776 .anchor}New questions arose in our project and new
+New questions arose in our project and new
 data needed to be studied. What of flaws, not in the methodology but in
 the very theory of ‘targeting’? When creating new group-differentiated
 (as against universal) definitions of public distribution to recognize
@@ -657,7 +656,7 @@ are not divisible into targeted individual use?[^06AshishRajadhayksha_39] Does n
 of something like ‘shirts and apples’ always trump the delivery of, say,
 a ‘malaria-free environment’? What happens then when, as the marketplace
 enters this targeting mechanism, individuated developmental goals start
-getting available only for a fee? []{#_Hlk107797012 .anchor}What happens
+getting available only for a fee? What happens
 when uncomfortable tracking mechanisms begin being built into the
 delivery that reveal not the beneficiary’s need, but her ability to pay
 for them?
@@ -681,7 +680,7 @@ and it worked even better when peer-to-peer structures enabled
 recipient-senders on the periphery to communicate without having to go
 through any apparatus of centralized gatekeeping.
 
-[]{#_Hlk107837828 .anchor}How, in delivering state benefit using
+How, in delivering state benefit using
 communications language, does one view the recipient as also a sender? A
 sender of what? Who is qualified to receive what the senders were
 sending? How might senders exercise some control over the data being
@@ -716,7 +715,7 @@ appeared at least worth hearing out for its possibility of defining
 bodily identity in a way that did not entirely rip it from its survival
 conditions.
 
-[[]{#_Hlk107844926 .anchor}]{#_Hlk107844338 .anchor}It is perhaps worth
+It is perhaps worth
 remembering that the arrival of a new ecosystem – combining mobile
 networks, satellite communications, offline enrolment and verification –
 did offer promise. There were the inevitable glitches, but it appeared,
@@ -726,13 +725,12 @@ and direct cash transfers to poor beneficiaries.[^06AshishRajadhayksha_45] How e
 would do this was yet to be seen, but the proposition was at least
 before us.
 
-[]{#_Hlk107855071 .anchor}Despite this long history of development
+Despite this long history of development
 communication, two-way and peer-to-peer structures have been
 incommensurable with the hierarchical self-image of the Indian state.
 One consequence, as a bureaucrat pointed out during our Identity Project
 interviews, was that ‘everywhere the state usually steps in when markets
-fail; in India, markets step in when the state fails’. []{#_Hlk107934767
-.anchor}Access to various kinds of community-market mechanisms that were
+fail; in India, markets step in when the state fails’. Access to various kinds of community-market mechanisms that were
 often hidden, rendered covert and even illegal (the criminalization of
 bribery, for example) appeared through our field studies a far more
 trusted lifeline to survival for much of the population than often
@@ -778,8 +776,7 @@ The UID itself was no more than one, albeit crucial, cog in a very large
 wheel that was the National E-Governance Plan (NeGP) announced in 2006
 by the then-Department of Electronics and Information Technology to
 promote e-governance through a series of mission mode projects to
-deliver various services online.[^06AshishRajadhayksha_49] [[]{#_Hlk107936340
-.anchor}]{#_Hlk107936603 .anchor}As the only cog that sought to define
+deliver various services online.[^06AshishRajadhayksha_49] As the only cog that sought to define
 the wheel itself, the UID now became something of an in-house ideologue
 for Digital India as a whole (and so gradually became indistinguishable
 from it), taking it upon itself to explain how all manner of programs
@@ -918,7 +915,7 @@ These fine distinctions didn’t seem so arcane in 2013 when Bezwada
 Wilson of the Safai Karmachari Andolan (a movement for the elimination
 of manual scavenging in India) and S.G. Vombatkere impleaded themselves
 in the ongoing Supreme Court Writ Petition challenging the Aadhaar
-program[]{#_Hlk107949834 .anchor}. Wilson, along with a few other
+program. Wilson, along with a few other
 co-petitioners such as transgender and sexual minorities, brought in
 specific concerns, namely identities thrust upon them that would *add
 to* citizen discrimination, not take away from it.
@@ -1196,7 +1193,7 @@ historical moment in late colonial India that shaped several principles
 of governmentality in times to come.[^06AshishRajadhayksha_79] This was a famous dispute,
 much retold in popular fiction and cinema, of a dissolute *zamindar*
 (landowner) in rural Bengal who died of syphilis and was ritually
-cremated. []{#_Hlk108022947 .anchor}Years later, when a *sannyasi* (a
+cremated. Years later, when a *sannyasi* (a
 Hindu mendicant ascetic) appeared in Dhaka claiming to be the dead man,
 the British establishment was ranged, in its determination to prove the
 reincarnated figure an impostor, against an Indian side that included
@@ -1902,7 +1899,7 @@ on the basis of court orders.[^06AshishRajadhayksha_119]
 
 ## We, the Narrative Community: Possibilities of Diffuse Speech
 
-[]{#_Hlk108436368 .anchor}There is, inevitably, another – perhaps
+There is, inevitably, another – perhaps
 somewhat more subversive – way of telling this story, of what *else*
 happened in this very time. I too begin with Ramnath’s point of
 departure, but I shall focus on a slightly different aspect of the ‘We
@@ -2024,7 +2021,7 @@ intelligently in the democratic process. A well-known legal dissertation
 on free speech argues that speech-recipients and audiences are the
 *primary object* of free speech concern. Their right to information is
 the primary right, from which derives the right of speakers to
-speak.[^06AshishRajadhayksha_126] [[]{#_Hlk108440823 .anchor}]{#_Hlk108440918 .anchor}Neither
+speak.[^06AshishRajadhayksha_126] Neither
 category plays such a role in Kaviraj’s narrative. However, his fuzzy
 narrative communities bring in numerous actors (interpreters, decoders,
 or carriers, for example), who are – in a form well known to Indian
@@ -2032,9 +2029,9 @@ storytelling traditions – neither purely speakers nor pure listeners but
 an amalgam of both: where the generation of speech becomes
 indistinguishable from its endorsement and perpetuation.
 
-[[]{#_Hlk108441236 .anchor}]{#_Hlk108441156 .anchor}Kaviraj’s conception
+Kaviraj’s conception
 of community was of course a ‘primordial’ one, his context that of
-national communities. []{#_Hlk108441206 .anchor}Narrative, for him, had
+national communities. Narrative, for him, had
 only a provisional and temporary use since narratives of the nation had
 a strictly curtailed function, for there were things they could do and
 things they couldn’t. He therefore outlined their purpose carefully:
@@ -2078,7 +2075,7 @@ anyone who caused ‘wrongful loss or damage to the public’ or altered
 information in a computer that might ‘diminish its value or
 utility’.[^06AshishRajadhayksha_130]
 
-[]{#_Hlk108442248 .anchor}A lot of this changed in 2006 when an entirely
+A lot of this changed in 2006 when an entirely
 new, far more complex and elusive, category of public actor emerged with
 the birth of social media: Orkut’s multilingual Indian iteration, on
 August 31, literally the day after the seventh of many furious meetings
@@ -2139,7 +2136,7 @@ compensation by the West Bengal Human Rights Commission. The problem was
 once again the source of the speech – they weren’t his cartoons, he was
 simply forwarding them, he said.
 
-[]{#_Hlk108443492 .anchor}A somewhat more serious and more significant
+A somewhat more serious and more significant
 incident occurred in December 2014, when another man was arrested, also
 under 66A. This man, only known by his Twitter handle Shami Witness, was
 arrested because he apparently had pro-ISIS views but – and this was his
@@ -2149,8 +2146,7 @@ of Police.[^06AshishRajadhayksha_135] The police came to know of this man only w
 Channel 4 interviewed him, and although they withheld his identity and
 blurred his voice and image, they revealed that he lived in Bangalore,
 had the first name of Mehdi and worked in a leading IT company. He could
-hardly have done a better job of giving himself away. []{#_Hlk108443863
-.anchor}The next morning, Shami Witness tweeted that he expected to be
+hardly have done a better job of giving himself away. The next morning, Shami Witness tweeted that he expected to be
 arrested any moment, and when the police finally arrived, he apparently
 asked them why they took so long.
 
@@ -2213,7 +2209,7 @@ whether the \[…\] site below the central dome of the Babri Masjid is the
 place of birth of Lord Ram’.[^06AshishRajadhayksha_140]
 
 But there would be another way to tell even this story, as the 2000s
-went on. []{#_Hlk108446395 .anchor}The further possibility of
+went on. The further possibility of
 nonuniversal narratives generating communities through purely horizontal
 circulation – that there is no content prior to, or following, the
 disseminative act – would enable Shami Witness, along with numerous
@@ -2404,7 +2400,7 @@ the term coined in Argentina in 2001). The principle’s emphasis is on
 leaderlessness – the primary condition of diffuse speech – and on
 occupation, both *analogue* and *offline*. All of these movements can
 directly and straightforwardly be viewed as a protest against digital
-identity. []{#_Hlk108452954 .anchor}They are at once protests against
+identity. They are at once protests against
 the technological unilateralism of the state, a reappropriation of the
 physical manifestation of the abstracted ‘people’ as well as a popular
 re-concretization of the body that – like the corpses on public display
@@ -2547,7 +2543,7 @@ body has only one identity with no choice in the matter.
     Misinformation on Corona Virus issued to ‘All Social Media
     Platforms’ by MEITY, dated March 20, 2020.
 
-[^06AshishRajadhayksha_4]: []{#_Hlk108457630 .anchor}Suhrith Parthasarthy, Gautam Bhatia, and
+[^06AshishRajadhayksha_4]: Suhrith Parthasarthy, Gautam Bhatia, and
     Apar Gupta, ‘Privacy Concerns During a Pandemic’, *The Hindu*, 29
     April 2020,
     https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece.
@@ -2576,12 +2572,12 @@ body has only one identity with no choice in the matter.
     thereafter, many prominent lawyers, activists, and academics have
     been targeted by the police under the UAPA and jailed without trial.
 
-[^06AshishRajadhayksha_7]: []{#_Hlk108457599 .anchor}Gautam Navlakha, ‘‘My Hope Rests on a
+[^06AshishRajadhayksha_7]: Gautam Navlakha, ‘‘My Hope Rests on a
     Speedy and Fair Trial': Gautam Navlakha Before His Surrender’, *The
     Wire*, 14 April 2020,
     https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender.
 
-[^06AshishRajadhayksha_8]: []{#_Hlk108457560 .anchor}Sruthisagar Yamunan and Shoaib Daniyal,
+[^06AshishRajadhayksha_8]: Sruthisagar Yamunan and Shoaib Daniyal,
     ‘As Delhi Police Crack Down on Student Leaders, Courts Cite Lockdown
     to Justify Lack of Scrutiny’, *Scroll*, 29 April 2020,
     <https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny>.
@@ -2627,7 +2623,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_16]: Jayal, *Citizenship and its Discontents*, p. 19.
 
-[^06AshishRajadhayksha_17]: See []{#_Hlk108457473 .anchor}Committee of Experts under the
+[^06AshishRajadhayksha_17]: See Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India,
@@ -2654,11 +2650,11 @@ body has only one identity with no choice in the matter.
     research purposes’),
     https://www.meity.gov.in/writereaddata/files/Aarogya\_Setu\_data\_access\_knowledge\_Protocol.pdf.
 
-[^06AshishRajadhayksha_22]: []{#_Hlk108457435 .anchor}Rahul Matthan, ‘The Privacy Features
+[^06AshishRajadhayksha_22]: Rahul Matthan, ‘The Privacy Features
     That Are Built into Arogya Setu’, *The Mint*, 8 April 2020,
     <https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7>.
 
-[^06AshishRajadhayksha_23]: []{#_Hlk108457410 .anchor}Hemal Ashar, ‘Woman With No Travel
+[^06AshishRajadhayksha_23]: Hemal Ashar, ‘Woman With No Travel
     History, No Symptoms, Whisked Away by BMC’, *Mid-day*, 18 April
     2020,
     https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204.
@@ -2670,7 +2666,7 @@ body has only one identity with no choice in the matter.
     required people who have it to behave in a certain way (for example,
     curfew violators being forced to download the app or Resident
     Welfare Associations refusing entry without the app and a ‘health
-    certificate’). See []{#_Hlk108457386 .anchor}Tanisha Ranjit, ‘When
+    certificate’). See Tanisha Ranjit, ‘When
     and Where is Aarogya Setu Mandatory? We’re Keeping Track’, Internet
     Democracy Project, 8 May 2020,
     https://internetdemocracy.in/2020/05/aarogya-setu-tracker/.
@@ -2679,21 +2675,20 @@ body has only one identity with no choice in the matter.
     Grievances and Pensions, 29 April 2020,
     https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/.
 
-[^06AshishRajadhayksha_27]: []{#_Hlk108457351 .anchor}Prasid Banerjee and Shreya Nandy,
+[^06AshishRajadhayksha_27]: Prasid Banerjee and Shreya Nandy,
     ‘Govt’s Arogya Setu App to be Installed on Smartphones by Default
     Soon’, *The Mint*, 29 April 2020,
     https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html.
 
-[^06AshishRajadhayksha_28]: []{#_Hlk108457325 .anchor}‘After Delhi Metro Opens, You May be
-    Denied Ride Without Mask’, Arogya Setu Pass’, *The Mint*, 23 April
-    2020,
-    https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html.
+[^06AshishRajadhayksha_28]: After Delhi Metro Opens, You May be
+    Denied Ride Without Mask, Arogya Setu Pass’, *The Mint*, 23 April
+    2020, https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html.
 
-[^06AshishRajadhayksha_29]: #  Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
+[^06AshishRajadhayksha_29]: Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
 
     https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/.
 
-[^06AshishRajadhayksha_30]: []{#_Hlk108457240 .anchor}Subhashis Banerjee, ‘Covid Surveillance
+[^06AshishRajadhayksha_30]: Subhashis Banerjee, ‘Covid Surveillance
     and Privacy in India’, Internet Freedom Foundation, 1 May 2020,
     https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440.
 
@@ -2708,14 +2703,14 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_33]: Section 2(k) of the Aadhaar Act.
 
-[^06AshishRajadhayksha_34]: []{#_Hlk108457207 .anchor}UIDAI, *UIDAI Strategy Overview:*
+[^06AshishRajadhayksha_34]: UIDAI, *UIDAI Strategy Overview:*
     *Creating a Unique Identity Number for Every Resident in India*,
     Planning Commission/UIDAI, Government of India, April 2010.
 
-[^06AshishRajadhayksha_35]: []{#_Hlk108457163 .anchor}Nandan Nilekani, *Imagining India:
+[^06AshishRajadhayksha_35]: Nandan Nilekani, *Imagining India:
     Ideas for the New Century*, New Delhi: Penguin, 2008, p. 122.
 
-[^06AshishRajadhayksha_36]: []{#_Hlk107784335 .anchor}Partha Chatterjee, ‘Beyond the Nation?
+[^06AshishRajadhayksha_36]: Partha Chatterjee, ‘Beyond the Nation?
     Or Within?’, *Social Text* 56 (1998): 57–69.
 
 [^06AshishRajadhayksha_37]: Nilekani, *Imagining India*, p. 373.
@@ -2736,10 +2731,9 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_40]: Sen, ‘Markets’, p. 135.
 
-[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, []{#_Hlk107838632
-    .anchor}New Delhi: Media Foundation of the Non-aligned, 1986.
+[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, New Delhi: Media Foundation of the Non-aligned, 1986.
 
-[^06AshishRajadhayksha_42]: []{#_Hlk107839608 .anchor}A.S. Bhalla, ‘Can High Technology Help
+[^06AshishRajadhayksha_42]: A.S. Bhalla, ‘Can High Technology Help
     Third World ‘Take-Off’?’, *Economic & Political Weekly* 22.27
     (1987): 1082–1086.
 
@@ -2785,12 +2779,12 @@ body has only one identity with no choice in the matter.
     present Digital India and UMANG (Unified Mobile Application for
     New-age Governance) initiatives.
 
-[^06AshishRajadhayksha_50]: [[]{#_Hlk108455829 .anchor}]{#_Hlk107938555 .anchor}Jean
-    []{#_Hlk107938511 .anchor}Drèze, ‘Unique Facility, or Recipe for
+[^06AshishRajadhayksha_50]: Jean
+    Drèze, ‘Unique Facility, or Recipe for
     Trouble?’, *The Hindu*, 25 November 2010,
     <https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece>.
 
-[^06AshishRajadhayksha_51]: []{#_Hlk108455791 .anchor}Bharat Bhatti, Jean Drèze, and Reetika
+[^06AshishRajadhayksha_51]: Bharat Bhatti, Jean Drèze, and Reetika
     Khera, ‘Experiments with Aadhar’, *The Hindu*, 27 June 2012,
     https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece.
 
@@ -2800,12 +2794,12 @@ body has only one identity with no choice in the matter.
     https://censusindia.gov.in/2011-common/faqs.html. This particular
     FAQ, outlining the social audit, is no longer on the Census website.
 
-[^06AshishRajadhayksha_54]: See []{#_Hlk108455748 .anchor}‘Nandan Nilekani, Home Ministry End
+[^06AshishRajadhayksha_54]: See ‘Nandan Nilekani, Home Ministry End
     UIDAI Tiff, to Divide Data Collection’, *The Economic Times*, 28
     January 2012,
     https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst
 
-[^06AshishRajadhayksha_55]: #  R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
+[^06AshishRajadhayksha_55]: R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
 
     https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/.
 
@@ -2910,7 +2904,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_82]: Sukumar, *Midnight’s Machines*, pp. 114–115.
 
-[^06AshishRajadhayksha_83]: #  Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
+[^06AshishRajadhayksha_83]: Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
 
 [^06AshishRajadhayksha_84]: Chatterjee, *A Princely Impostor?*, p. 366.
 
@@ -2920,7 +2914,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_86]: *Puttaswamy* v *UOI*. Dissenting judgment. Part G3: Identity and
     Identification, No. 185.
 
-[^06AshishRajadhayksha_87]: [[]{#_Hlk108455286 .anchor}]{#_Hlk88296178 .anchor}Giorgio
+[^06AshishRajadhayksha_87]:Giorgio
     Agamben, *Homo Sacer*: *Sovereign Power and Bare Life*, Stanford:
     Stanford University Press, 1998.
 
@@ -2930,7 +2924,7 @@ body has only one identity with no choice in the matter.
     avert crises precisely such as this one. For details, see
     https://uidai.gov.in/images/mou/partners/Coalition\_of\_Migrant\_Workers\_NGOs.pdf.
 
-[^06AshishRajadhayksha_89]: #  See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
+[^06AshishRajadhayksha_89]: See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
 
 [^06AshishRajadhayksha_90]: Saadat Hasan Manto’s classic 1955 short story ‘Toba Tek Singh’,
     in which the newly formed governments of India and Pakistan exchange
@@ -2981,7 +2975,7 @@ body has only one identity with no choice in the matter.
     assistance provided to BPL households through the PDS amounted to
     less than INR 5 per person per month.
 
-[^06AshishRajadhayksha_95]: []{#_Hlk108455197 .anchor}Kalyani Ramnath, ‘‘We the People’:
+[^06AshishRajadhayksha_95]: Kalyani Ramnath, ‘‘We the People’:
     Seamless Webs and Social Revolution in India’s Constituent Assembly
     Debates’, *South Asia Research* 32.1 (2012): 58.
 
@@ -3011,7 +3005,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_105]: The United Progressive Alliance or UPA is a coalition of parties
     formed soon after the 2004 general election.
 
-[^06AshishRajadhayksha_106]: []{#_Hlk108455158 .anchor}Devesh Kapur, Partha Mukhopadhyay and
+[^06AshishRajadhayksha_106]: Devesh Kapur, Partha Mukhopadhyay and
     Arvind Subramanian, ‘The Case for Direct Cash Transfers to the
     Poor’, *Economic & Political Weekly* 43.15 (2008): 37–43.
 
@@ -3020,7 +3014,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_108]: Kapur et al., ‘The Case for Direct Cash Transfers’, p. 39.
     Emphasis is mine.
 
-[^06AshishRajadhayksha_109]: []{#_Hlk108455129 .anchor}Partha Chatterjee, ‘Democracy and
+[^06AshishRajadhayksha_109]: Partha Chatterjee, ‘Democracy and
     Economic Transformation in India’, *Economic & Political Weekly*
     43.16 (2008): 53–62.
 
@@ -3118,13 +3112,13 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_133]: https://cis-india.org/internet-governance/resources/section-66A-information-technology-act.
 
-[^06AshishRajadhayksha_134]: #  Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon. 
+[^06AshishRajadhayksha_134]: Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon. 
 
 [^06AshishRajadhayksha_135]: See ‘Youth has Confessed to Operating Pro-IS Twitter Account:
     Karnataka DGP’, *Free Press Journal*, 1 June 2019,
     https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp.
 
-[^06AshishRajadhayksha_136]: #  ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged.
+[^06AshishRajadhayksha_136]: ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged.
 
 [^06AshishRajadhayksha_137]: *Shreya Singhal* v *UOI*, WP (Criminal) No. 167 of 2012, (24
     March 2015), https://indiankanoon.org/doc/110813550/.
@@ -3135,7 +3129,7 @@ body has only one identity with no choice in the matter.
     contempt of court, (7) defamation (8) incitement to an offence. See
     https://indiankanoon.org/doc/493243/.
 
-[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, []{#_Hlk108445835 .anchor}‘Media Trials
+[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, ‘Media Trials
     and Courtroom Tribulations: The Battle of Images, Words and Shadows
     in the 13 December Case’, in *13 December, A Reader: The Strange
     Case of the Attack on the Indian Parliament*, New Delhi: Penguin
@@ -3221,7 +3215,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_162]: Arunima, ‘Cameras, Campuses and the Future of Politics', pp.
     17–18.
 
-[^06AshishRajadhayksha_163]: #  Pramod K. Verma, Architecting Platforms for Innovation
+[^06AshishRajadhayksha_163]: Pramod K. Verma, Architecting Platforms for Innovation
 
     <https://www.slideshare.net/indiastack/architecting-platforms-for-innovation>
 
@@ -3233,3 +3227,4 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_165]: August 2022 update: the draft Personal Data Protection Bill has
     been officially withdrawn by the government, and sent back to the
     drawing board.
+![](![]())

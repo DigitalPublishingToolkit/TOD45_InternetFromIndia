@@ -298,8 +298,7 @@ Knopf, 2010.
 
 Latour, Bruno. ‘A Collective of Humans and Nonhumans: Following
 Daedalus’s Labyrinth’, in Bruno Latour, *Pandora’s Hope: Essays on the
-Reality of Science Studies*, Cambridge, []{#_Hlk106217536
-.anchor}Massachusetts: Harvard University Press, 1999, pp. 183–184.
+Reality of Science Studies*, Cambridge, Massachusetts: Harvard University Press, 1999, pp. 183–184.
 
 ———. *An* *Inquiry into Modes of Existence: An Anthropology into the
 Moderns*, Cambridge, Massachusetts: Harvard University Press, 2013.
