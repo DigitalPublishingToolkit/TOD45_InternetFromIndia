@@ -774,7 +774,7 @@ or should it map onto an existing morphology?
 Krishnayya wrote matter of factly that the advice he had earlier given
 to the Commission, in the proposal in response to their call, was:
 
-NOT TO BYPASS the Sectoral Divisions, but rather to link them into a
+> NOT TO BYPASS the Sectoral Divisions, but rather to link them into a
 network \[with decentralized computer equipment\]. The alternative,
 which is being followed now, is to construct a large central data bank
 administratively in one Division in the hope others will use it. Won’t
@@ -1318,8 +1318,6 @@ enough to accommodate real-time updates. In other words, to meet the
 ‘service’ aspiration of upwardly mobile middle-class passengers.
 Unsurprisingly, these demands were believed to have been met by an RDBMS
 system.[^07NafisHasan_74]
-
->  
 
 Yet not everyone was convinced. A top official at CRIS said, ‘the
 benefits of emerging from changing over to a RDBMS from the current flat

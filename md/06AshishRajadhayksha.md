@@ -1009,7 +1009,7 @@ of life would be governed by the logic of Aadhaar’. A legal and
 administrative creep was riding on the technology that, you wonder,
 could *surely* not have been entirely unintentional.
 
-> *When an individual from a particular caste engaged in manual
+> When an individual from a particular caste engaged in manual
 > scavenging is rescued and in order to take benefit of rehabilitation
 > schemes, she/he has to link the Aadhaar number with the scheme, the
 > effect is that a profile as that of a person engaged in manual
@@ -1017,7 +1017,7 @@ could *surely* not have been entirely unintentional.
 > manual scavenger gets permanently fixed to her/his identity. What the
 > Aadhaar Act seeks to exclude specifically is done in effect by the
 > mandatory linking of Aadhaar numbers with different databases, under
-> cover of the delivery of benefits and services.*[^06AshishRajadhayksha_65]
+> cover of the delivery of benefits and services.[^06AshishRajadhayksha_65]
 
 If Aadhaar and its linking process are the only visible part of an
 iceberg, the insight is sharp enough to clue us into how this double act

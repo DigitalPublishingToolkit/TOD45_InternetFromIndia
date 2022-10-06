@@ -52,7 +52,7 @@ Srivastava, Shirish C., Mathur Sharat, and Teo, Thompson. ‘Modernization
 of Passenger Reservation System: Indian Railway’s Dilemma, *ICIS 2006
 Proceedings* 98 (2006), http://aisel.aisnet.org/icis2006/98.
 
-# Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012, https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/.
+Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012, https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/.
 
 ## 
 
@@ -385,7 +385,7 @@ of British Imperial Rule of Law’, *Contributions to Indian sociology*
 Star, Susan Leigh. ‘The Ethnography of Infrastructure’, *American
 Behavioral Scientist* 43.5 (1999): 377–391.
 
-# Sukumar, Arun Mohan. *Midnight’s Machines: A Political History of Technology in India*, New Delhi: Penguin Viking, 2019.
+Sukumar, Arun Mohan. *Midnight’s Machines: A Political History of Technology in India*, New Delhi: Penguin Viking, 2019.
 
 Teltumbde, Anant. *The Persistence of Caste: The Khairlanji Murders and
 India's Hidden Apartheid*, London: Zed Books, 2010.
@@ -616,7 +616,7 @@ Matthan, Rahul. ‘The Privacy Features That Are Built into Arogya Setu’,
 Mehta, Dewang. ‘India on the Global Pathway’, *Times of India*, 7
 February 1996, ProQuest Historical Newspapers.
 
-# Mehta, Ivan. ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/.
+Mehta, Ivan. ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/.
 
 ‘Nandan Nilekani, Home Ministry End UIDAI Tiff, to Divide Data
 Collection’, *The Economic Times*, 28 January 2012,
@@ -661,11 +661,9 @@ https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/articl
 ‘PM’s Remarks at the Launch of Digital India Week’, 1 July 2015,
 https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128.
 
-# Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
+Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
 
-# 
-
-# ———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, https://www.outlookindia.com/website/story/adding-insult-to-injury/283033. 
+———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, https://www.outlookindia.com/website/story/adding-insult-to-injury/283033. 
 
 ‘Pune Bourse Goes Online’, *The Times of India*, 19 March 1996, ProQuest
 Historical Newspapers.
