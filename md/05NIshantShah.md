@@ -316,16 +316,7 @@ that it is not as contemporary a concern as it appears. Ann Blair, a
 historian of information, points out that in the Judeo-Christian
 traditions of the West, the concern around *too many books* surfaced as
 early as in the 1st century, where in Ecclesiastes we are cautioned:
-‘[But
-beyond](https://biblehub.com/hebrew/3148.htm) [these,](https://biblehub.com/hebrew/1992.htm) [my
-son,](https://biblehub.com/hebrew/1121.htm) [be
-warned:](https://biblehub.com/hebrew/2094.htm) [there is
-no](https://biblehub.com/hebrew/369.htm) [end](https://biblehub.com/hebrew/7093.htm) [to
-the making](https://biblehub.com/hebrew/6213.htm) [of
-many](https://biblehub.com/hebrew/7235.htm) [books,](https://biblehub.com/hebrew/5612.htm) [and
-much](https://biblehub.com/hebrew/7235.htm)
-[study](https://biblehub.com/hebrew/3854.htm) [wearies](https://biblehub.com/hebrew/3024.htm) [the
-body.](https://biblehub.com/hebrew/1320.htm)’[^05NIshantShah_9] This warning was
+‘But beyond these, my son, be warned: there is no end to the making of many books, and much study wearies the body.’[^05NIshantShah_9] This warning was
 echoed in moral philosophy where Seneca, in his *Treatises*, mourned the
 dangers of abundant information:
 

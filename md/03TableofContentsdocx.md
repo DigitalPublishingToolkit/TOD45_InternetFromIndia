@@ -79,9 +79,9 @@ Table of Contents
 
 03\. Introduction - Data Without Content, or the Medium With no Message
 
-# 04. The Insidiousness of Information Overload - Nishant Shah {#the-insidiousness-of-information-overload---nishant-shah .TOCHeading}
+04\. The Insidiousness of Information Overload - Nishant Shah 
 
-# 05. The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times - Ashish Rajadhyaksha  {#the-ambivalence-of-creep-a-biopolitical-history-of-citizenship-in-digital-times---ashish-rajadhyaksha .TOCHeading}
+05. The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times - Ashish Rajadhyaksha  
 
 06\. ‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
 Digital Governance - Nafis Aziz Hasan
@@ -92,6 +92,6 @@ Digital Governance - Nafis Aziz Hasan
 
 09\. The Archive
 
-10 Consolidated bibliography
+10\. Consolidated bibliography
 
 11\. Acknowledgments

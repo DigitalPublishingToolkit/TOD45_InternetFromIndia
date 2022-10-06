@@ -3227,4 +3227,3 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_165]: August 2022 update: the draft Personal Data Protection Bill has
     been officially withdrawn by the government, and sent back to the
     drawing board.
-![](![]())
