@@ -12,11 +12,11 @@ INC Theory on Demand \#45
 
 Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
 
-Copy editor:
+Copy editor: Sunaina Dalaya
 
 Cover Design: Katja van Stiphout
 
-Design and EPUB development:
+Design and EPUB development:  Tommaso Campagna and Jasmin Leech
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 
@@ -5901,9 +5901,7 @@ body has only one identity with no choice in the matter.
     Centre, 2010, http://www.ielrc.org/content/w1002.pdf.
 
 [^06AshishRajadhayksha_57]: Akshay Deshmane, ‘The Dalit Identity Dilemma’, *Frontline*, 28
-    April 2017,
-
-    <https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece>.
+    April 2017, <https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece>.
 
 [^06AshishRajadhayksha_58]: Deshmane, ‘The Dalit Identity’.
 
