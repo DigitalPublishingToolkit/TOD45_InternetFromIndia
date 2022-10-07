@@ -354,9 +354,9 @@ Table of Contents
 
 03\. Introduction - Data Without Content, or the Medium With no Message
 
-# 04. The Insidiousness of Information Overload - Nishant Shah {#the-insidiousness-of-information-overload---nishant-shah .TOCHeading}
+04\. The Insidiousness of Information Overload - Nishant Shah 
 
-# 05. The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times - Ashish Rajadhyaksha  {#the-ambivalence-of-creep-a-biopolitical-history-of-citizenship-in-digital-times---ashish-rajadhyaksha .TOCHeading}
+05. The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times - Ashish Rajadhyaksha  
 
 06\. ‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
 Digital Governance - Nafis Aziz Hasan
@@ -367,7 +367,7 @@ Digital Governance - Nafis Aziz Hasan
 
 09\. The Archive
 
-10 Consolidated bibliography
+10\. Consolidated bibliography
 
 11\. Acknowledgments
 
@@ -751,16 +751,7 @@ that it is not as contemporary a concern as it appears. Ann Blair, a
 historian of information, points out that in the Judeo-Christian
 traditions of the West, the concern around *too many books* surfaced as
 early as in the 1st century, where in Ecclesiastes we are cautioned:
-‘[But
-beyond](https://biblehub.com/hebrew/3148.htm) [these,](https://biblehub.com/hebrew/1992.htm) [my
-son,](https://biblehub.com/hebrew/1121.htm) [be
-warned:](https://biblehub.com/hebrew/2094.htm) [there is
-no](https://biblehub.com/hebrew/369.htm) [end](https://biblehub.com/hebrew/7093.htm) [to
-the making](https://biblehub.com/hebrew/6213.htm) [of
-many](https://biblehub.com/hebrew/7235.htm) [books,](https://biblehub.com/hebrew/5612.htm) [and
-much](https://biblehub.com/hebrew/7235.htm)
-[study](https://biblehub.com/hebrew/3854.htm) [wearies](https://biblehub.com/hebrew/3024.htm) [the
-body.](https://biblehub.com/hebrew/1320.htm)’[^05NIshantShah_9] This warning was
+‘But beyond these, my son, be warned: there is no end to the making of many books, and much study wearies the body.’[^05NIshantShah_9] This warning was
 echoed in moral philosophy where Seneca, in his *Treatises*, mourned the
 dangers of abundant information:
 
@@ -6305,7 +6296,6 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_165]: August 2022 update: the draft Personal Data Protection Bill has
     been officially withdrawn by the government, and sent back to the
     drawing board.
-![](![]())
 
 
 # ‘SLOW VIOLENCE’ AND VACANT CITIZENSHIP: THE EXCESSES OF INDIA’S DIGITAL GOVERNANCE

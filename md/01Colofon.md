@@ -23,11 +23,11 @@ INC Theory on Demand \#45
 
 Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
 
-Copy editor:
+Copy editor: Sunaina Dalaya
 
 Cover Design: Katja van Stiphout
 
-Design and EPUB development:
+Design and EPUB development:  Tommaso Campagna and Jasmin Leech
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 

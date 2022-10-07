@@ -2832,9 +2832,7 @@ body has only one identity with no choice in the matter.
     Centre, 2010, http://www.ielrc.org/content/w1002.pdf.
 
 [^06AshishRajadhayksha_57]: Akshay Deshmane, ‘The Dalit Identity Dilemma’, *Frontline*, 28
-    April 2017,
-
-    <https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece>.
+    April 2017, <https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece>.
 
 [^06AshishRajadhayksha_58]: Deshmane, ‘The Dalit Identity’.
 
