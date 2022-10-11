@@ -235,7 +235,8 @@ rumors floated by some vested elements’. The arrests, they said, had
 been made ‘based on analysis of scientific and forensic evidence,
 including video footages, technical & other footprints’.[^06AshishRajadhayksha_10]
 
-\*\*\*
+\_\_\_\_\_\_
+
 
 This essay does not deal with the specific legal situation that Safoora
 Zargar and her colleagues face. Nor does it deal with the condition of
@@ -320,7 +321,7 @@ one’s exclusion from substantive citizenship’, says Jayal.[^06AshishRajadhay
 would thus produce some of its most elaborate contours in India as a
 fight for social justice.
 
-\*\*\*
+\_\_\_\_\_\_
 
 Digital platforms arrived in the 2000s with the intention of delivering
 state welfare with a utopian promise. They were to accurately identify
@@ -1941,7 +1942,7 @@ including and especially those of the right to fuzzy or blurred
 self-description – were seen as having been enabled (or disabled) by the
 link of biometric to basic demographic data.
 
-The question Who is a legal person? has vexed courts in India. We know
+The question who is a legal person? has vexed courts in India. We know
 that, although a ‘person’ is always an individual, various entities can
 have ‘juridical personality’ – including, at different points, animals,
 rivers, corporations and even, as recently seen, deities. Such legal

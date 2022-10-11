@@ -2214,38 +2214,39 @@ written.
     ‘Remember Agrima Joshua’s Vile Abuser Shubham Mishra? He’s Out on
     Bail Now’, *The Free Press Journal*, 18 August 2020,
 
-    https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now.
+    <a href="https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now">https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now</a>.
 
 [^05NIshantShah_2]: *The Quint* published a detailed report on the story. See, ‘Comic
     Joshua Gets Rape Threat for Joke on Chhatrapati Shivaji’, *The
     Quint*, 13 July 2020,
-    https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji.
+    <a href="https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji">https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji</a>.
 
 [^05NIshantShah_3]: ‘Agrima Joshua Case: Maha HM Anil Deshmukh Asks Mumbai Police to
     Take Legal Action against Comedian over Chhatrapati Shivaji Maharaj
-    Remark’, *The Free Press Journal*, 11 July 2020, https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
+    Remark’, *The Free Press Journal*, 11 July 2020, []{#_Hlk105225732
+    .anchor}https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
 
 [^05NIshantShah_4]: ‘Agrima Joshua Row: Comedian Posts Video Apologizing to Members of
     Political Parties’, *The Free Press Journal*, 11 July 2020,
-    https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties.
+    <a href="https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties">https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties</a>.
 
 [^05NIshantShah_5]: Belinda Goldsmith and Meka Beresford, ‘India Most Dangerous
     Country for Women with Sexual Violence Rife - Global Poll’,
     *Reuters*, 26 June 2018,
-    https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076.
+    <a href="https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076">https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076</a>.
 
 [^05NIshantShah_6]: ‘2020 World Press Freedom Index: “Entering a Decisive Decade for
     Journalism, Exacerbated by Coronavirus”’, Reporters Without Borders,
-    https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus.
+    <a href="https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus">https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus</a>.
 
 [^05NIshantShah_7]: Tanvi Akhauri, ‘Shubham Mishra Has Been Arrested, but the Problem
     of Offence-Taking Still Persists’, *shethepeople*, 13 July 2020,
-    https://www.shethepeople.tv/home-top-video/shubham-mishra-arrested-agrima-joshua/.
+    <a href="https://www.shethepeople.tv/home-top-video/shubham-mishra-arrested-agrima-joshua/">https://www.shethepeople.tv/home-top-video/shubham-mishra-arrested-agrima-joshua/</a>.
 
 [^05NIshantShah_8]: Aaron Blake, ‘Kellyanne Conway Says Donald Trump’s Team Has
     ‘Alternative Facts.’ Which Pretty Much Says it All’, *The Washington
     Post*, 22 January 2017,
-    https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/.
+    <a href="https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/">https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/</a>.
 
 [^05NIshantShah_9]: Eccles. 12:12 Christian Standard Bible.
 
@@ -2272,7 +2273,7 @@ written.
 
 [^05NIshantShah_16]: Alvin Tofler, *Future Shock*, New York: Random House, 1970.
 
-[^05NIshantShah_17]: Nike Y2K - Jogger, https://www.youtube.com/watch?v=q\_7YmvH3pYw.
+[^05NIshantShah_17]: Nike Y2K - Jogger, <a href="https://www.youtube.com/watch?v=q%5C_7YmvH3pYw">https://www.youtube.com/watch?v=q\_7YmvH3pYw</a>.
 
 [^05NIshantShah_18]: Bruno Latour, ‘A Collective of Humans and Nonhumans: Following
     Daedalus’s Labyrinth’, in Bruno Latour, *Pandora’s Hope: Essays on
@@ -2307,7 +2308,7 @@ written.
 [^05NIshantShah_27]: Aarefa Johari, ‘Gujarat Internet Ban: On Day Six, Citizens Have
     Had Enough of Being Patronized by the State’, *Scroll.in*, 1
     September 2015,
-    https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state.
+    <a href="https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state">https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state</a>.
 
 [^05NIshantShah_28]: Pooja Thomas, ‘Museum as Metaphor: The Politics of an Imagined
     Ahmedabad’, in Arvind Rajagopal and Anupama Rao (eds) *Media and
@@ -2325,27 +2326,27 @@ written.
     community, see Gopal Kateshiya, ‘Gujarat Protests: Who are the
     Patidars, and why are they Angry’, *The Indian Express*, 27 August
     2015,
-    https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/.
+    <a href="https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/">https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/</a>.
 
 [^05NIshantShah_31]: Ashish Chauhan, ‘Jat Fire Tempts Patidars to Action’, *The Times
     of India*, 22 February 2016,
-    https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms.
+    <a href="https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms">https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms</a>.
 
 [^05NIshantShah_32]: ‘Patidar Reservation: Social Media Spreading Sardar Patel
     Movement Like Wild Fire’, *DNA*, 22 August 2015,
-    http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056.
+    <a href="http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056">http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056</a>.
 
 [^05NIshantShah_33]: ‘Stir Over OBC Status: Govt Proposes Talks; Hardik Plays
     Hardball’, *The Indian Express*, 23 August 2015,
-    http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/.
+    <a href="http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/">http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/</a>.
 
 [^05NIshantShah_34]: ‘Gujarat Shuts Down Internet during Exams’, *The Hindu*, 29
     February 2016,
-    http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece.
+    <a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece">http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece</a>.
 
 [^05NIshantShah_35]: ‘The Information Technology Act, 2000’, *The Gazette of India*,
     June 2000,
-    https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf.
+    <a href="https://www.indiacode.nic.in/bitstream/123456789/13116/1/it%5C_act%5C_2000%5C_updated.pdf">https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf</a>.
 
 [^05NIshantShah_36]: See ‘The Information Technology Act, 2000’, p. 4 (unauthorised
     access), p. 6 (storage, retention, and retrieval), p. 9 (licensing
@@ -2354,7 +2355,7 @@ written.
     of access), p. 20 (privacy and replication of information), p. 22
     (markers of public space). The page numbers here correspond to the
     actual gazette and can be found at:
-    https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMjk4NzY=\#:\~:text=%5B9th%20June%2C%202000%5D%20An,communication%20and%20storage%20of%20information%2C.
+    <a href="https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMjk4NzY=%5C#:%5C~:text=[9th%20June,%202000]%20An,communication%20and%20storage%20of%20information,">https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMjk4NzY=\#:\~:text=%5B9th%20June%2C%202000%5D%20An,communication%20and%20storage%20of%20information%2C</a>.
 
 [^05NIshantShah_37]: Nishant Shah, ‘In Access: Digital Video and the User’, in Joshua
     Neves and Bhaskar Sarkar (eds) *Asian Video Cultures: In the
@@ -2363,7 +2364,7 @@ written.
 
 [^05NIshantShah_38]: ‘The Information Technology (Amendment) Act, 2008’, *The Gazette
     of India*, February 2009, p. 3,
-    https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=.
+    <a href="https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=">https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=</a>.
 
 [^05NIshantShah_39]: ‘The Information Technology Act, 2000’.
 
@@ -2376,7 +2377,7 @@ written.
 [^05NIshantShah_43]: Douglas C. Engelbart, ‘Augmenting Human Intellect: A Conceptual
     Framework’, Summary Report, SRI Project No. 3578, Stanford Research
     Institute, October 1962,
-    https://www.dougengelbart.org/content/view/138.
+    <a href="https://www.dougengelbart.org/content/view/138">https://www.dougengelbart.org/content/view/138</a>.
 
 [^05NIshantShah_44]: Adam Fisher documents the process by which Douglas Engelbart
     pulled off the presentation that was retroactively dubbed ‘The
@@ -2389,10 +2390,10 @@ written.
 [^05NIshantShah_45]: Douglas C. Engelbart, ‘Games That Teach the Fundamentals of
     Computer Operation’, *IRE Transactions on Electronic Computers*,
     March 1961,
-    https://ia800203.us.archive.org/13/items/GamesThatTeachFundamentalComputerOperationsEngelbart/1961-Games-That-Teach-Fundamental-Computer-Operations-Engelbart.pdf.
+    <a href="https://ia800203.us.archive.org/13/items/GamesThatTeachFundamentalComputerOperationsEngelbart/1961-Games-That-Teach-Fundamental-Computer-Operations-Engelbart.pdf">https://ia800203.us.archive.org/13/items/GamesThatTeachFundamentalComputerOperationsEngelbart/1961-Games-That-Teach-Fundamental-Computer-Operations-Engelbart.pdf</a>.
 
 [^05NIshantShah_46]: Swami Manohar, ‘The Simputer: Access Device for the Masses’, p.
-    1, http://www.simputer.org/simputer/history/paper.pdf.
+    1, <a href="http://www.simputer.org/simputer/history/paper.pdf">http://www.simputer.org/simputer/history/paper.pdf</a>.
 
 [^05NIshantShah_47]: Manohar, ‘The Simputer’, p. 1.
 
@@ -2409,7 +2410,7 @@ written.
 
 [^05NIshantShah_53]: *Avnish Bajaj* v *State (NCT of Delhi)*, 105 DRJ 721 (2008). The
     presiding judge was Justice S. Muralidhar. For details, see
-    https://indiankanoon.org/doc/309722/.
+    <a href="https://indiankanoon.org/doc/309722/">https://indiankanoon.org/doc/309722/</a>.
 
 [^05NIshantShah_54]: Shah, ‘In Access: Digital Video and the User’.
 
@@ -2418,17 +2419,17 @@ written.
 
 [^05NIshantShah_56]: Ariana Rodriguez, ‘India Bans Adult Cartoon Site
     SavitaBhabhi.com’, *XBIZ Newswire*, 28 June 2009,
-    http://newswire.xbiz.com/view.php?id=109797.
+    <a href="http://newswire.xbiz.com/view.php?id=109797">http://newswire.xbiz.com/view.php?id=109797</a>.
 
 [^05NIshantShah_57]: Sruthijith K.K., ‘Govt Bans Popular Toon Porn Site’, *Hindustan
     Times*, 20 June 2009,
-    https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html.
+    <a href="https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html">https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html</a>.
 
 [^05NIshantShah_58]: Vinita Chaturvedi, ‘I Keep a Low Profile to Promote Savita Bhabhi
     Better: Puneet Agarwal’, *The Times of India*, 11 April 2013,
-    https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms.
+    <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms">https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms</a>.
 
-[^05NIshantShah_59]: For details, see https://en.wikipedia.org/wiki/Rohith\_Vemula.
+[^05NIshantShah_59]: For details, see <a href="https://en.wikipedia.org/wiki/Rohith%5C_Vemula">https://en.wikipedia.org/wiki/Rohith\_Vemula</a>.
 
 [^05NIshantShah_60]: Ashish Rajadhyaksha, *The Last Cultural Mile: An Inquiry into
     Technology and Governance in India*, Bangalore: The Centre for
@@ -2444,16 +2445,16 @@ written.
 [^05NIshantShah_63]: *MySpace Inc.* v *Super Cassettes Industries Ltd.*, 236 DLT 478
     (DB) (23 December 2016). The case was presided over by Justices S.
     Ravindra Bhat, Deepa Sharma. For details, see
-    https://indiankanoon.org/doc/12972852/.
+    <a href="https://indiankanoon.org/doc/12972852/">https://indiankanoon.org/doc/12972852/</a>.
 
 [^05NIshantShah_64]: Cyril Sam and Paranjoy Guha Thakurta, ‘Part 1: Is Facebook in
     India Truly Independent of Political Influence? Not Really – It has
     Backed Modi and BJP’, NewsClick, 22 November 2018,
-    https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence.
+    <a href="https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence">https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence</a>.
 
 [^05NIshantShah_65]: ‘Notification’, New Delhi, 11 April 2011, *The Gazette of India
     Extraordinary* Part II-Sec.3(i),
-    https://dispur.nic.in/itact/it-intermediaries-guidelines-rules-2011.pdf.
+    <a href="https://dispur.nic.in/itact/it-intermediaries-guidelines-rules-2011.pdf">https://dispur.nic.in/itact/it-intermediaries-guidelines-rules-2011.pdf</a>.
 
 [^05NIshantShah_66]: ‘Notification’, 3 (1).
 
@@ -2464,7 +2465,7 @@ written.
 [^05NIshantShah_69]: Rishabh Dara, ‘Intermediary Liability in India: Chilling Effects
     on Free Expression on the Internet 2011’, *The Centre for Internet
     &* Society, 10 April 2012,
-    https://cis-india.org/internet-governance/intermediary-liability-in-india.
+    <a href="https://cis-india.org/internet-governance/intermediary-liability-in-india">https://cis-india.org/internet-governance/intermediary-liability-in-india</a>.
 
 [^05NIshantShah_70]: Dara, ‘Intermediary Liability in India’.
 
@@ -2476,48 +2477,48 @@ written.
 [^05NIshantShah_72]: Lauren Smiley, ‘How India Pierced Facebook’s Free Internet’,
     *Wired*, 1 February 2016,
 
-    https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/.
+    <a href="https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/">https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/</a>.
 
 [^05NIshantShah_73]: ‘TRAI Tells Reliance to Put Facebook’s Free Basics Platform on
     Hold’, *The Free Library*, 23 December 2015,
-    https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook%27s+Free+Basics+platform+on+hold-a0438721289.
+    <a href="https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook&#39;s+Free+Basics+platform+on+hold-a0438721289">https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook%27s+Free+Basics+platform+on+hold-a0438721289</a>.
 
-[^05NIshantShah_74]: https://savetheinternet.in/.
+[^05NIshantShah_74]: <a href="https://savetheinternet.in/">https://savetheinternet.in/</a>.
 
 [^05NIshantShah_75]: Nimisha Jaiswal, ‘Why Indians Are Turning Down Facebook’s Free
     Internet’, *GlobalPost*, 13 January 2016,
-    https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet.
+    <a href="https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet">https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet</a>.
 
 [^05NIshantShah_76]: ‘Indian Comedians Explain Net Neutrality in Free Basics Battle’,
     *Web We Want*, 13 January 2016,
-    https://webwewant.org/news/indian-comedians-explain-net-neutrality/.
+    <a href="https://webwewant.org/news/indian-comedians-explain-net-neutrality/">https://webwewant.org/news/indian-comedians-explain-net-neutrality/</a>.
 
 [^05NIshantShah_77]: Rahul Bhatia, ‘The Inside Story of Facebook’s Biggest Setback’,
     *The Guardian*, 12 May 2016,
-    https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg.
+    <a href="https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg">https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg</a>.
 
 [^05NIshantShah_78]: Mohul Ghosh, ‘Is \#SabKaInternet a Deliberate Attempt by COAI to
     Confuse People?’, *Trak.in*, 2 December 2016,
-    https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/.
+    <a href="https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/">https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/</a>.
 
 [^05NIshantShah_79]: Nash David, ‘Digital ‘Equality’ Not So Equal: Is an Aggressive
     Facebook Turning Free Basics into a Movement?’, *Firstpost*, 24
     December 2015,
 
-    https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html.
+    <a href="https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html">https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html</a>.
 
 [^05NIshantShah_80]: Telecom Regulatory Authority of India, ‘Prohibition of
     Discriminatory Tariffs for Data Services Regulations, 2016’,
     *Gazette of India*, 8 February 2016,
-    https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf.
+    <a href="https://trai.gov.in/sites/default/files/Regulation%5C_Data%5C_Service.pdf">https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf</a>.
 
 [^05NIshantShah_81]: ‘Prohibition of Discriminatory Tariffs’, p. 10.
 
 [^05NIshantShah_82]: ‘PM’s Remarks at the Launch of Digital India Week’, 1 July 2015,
-    https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128.
+    <a href="https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128">https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128</a>.
 
 [^05NIshantShah_83]: Internet Freedom Foundation, ‘About IFF’,
-    https://internetfreedom.in/about/.
+    <a href="https://internetfreedom.in/about/">https://internetfreedom.in/about/</a>.
 
 [^05NIshantShah_84]: Asha Achuthan, *Re:Wiring Bodies*, Bangalore: Researchers@Work
     and The Centre for Internet & Society, 2012.
@@ -2536,7 +2537,7 @@ written.
 
 [^05NIshantShah_88]: Malavika Jayaram, ‘India’s Big Brother Project: The World’s
     Largest Biometrics Identity Program’, *Boston Review*, 19 May 2014,
-    https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics.
+    <a href="https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics">https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics</a>.
 
 [^05NIshantShah_89]: Nishant Shah, ‘Subject to Technology: Internet Pornography,
     Cyber-terrorism and the Indian State’, *Inter-Asia Cultural Studies*
@@ -2593,15 +2594,15 @@ written.
     charges and arrest of Kumar and his other partners in their
     reporting. See ‘JNU Sedition Case: Umar Khalid, Kanhaiya Kumar,
     Other Accused Appear in Court’, *The Wire*, 16 March 2021,
-    https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court.
+    <a href="https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court">https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court</a>.
 
 [^05NIshantShah_103]: Sarah Hafeez, ‘Zee News Producer Quits: Video We Shot Had No
     Pakistan Zindabad Slogan’, *The Indian Express*, 22 February 2016,
-    https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/.
+    <a href="https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/">https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/</a>.
 
 [^05NIshantShah_104]: Rahul Kanwal, ‘JNU Row: Did a Fake Video Fuel the Anti-national
     Fire?’, *India Today*, 18 February 2016,
-    https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18.
+    <a href="https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18">https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18</a>.
 
 [^05NIshantShah_105]: Neda Atanasoski and Kalindi Vora, *Surrogate Humanity:* *Race,
     Robots, and the Politics of Technological Futures*, Durham: Duke
@@ -2610,16 +2611,16 @@ written.
 [^05NIshantShah_106]: Kate Crawford and Vladan Joler, ‘Anatomy of an AI System: The
     Amazon Echo as an Anatomical Map of Human Labor, Data and Planetary
     Resources’, *AI Now Institute and Share Lab*, 7 September 2018,
-    https://anatomyof.ai.
+    <a href="https://anatomyof.ai">https://anatomyof.ai</a>.
 
 [^05NIshantShah_107]: IANS, ‘Google Techie’s Lynching in Karnataka: How an Act of
     Kindness Turned Deadly’, *Business Standard*, 16 July 2018,
-    https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351\_1.html.
+    <a href="https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351%5C_1.html">https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351\_1.html</a>.
 
 [^05NIshantShah_108]: Reuters, ‘Bidar Lynching: He Looked Like terrorist, Says
     Villager, Days After WhatsApp Rumour Leads to Death of 1 in Rural
     Karnataka’, *Firstpost*, 30 July 2018,
-    https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html.
+    <a href="https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html">https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html</a>.
 
 [^05NIshantShah_109]: Maria Manzano, *Extensions of First-Order Logic.* Cambridge
     Tracts in Theoretical Computer Science, Series \# 19. Cambridge:
@@ -2635,16 +2636,17 @@ written.
 [^05NIshantShah_112]: Kristen Gelineau and Jon Gambrell, ‘New Zealand Mosque Shooter
     is a White Nationalist who Hates Immigrants, Documents and Video
     Reveal’, *Chicago Tribune*, 16 March 2019,
-    https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html.
+    <a href="https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html">https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html</a>.
 
 [^05NIshantShah_113]: Charlotte Graham-McLay, ‘Spreading the Mosque Shooting Video is
     a Crime in New Zealand’, *The New York Times*, 21 March 2019,
-    https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html.
+    <a href="https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html">https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html</a>.
 
 [^05NIshantShah_114]: BBC, ‘New Zealand Man Jailed for 21 Months for Sharing
     Christchurch Shooting Video’, *BBC News*, 18 June 2019,
-    https://www.bbc.com/news/world-asia-48671837.
+    <a href="https://www.bbc.com/news/world-asia-48671837">https://www.bbc.com/news/world-asia-48671837</a>.
 
 [^05NIshantShah_115]: Ben Strang, ‘Thousands Don’t Believe Official Christchurch
     Terror Attacks Story’, *RNZ*, 4 April 2019,
-    https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story.
+    <a href="https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story">https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story</a>.
+

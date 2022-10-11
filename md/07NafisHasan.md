@@ -2087,14 +2087,14 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_1]: ‘Over 22k Indian Websites, 114 Govt Portals Hacked between Apr
     2017-Jan 2018’, 7 March 2018,
-    https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html.
+    <a href="https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870%5C_1.html">https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html</a>.
 
 [^07NafisHasan_2]: For instance, see Shira Ovide, ‘A Fix-It Job for Government Tech’,
     24 November 2021,
-    https://www.nytimes.com/2021/11/24/technology/government-tech.html.
+    <a href="https://www.nytimes.com/2021/11/24/technology/government-tech.html">https://www.nytimes.com/2021/11/24/technology/government-tech.html</a>.
 
 [^07NafisHasan_3]: ‘Infosys Annual Report, 1993–94’, April 1994,
-    https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf.
+    <a href="https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf">https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf</a>.
 
 [^07NafisHasan_4]: George Chacko, ‘INFOSYS: New Game, New Rules: A Case Study’,
     *Management Research News* 27.8/9 (2004): 1–25.
@@ -2119,10 +2119,10 @@ government since the Commission built its first centralized database?
     Post-Intelligencer*, 1924, 23 March 2004.
 
 [^07NafisHasan_11]: [Miles
-    Brignall](https://www.theguardian.com/profile/milesbrignall), ‘HSBC
+    <a href="http://Brignall](https://www.theguardian.com/profile/milesbrignall)">Brignall](https://www.theguardian.com/profile/milesbrignall)</a>, ‘HSBC
     Indian Call Centre Worker Accused of Hacking into Accounts’, *The
     Guardian*, 29 June 2006,
-    https://www.theguardian.com/money/2006/jun/29/business.india.
+    <a href="https://www.theguardian.com/money/2006/jun/29/business.india">https://www.theguardian.com/money/2006/jun/29/business.india</a>.
 
 [^07NafisHasan_12]: Andrew Barry, Thomas Osborne and Nikolas Rose (eds), *Foucault
     and Political Reason: Liberalism, Neo-liberalism and Rationalities
@@ -2151,18 +2151,18 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_18]: Venkat Ananth, ‘Government of India: The World’s Biggest App
     Factory’, *The Ken*, 17 October 2016,
-    https://the-ken.com/story/government-india-worlds-biggest-app-factory/.
+    <a href="https://the-ken.com/story/government-india-worlds-biggest-app-factory/">https://the-ken.com/story/government-india-worlds-biggest-app-factory/</a>.
 
 [^07NafisHasan_19]: Ananth, ‘Government of India’.
 
 [^07NafisHasan_20]: National Council of Applied Economic Research, *The NCAER Land
     Records and Services Index (N-LRSI) 2020*, Report 20200201, February
-    2020, https://www.ncaer.org/publication\_details.php?pID=317.
+    2020, <a href="https://www.ncaer.org/publication%5C_details.php?pID=317">https://www.ncaer.org/publication\_details.php?pID=317</a>.
 
 [^07NafisHasan_21]: The National e-Governance Plan is an initiative of the Government
     of India to make all government services available to the citizens
     of India via electronic media. For details, see
-    https://www.meity.gov.in/divisions/national-e-governance-plan.
+    <a href="https://www.meity.gov.in/divisions/national-e-governance-plan">https://www.meity.gov.in/divisions/national-e-governance-plan</a>.
 
 [^07NafisHasan_22]: Personal interview with the Director of NIC Shillong, Timothy
     Dkhar, in September 2019.
@@ -2170,14 +2170,14 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_23]: ‘Over 22k Indian Websites, 114 Govt Portals Hacked’.
 
 [^07NafisHasan_24]: See ‘Chapter 6: Transfer of Personal Data Outside India’, in
-   Committee of Experts under the
+    Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India, 2018,
-    https://www.meity.gov.in/writereaddata/files/Data\_Protection\_Committee\_Report.pdf..
-    Also see, Parminder Jeet Singh, ‘Bringing
+    <a href="https://www.meity.gov.in/writereaddata/files/Data%5C_Protection%5C_Committee%5C_Report.pdf">https://www.meity.gov.in/writereaddata/files/Data\_Protection\_Committee\_Report.pdf</a>..
+    Also see,Parminder Jeet Singh, ‘Bringing
     Data under the Rule of Law’, *The Hindu*, 20 September 2018,
-    https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece.
+    <a href="https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece">https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece</a>.
 
 [^07NafisHasan_25]: Barry et al., *Foucault and Political Reason.*
 
@@ -2259,7 +2259,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_48]: Michael Castelle, ‘Relational and
     Non-Relational Models in the Entextualization of Bureaucracy’,
     *Computational Culture* 3 (November 2013).
-    http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/.
+    <a href="http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/">http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/</a>.
 
 [^07NafisHasan_49]: This was between August and September 2019 at the NIC in
     Shillong.
@@ -2280,7 +2280,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_55]: Campbell-Kelly, ‘The RDBMS Industry', p. 18.
 
-[^07NafisHasan_56]: IDM-Informix Tie-up, *Times of
+[^07NafisHasan_56]: ‘IDM-Informix Tie-up’, *Times of
     India*, 24 December 1989, ProQuest Historical Newspapers.
 
 [^07NafisHasan_57]: ‘IDM-Informix Tie-up’.
@@ -2295,7 +2295,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_61]: ‘Oracle Opens India Liaison Office’,
     *Dataquest*, 1991,
-    https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991.
+    <a href="https://itihaasa.com/describe/artefact/001%5C_001%5C_0568?referenceYear=1991">https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991</a>.
 
 [^07NafisHasan_62]: ‘Oracle Opens India Liaison Office’.
 
@@ -2305,7 +2305,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_64]: ‘Overseas Appointments’, *The* *Times
     of India*, 20 September 1992, ProQuest Historical Newspapers;
     ‘Appointments,’ *The Times of India*, 6
-    April 1993, ProQuest Historical Newspapers; []‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
+    April 1993, ProQuest Historical Newspapers; ‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
     ProQuest Historical Newspapers.
 
 [^07NafisHasan_65]: ‘On the Move’, *The* *Times of India*,
@@ -2332,7 +2332,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_72]: Narula, ‘Bank Automation Gets Competitive’.
 
-[^07NafisHasan_73]: T. Narayanaswami, ‘The Central
+[^07NafisHasan_73]:  T. Narayanaswami, ‘The Central
     Solution’, *The Times of India*, 7 May 1996, ProQuest Historical
     Documents.
 
@@ -2344,10 +2344,10 @@ government since the Commission built its first centralized database?
     difficult to obtain in large RDBMS-based applications. Nowadays,
     hardware resources were no longer a constraint, and the flexible
     data structures possible with an RDBMS core would greatly enhance
-    overall application flexibility’. See []Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
+    overall application flexibility’. See Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
     ‘Modernization of Passenger Reservation System: Indian Railway’s
     Dilemma, *ICIS 2006 Proceedings* 98 (2006).
-    http://aisel.aisnet.org/icis2006/98.
+    <a href="http://aisel.aisnet.org/icis2006/98">http://aisel.aisnet.org/icis2006/98</a>.
 
 [^07NafisHasan_75]: Srivastava et al., ‘Modernization of Passenger Reservation
     System’, p. 434.
@@ -2379,7 +2379,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_83]: Akshatha M, ‘Land Sharks Hack Bhoomi
     Data, Shift Government Land Title’, *The Economic Times*, 10
     September 2018,
-    https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms.
+    <a href="https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms">https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms</a>.
 
 [^07NafisHasan_84]: Bhoomi software, introduced to digitize land records, came into
     being in 2002.
@@ -2419,7 +2419,7 @@ government since the Commission built its first centralized database?
     the National eGovernance Plan. Pilot Implementation Guidelines’,
     Department of Information Technology, Government of India, January
     2009,
-    https://www.meity.gov.in/writereaddata/files/eDistGuidelines\_Feb09(rev1).pdf.
+    <a href="https://www.meity.gov.in/writereaddata/files/eDistGuidelines%5C_Feb09(rev1).pdf">https://www.meity.gov.in/writereaddata/files/eDistGuidelines\_Feb09(rev1).pdf</a>.
 
 [^07NafisHasan_94]: ‘eDistrict Mission Mode Project Under the National eGovernance
     Plan’.
@@ -2453,7 +2453,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_105]: ‘Why Late Justice Krishna Iyer Opposed Biometric Aadhaar’,
     *ToxicsWatch*, 10 December 2014,
-    http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html.
+    <a href="http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html">http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html</a>.
 
 [^07NafisHasan_106]: ‘Setting up of a National Informatics Centre’.
 
@@ -2469,13 +2469,13 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_112]: ‘Request for Proposal (RFP) For
     Selection of SWAN TPA’,
-    https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf.
+    <a href="https://www.meity.gov.in/writereaddata/files/An8%5C_Indicative%5C_SWAN.pdf">https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf</a>.
 
 [^07NafisHasan_113]: ‘Request for Proposal (RFP) For Selection of SWAN TPA’, p. 8.
 
 [^07NafisHasan_114]: ‘WGITA – IDI Handbook on IT Audit for
     Supreme Audit Institutions’, February 2014,
-    https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF.
+    <a href="https://icisa.cag.gov.in/resource%5C_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF">https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF</a>.
 
 [^07NafisHasan_115]: ‘WGITA – IDI Handbook on IT Audit’, p. 1.
 
@@ -2488,4 +2488,4 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_119]: Nils Gilman, Jesse Goldhammer and
     Steven Weber, ‘Can You Secure an Iron Cage?’, *Limn*, Issue 8,
     February 2017,
-    https://limn.it/articles/can-you-secure-an-iron-cage/.
+    <a href="https://limn.it/articles/can-you-secure-an-iron-cage/">https://limn.it/articles/can-you-secure-an-iron-cage/</a>.
