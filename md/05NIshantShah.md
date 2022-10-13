@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# The Insidiousness of Information Overload {#the-insidiousness-of-information-overload .TOCHeading}
+# The Insidiousness of Information Overload 
 
 ### Nishant Shah
 
