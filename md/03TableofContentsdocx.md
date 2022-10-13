@@ -71,27 +71,31 @@ Asia*, *Political and Legal Anthropology Review*, and *Economic and
 Political Weekly*, and popular outlets such as thewire.in, *New Indian
 Express* and raiot.in. This is his first book. 
 
-Table of Contents
+#Table of Contents
 
-01\. Series Introduction
+ <a href='ch004.xhtml'>**Series Introduction**</a>
+<br/>
 
-02\. Foreword - Chinmayi Arun
+<a href='ch005.xhtml'>**The Insidiousness of Information Overload**</a>
+<br/>Nishant Shah 
 
-03\. Introduction - Data Without Content, or the Medium With no Message
+<a href='ch006.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
+<br/>Ashish Rajadhyaksha
 
-04\. The Insidiousness of Information Overload - Nishant Shah 
+<a href='ch007.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
+Digital Governance**</a>
+<br/>Nafis Aziz Hasan
 
-05. The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times - Ashish Rajadhyaksha  
+<a href='ch008.xhtml'>**About the book: *An* Internet *from* India**</a>
+<br/>
 
-06\. ‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
-Digital Governance - Nafis Aziz Hasan
+<a href='ch009.xhtml'>**Annotated timeline**</a>
+<br/>
 
-07\. About the book: *An* Internet *from* India
+<a href='ch010.xhtml'>**The Archive**</a>
+<br/>
 
-08\. Annotated timeline
+<a href='ch012.xhtml'>**Consolidated bibliography**</a>
 
-09\. The Archive
-
-10\. Consolidated bibliography
-
-11\. Acknowledgments
+<a href='ch013.xhtml'>**Acknowledgments**</a>
+<br/>

@@ -511,14 +511,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>[Miles Brignall]</Content>
+        </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>Miles &lt;a href=&quot;http://Brignall</Content>
+            <Content>https://www.theguardian.com/profile/milesbrignall</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>&quot;&gt;Brignall](https://www.theguardian.com/profile/milesbrignall)</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, ‘HSBC Indian Call Centre Worker Accused of Hacking into Accounts’, </Content>
         </CharacterStyleRange>

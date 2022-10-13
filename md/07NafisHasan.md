@@ -2118,8 +2118,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_10]: Thomas Friedman, ‘‘Will India Seize the Moment?’’, *Seattle
     Post-Intelligencer*, 1924, 23 March 2004.
 
-[^07NafisHasan_11]: [Miles
-    <a href="http://Brignall](https://www.theguardian.com/profile/milesbrignall)">Brignall](https://www.theguardian.com/profile/milesbrignall)</a>, ‘HSBC
+[^07NafisHasan_11]: [Miles Brignall]<https://www.theguardian.com/profile/milesbrignall>, ‘HSBC
     Indian Call Centre Worker Accused of Hacking into Accounts’, *The
     Guardian*, 29 June 2006,
     <a href="https://www.theguardian.com/money/2006/jun/29/business.india">https://www.theguardian.com/money/2006/jun/29/business.india</a>.
