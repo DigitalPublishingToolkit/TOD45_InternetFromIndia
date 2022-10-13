@@ -3306,7 +3306,8 @@ rumors floated by some vested elements’. The arrests, they said, had
 been made ‘based on analysis of scientific and forensic evidence,
 including video footages, technical & other footprints’.[^06AshishRajadhayksha_10]
 
-\*\*\*
+\_\_\_\_\_\_
+
 
 This essay does not deal with the specific legal situation that Safoora
 Zargar and her colleagues face. Nor does it deal with the condition of
@@ -3391,7 +3392,7 @@ one’s exclusion from substantive citizenship’, says Jayal.[^06AshishRajadhay
 would thus produce some of its most elaborate contours in India as a
 fight for social justice.
 
-\*\*\*
+\_\_\_\_\_\_
 
 Digital platforms arrived in the 2000s with the intention of delivering
 state welfare with a utopian promise. They were to accurately identify
@@ -5012,7 +5013,7 @@ including and especially those of the right to fuzzy or blurred
 self-description – were seen as having been enabled (or disabled) by the
 link of biometric to basic demographic data.
 
-The question Who is a legal person? has vexed courts in India. We know
+The question who is a legal person? has vexed courts in India. We know
 that, although a ‘person’ is always an individual, various entities can
 have ‘juridical personality’ – including, at different points, animals,
 rivers, corporations and even, as recently seen, deities. Such legal
@@ -8368,14 +8369,14 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_1]: ‘Over 22k Indian Websites, 114 Govt Portals Hacked between Apr
     2017-Jan 2018’, 7 March 2018,
-    https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html.
+    <a href="https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870%5C_1.html">https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html</a>.
 
 [^07NafisHasan_2]: For instance, see Shira Ovide, ‘A Fix-It Job for Government Tech’,
     24 November 2021,
-    https://www.nytimes.com/2021/11/24/technology/government-tech.html.
+    <a href="https://www.nytimes.com/2021/11/24/technology/government-tech.html">https://www.nytimes.com/2021/11/24/technology/government-tech.html</a>.
 
 [^07NafisHasan_3]: ‘Infosys Annual Report, 1993–94’, April 1994,
-    https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf.
+    <a href="https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf">https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf</a>.
 
 [^07NafisHasan_4]: George Chacko, ‘INFOSYS: New Game, New Rules: A Case Study’,
     *Management Research News* 27.8/9 (2004): 1–25.
@@ -8400,10 +8401,10 @@ government since the Commission built its first centralized database?
     Post-Intelligencer*, 1924, 23 March 2004.
 
 [^07NafisHasan_11]: [Miles
-    Brignall](https://www.theguardian.com/profile/milesbrignall), ‘HSBC
+    <a href="http://Brignall](https://www.theguardian.com/profile/milesbrignall)">Brignall](https://www.theguardian.com/profile/milesbrignall)</a>, ‘HSBC
     Indian Call Centre Worker Accused of Hacking into Accounts’, *The
     Guardian*, 29 June 2006,
-    https://www.theguardian.com/money/2006/jun/29/business.india.
+    <a href="https://www.theguardian.com/money/2006/jun/29/business.india">https://www.theguardian.com/money/2006/jun/29/business.india</a>.
 
 [^07NafisHasan_12]: Andrew Barry, Thomas Osborne and Nikolas Rose (eds), *Foucault
     and Political Reason: Liberalism, Neo-liberalism and Rationalities
@@ -8432,18 +8433,18 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_18]: Venkat Ananth, ‘Government of India: The World’s Biggest App
     Factory’, *The Ken*, 17 October 2016,
-    https://the-ken.com/story/government-india-worlds-biggest-app-factory/.
+    <a href="https://the-ken.com/story/government-india-worlds-biggest-app-factory/">https://the-ken.com/story/government-india-worlds-biggest-app-factory/</a>.
 
 [^07NafisHasan_19]: Ananth, ‘Government of India’.
 
 [^07NafisHasan_20]: National Council of Applied Economic Research, *The NCAER Land
     Records and Services Index (N-LRSI) 2020*, Report 20200201, February
-    2020, https://www.ncaer.org/publication\_details.php?pID=317.
+    2020, <a href="https://www.ncaer.org/publication%5C_details.php?pID=317">https://www.ncaer.org/publication\_details.php?pID=317</a>.
 
 [^07NafisHasan_21]: The National e-Governance Plan is an initiative of the Government
     of India to make all government services available to the citizens
     of India via electronic media. For details, see
-    https://www.meity.gov.in/divisions/national-e-governance-plan.
+    <a href="https://www.meity.gov.in/divisions/national-e-governance-plan">https://www.meity.gov.in/divisions/national-e-governance-plan</a>.
 
 [^07NafisHasan_22]: Personal interview with the Director of NIC Shillong, Timothy
     Dkhar, in September 2019.
@@ -8451,14 +8452,14 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_23]: ‘Over 22k Indian Websites, 114 Govt Portals Hacked’.
 
 [^07NafisHasan_24]: See ‘Chapter 6: Transfer of Personal Data Outside India’, in
-   Committee of Experts under the
+    Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India, 2018,
-    https://www.meity.gov.in/writereaddata/files/Data\_Protection\_Committee\_Report.pdf..
-    Also see, Parminder Jeet Singh, ‘Bringing
+    <a href="https://www.meity.gov.in/writereaddata/files/Data%5C_Protection%5C_Committee%5C_Report.pdf">https://www.meity.gov.in/writereaddata/files/Data\_Protection\_Committee\_Report.pdf</a>..
+    Also see,Parminder Jeet Singh, ‘Bringing
     Data under the Rule of Law’, *The Hindu*, 20 September 2018,
-    https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece.
+    <a href="https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece">https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece</a>.
 
 [^07NafisHasan_25]: Barry et al., *Foucault and Political Reason.*
 
@@ -8540,7 +8541,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_48]: Michael Castelle, ‘Relational and
     Non-Relational Models in the Entextualization of Bureaucracy’,
     *Computational Culture* 3 (November 2013).
-    http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/.
+    <a href="http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/">http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/</a>.
 
 [^07NafisHasan_49]: This was between August and September 2019 at the NIC in
     Shillong.
@@ -8561,7 +8562,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_55]: Campbell-Kelly, ‘The RDBMS Industry', p. 18.
 
-[^07NafisHasan_56]: IDM-Informix Tie-up, *Times of
+[^07NafisHasan_56]: ‘IDM-Informix Tie-up’, *Times of
     India*, 24 December 1989, ProQuest Historical Newspapers.
 
 [^07NafisHasan_57]: ‘IDM-Informix Tie-up’.
@@ -8576,7 +8577,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_61]: ‘Oracle Opens India Liaison Office’,
     *Dataquest*, 1991,
-    https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991.
+    <a href="https://itihaasa.com/describe/artefact/001%5C_001%5C_0568?referenceYear=1991">https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991</a>.
 
 [^07NafisHasan_62]: ‘Oracle Opens India Liaison Office’.
 
@@ -8586,7 +8587,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_64]: ‘Overseas Appointments’, *The* *Times
     of India*, 20 September 1992, ProQuest Historical Newspapers;
     ‘Appointments,’ *The Times of India*, 6
-    April 1993, ProQuest Historical Newspapers; []‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
+    April 1993, ProQuest Historical Newspapers; ‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993,
     ProQuest Historical Newspapers.
 
 [^07NafisHasan_65]: ‘On the Move’, *The* *Times of India*,
@@ -8613,7 +8614,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_72]: Narula, ‘Bank Automation Gets Competitive’.
 
-[^07NafisHasan_73]: T. Narayanaswami, ‘The Central
+[^07NafisHasan_73]:  T. Narayanaswami, ‘The Central
     Solution’, *The Times of India*, 7 May 1996, ProQuest Historical
     Documents.
 
@@ -8625,10 +8626,10 @@ government since the Commission built its first centralized database?
     difficult to obtain in large RDBMS-based applications. Nowadays,
     hardware resources were no longer a constraint, and the flexible
     data structures possible with an RDBMS core would greatly enhance
-    overall application flexibility’. See []Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
+    overall application flexibility’. See Shirish C. Srivastava, Sharat Mathur and Thompson Teo,
     ‘Modernization of Passenger Reservation System: Indian Railway’s
     Dilemma, *ICIS 2006 Proceedings* 98 (2006).
-    http://aisel.aisnet.org/icis2006/98.
+    <a href="http://aisel.aisnet.org/icis2006/98">http://aisel.aisnet.org/icis2006/98</a>.
 
 [^07NafisHasan_75]: Srivastava et al., ‘Modernization of Passenger Reservation
     System’, p. 434.
@@ -8660,7 +8661,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_83]: Akshatha M, ‘Land Sharks Hack Bhoomi
     Data, Shift Government Land Title’, *The Economic Times*, 10
     September 2018,
-    https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms.
+    <a href="https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms">https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms</a>.
 
 [^07NafisHasan_84]: Bhoomi software, introduced to digitize land records, came into
     being in 2002.
@@ -8700,7 +8701,7 @@ government since the Commission built its first centralized database?
     the National eGovernance Plan. Pilot Implementation Guidelines’,
     Department of Information Technology, Government of India, January
     2009,
-    https://www.meity.gov.in/writereaddata/files/eDistGuidelines\_Feb09(rev1).pdf.
+    <a href="https://www.meity.gov.in/writereaddata/files/eDistGuidelines%5C_Feb09(rev1).pdf">https://www.meity.gov.in/writereaddata/files/eDistGuidelines\_Feb09(rev1).pdf</a>.
 
 [^07NafisHasan_94]: ‘eDistrict Mission Mode Project Under the National eGovernance
     Plan’.
@@ -8734,7 +8735,7 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_105]: ‘Why Late Justice Krishna Iyer Opposed Biometric Aadhaar’,
     *ToxicsWatch*, 10 December 2014,
-    http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html.
+    <a href="http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html">http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html</a>.
 
 [^07NafisHasan_106]: ‘Setting up of a National Informatics Centre’.
 
@@ -8750,13 +8751,13 @@ government since the Commission built its first centralized database?
 
 [^07NafisHasan_112]: ‘Request for Proposal (RFP) For
     Selection of SWAN TPA’,
-    https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf.
+    <a href="https://www.meity.gov.in/writereaddata/files/An8%5C_Indicative%5C_SWAN.pdf">https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf</a>.
 
 [^07NafisHasan_113]: ‘Request for Proposal (RFP) For Selection of SWAN TPA’, p. 8.
 
 [^07NafisHasan_114]: ‘WGITA – IDI Handbook on IT Audit for
     Supreme Audit Institutions’, February 2014,
-    https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF.
+    <a href="https://icisa.cag.gov.in/resource%5C_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF">https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF</a>.
 
 [^07NafisHasan_115]: ‘WGITA – IDI Handbook on IT Audit’, p. 1.
 
@@ -8769,7 +8770,7 @@ government since the Commission built its first centralized database?
 [^07NafisHasan_119]: Nils Gilman, Jesse Goldhammer and
     Steven Weber, ‘Can You Secure an Iron Cage?’, *Limn*, Issue 8,
     February 2017,
-    https://limn.it/articles/can-you-secure-an-iron-cage/.
+    <a href="https://limn.it/articles/can-you-secure-an-iron-cage/">https://limn.it/articles/can-you-secure-an-iron-cage/</a>.
 
 
 
@@ -9781,46 +9782,61 @@ establishment of these rules and show how these draconian measures are
 slowly leading to erasure of free-speech rights.
 
 
+## **The Archive**
 
-**The Archive**
-
-Fig 0: March 2011, Ratu Block, Ranchi. A tribal woman gets enrolled in
+![Fig 0: March 2011, Ratu Block, Ranchi. A tribal woman gets enrolled in
 Aadhaar, in the first year of its full operation across Bihar. Inage
-taken in the first stage of the CSCS Identity project field work.
+taken in the first stage of the CSCS Identity project field work.](imgs/01TOD46.png)
 
-**SECTION 1**
+<br/>
 
-Fig 1. The Tenth Five-year Plan, 2002-07, and
+
+## **SECTION 1**
+![Fig 1. The Tenth Five-year Plan, 2002-07, and
 usually seen as the point when e-governance was launched in India. It
 saw the implementation of the Information Technology Act of 2000 and the
 founding of the Ministry of Information Technology, the mass
 computerisation of government departments and the launch of the ERNET
-linking academic and research institutions in India.
+linking academic and research institutions in India.](imgs/02TOD46.jpg)
 
-Fig 2. February 2016, Hisar, Haryana. Internet shutdown under Section
+<br/>
+
+![Fig 2. February 2016, Hisar, Haryana. Internet shutdown under Section
 144 directly targeting ‘WhatsApp, Facebook, Twitter, Instagram, Flickr,
 Tumblr and Google +’. This occurred in the wake of protests by the Jat
 community for inclusion of their caste under the Other Backward castes
-(OBC) community.
+(OBC) community.](imgs/03TOD46.png)
 
-Fig 3. February 2016, Jind district, Haryana. District Magistrate Order
+<br/>
+
+![Fig 3. February 2016, Jind district, Haryana. District Magistrate Order
 for internet shutdown under Section 144 of the Indian Criminal Procedure
 Code, in the wake of major agitations by farmers in Punjab and
-neighbouring states.
+neighbouring states.](imgs/04TOD46.png)
 
-Fig 4. March 2020, Bangalore. Karnataka government guidelines for
+<br/>
+
+![Fig 4. March 2020, Bangalore. Karnataka government guidelines for
 self-quarantining using the Quarantine Watch mobile app during the first
-COVID lockdown.
+COVID lockdown.](imgs/05TOD46.png)
 
-Fig 5. March 2020, Delhi. Delhi police put out a Twitter post, following
+<br/>
+
+![Fig 5. March 2020, Delhi. Delhi police put out a Twitter post, following
 the arrest of the student activist Safoora Zargar, for her role in the
-protests against the Citizenship Amendment Act, 2019.
+protests against the Citizenship Amendment Act, 2019.](imgs/06TOD46.png)
 
-Fig 6. April 2020, Delhi. The Cabinet Secretariat of the President of
+
+<br/>
+
+![Fig 6. April 2020, Delhi. The Cabinet Secretariat of the President of
 India announces a Committee for implementing what is explicitly
-described as a ‘citizen app’, ostensibly for combating COVID.
+described as a ‘citizen app’, ostensibly for combating COVID.](imgs/07TOD46.png)
 
-Fig 7. April 2020, Delhi. Broadcast Engineering Consultants India,
+<br/>
+
+
+![Fig 7. April 2020, Delhi. Broadcast Engineering Consultants India,
 Ministry of Information & Broadcasting, puts out a call for a Covid
 Tracking tool that is directly a surveillance app, which should be able
 to ‘identify close contacts, frequent contacts as well as occasional
@@ -9829,146 +9845,211 @@ his/her time and who all he or she has met’, ‘zero in on connections
 with Watch List suspects’, ‘Identify a suspects behaviour, see what he
 or she does on specific days of the week, where does he or she order
 food from, where does the suspect go for regular walks, where does
-he/she work during the day, where does he/she sleep at night etc’.
+he/she work during the day, where does he/she sleep at night etc’.](imgs/08TOD46.png)
 
-**SECTION 2**
+<br/>
 
-Fig 8. October 1975. One of the earliest project outlines for the
-management of a centralised data system by the Planning Commission.
 
-Fig 9. April 1976, Delhi. Parliament of India Public Accounts Committee
+## **SECTION 2**
+
+
+![Fig 8. October 1975. One of the earliest project outlines for the
+management of a centralised data system by the Planning Commission.](imgs/09TOD46.png)
+
+<br/>
+
+
+![Fig 9. April 1976, Delhi. Parliament of India Public Accounts Committee
 1975-97: the first explicit governmental concern about hacking and data
-security.
+security.](imgs/10TOD46.png)
 
-Fig 10. May 1976. J.G. Krishnayya’s *aide memoire* on the design of an
+<br/>
+
+
+![Fig 10. May 1976. J.G. Krishnayya’s *aide memoire* on the design of an
 information system for a computerised data bank by the Planning
-Commission.
+Commission.](imgs/11TOD46.png)
 
-Fig 11. 1987. N. Seshagiri *et al*: in many ways a founding document for
+<br/>
+
+
+![Fig 11. 1987. N. Seshagiri *et al*: in many ways a founding document for
 the NICNET, outlining a hierarchical networked system for all arms of
 the Government by the National Informatics Centre, together with a
-distributed DBMS system.
+distributed DBMS system.](imgs/12TOD46.png)
 
-Fig 12. December 1990. N. Seshagiri’s forecast for what the future holds
+<br/>
+
+
+![Fig 12. December 1990. N. Seshagiri’s forecast for what the future holds
 for NIC, especially in regard to ISDNs creating a *diversity of
 networks* with different priorities, as against a single, hierarchical
-and centralised network.
+and centralised network.](imgs/13TOD46.png)
 
-Fig 13. 1996. Two decades after J.G. Krishnayya’s initial outlines, the
+<br/>
+
+
+![Fig 13. 1996. Two decades after J.G. Krishnayya’s initial outlines, the
 National informatics Centre outlines DISNIC, a decentralized information
 architecture that connected departments through a network enabling
-micro-level, village-centered, planning.
+micro-level, village-centered, planning.](imgs/14TOD46.png)
 
-Fig 14. 1999, Bangalore. Visual interface for the Simputer, a handheld
+<br/>
+
+![Fig 14. 1999, Bangalore. Visual interface for the Simputer, a handheld
 smartcard-compliant device invented by scientists from the Indian
-Institute of Science.
+Institute of Science.](imgs/15TOD46.png)
 
-Fig 15. June 2000, Delhi. The Information Technology Act, including its
+<br/>
+
+![Fig 15. June 2000, Delhi. The Information Technology Act, including its
 Sections 66A and 69A, digitally upgrading, and also significantly
 transforming, the right to free speech.
+](imgs/16TOD46.png)
 
-Fig 16. December 2003, Delhi. The first major amendment to the 1955
+<br/>
+
+![Fig 16. December 2003, Delhi. The first major amendment to the 1955
 Citizenship Act, with the Citizenship Registration and National Identity
-Cards Rules.
+Cards Rules.](imgs/17TOD46.png)
 
-Fig 17. 2004, Bangalore. Major report on the consequences of Bhoomi, or
+<br/>
+
+![Fig 17. 2004, Bangalore. Major report on the consequences of Bhoomi, or
 the digitization of land records, and the nature of change pre-and
 post-Bhoomi. Information and Communications Technologies for
 Development*: A Comparative Analysis of Impacts and Costs from India*:
 report funded by The Department of Information Technology (DIT) and
 Infosys Technologies, Bangalore.
+](imgs/18TOD46.png)
 
-Fig 18. March 2006. The National Informatics Centre’s Digital inclusion
+<br/>
+
+![Fig 18. March 2006. The National Informatics Centre’s Digital inclusion
 project targeting rural India as well as arguing for localisation of
 data, coinciding with the first meetings of the National E-Governance
-Plan the same year.
+Plan the same year.](imgs/19TOD46.png)
 
-Fig 19. May 2006. The National E-Governance Plan (NeGP) outlines for
+<br/>
+
+![Fig 19. May 2006. The National E-Governance Plan (NeGP) outlines for
 creating e-districts, namely the electronic delivery ‘high volume
 citizen-centric services’ at the district level that are not included in
 any of its other 39 mission-mode projects.
+](imgs/20TOD46.png)
 
-Fig 20. 2008. Expert Committee on Metadata and Data Standards to
+<br/>
+
+
+![Fig 20. 2008. Expert Committee on Metadata and Data Standards to
 ‘identify *each and every person uniquely* at the national level’ to
 ensure ‘interoperability of information related to individuals collected
-by various Govt./non Gov. organizations’.
+by various Govt./non Gov. organizations’.](imgs/21TOD46.png)
 
-Fig 21. December 2008, Delhi. Second Administrative Reforms Commission,
+<br/>
+
+
+![Fig 21. December 2008, Delhi. Second Administrative Reforms Commission,
 report on ‘Promoting E-Governance, the SMART Way Forward’ introducing
 the concept of ‘SMART’ (Simple, Moral, Accountable, Responsive and
 Transparent’), also transforming governance into a form of service
-providing, with significant consequences to social and economic rights.
+providing, with significant consequences to social and economic rights.](imgs/22TOD46.png)
 
-Fig 22. 2009, Delhi. The Planning Commission produces the original
+<br/>
+
+![Fig 22. 2009, Delhi. The Planning Commission produces the original
 founding document of the Unique identification Authority of India
-(UIDAI).
+(UIDAI).](imgs/23TOD46.png)
 
-Fig 23. April 2010. Inaugural document of the UIDAI, ‘Creating a Unique
+<br/>
+
+![Fig 23. April 2010. Inaugural document of the UIDAI, ‘Creating a Unique
 identity Number for Every resident in India’ (UIDAI Working paper 1.1),
 outlining a ‘new approach to identity’. This document does not exist on
 UIDAI’s database any longer. Also: the Aadhaar enrolment ecosystem as
 envisaged in the initial document, as a public-private partnership,
-leading to several questions about the security of the data.
+leading to several questions about the security of the data.](imgs/24TOD46.png)
 
-Fig 24. June 2010. Aadhar Working paper on its envisaged role in the
+<br/>
+
+![Fig 24.1. June 2010. Aadhar Working paper on its envisaged role in the
 Public Distribution System (PDS) for food security. Coming on the heels
 of the Right to Food campaign and the National food security Bill that
 was even then being drafted, it made an already controversial Targeted
 Public Distribution System defined by poverty levels even more
-problematic.
+problematic.](imgs/25TOD46.png)
 
-Fig 25. 2011. Aadhar and National Population demographic data forms.
+<br/>
+
+![Fig 24.2. 2011. Aadhar and National Population demographic data forms.
 Aadhar’s data limited to name, age, address and 9for minors)
 relationship to enroller. Notably, the linking of Aadhar to bank account
 was kept optional. NPR by contrast had 12 datasets.
+](imgs/26TOD46.png)
 
-Fig 26. 2015. UIDAI workflow pattern, juxtaposed with the big picture
+<br/>
+
+![Fig 25. 2015. UIDAI workflow pattern, juxtaposed with the big picture
 image of E-Kranti (the E-Revolution), the second stage of the National
 E-Governance Plan. Defined by the famous slogan that it is about
 ‘transformation, not translation’, and that it is an ‘integrated’ set of
 services based on ‘infrastructure on demand’, run largely on cloud and
-mobile applications.
+mobile applications.](imgs/27TOD46.png)
 
-Fig 27. 2016. Free Basics, a collaborative project between Facebook and
+<br/>
+
+![Fig 26. 2016. Free Basics, a collaborative project between Facebook and
 the Government of India widely viewed as threatening the neutrality of
 the internet, mounts a direct signature drive to ask people to write to
-the Telecom Regulatory Authority of India.
+the Telecom Regulatory Authority of India.](imgs/28TOD46.png)
 
-Fig 28. September 2018, Delhi. Supreme Court of India, Justice K.S.
+<br/>
+
+![Fig 27. September 2018, Delhi. Supreme Court of India, Justice K.S.
 Puttaswamy (Retd) versus Union of India, on the legal validity of the
 Aadhar Bill. Dissenting judgment by Y.V. Chandrachud, on the ubiquity of
 Aadhaar control of everyday life, and the ‘chilling effect’ of the ‘gaze
-of the state’.
+of the state’.](imgs/29TOD46.png)
 
-Fig 29. June 2019, Delhi. Lok Sabha Parliamentary question on the nature
+<br/>
+
+![Fig 28. June 2019, Delhi. Lok Sabha Parliamentary question on the nature
 of data Aadhar collects, and the answer ‘UIDAI do not collect
 information regarding race, religion, caste, tribe etc’. This was part
 of the original Aadhar Act, 2016. This clashes with several of the
 KYC-Plus data generated, which specifically ask for Caste data as well
 as economic category information. Alongside all of these is the famous
-dog, ‘Tommy Singh’, for whom an Aadhar card was created.
+dog, ‘Tommy Singh’, for whom an Aadhar card was created.](imgs/30TOD46.png)
 
-**SECTION 3**
+<br/>
 
-Fig 30. 2009-2012. Tensions rise around state control and social media.
+## **Section 3**
+
+<br/>
+
+![Fig 29. 2009-2012. Tensions rise around state control and social media.
 (Above) The UIDAI’s outlining of their partner registrars, and
 sidelining the NPR as ‘also’ one of the UIDAI’s partners, on condition
 that the NPR ‘incorporat(es) some additional procedures into the RGI
-data collection mechanism, in order to make it UID-ready’. (Below left:
+data collection mechanism, in order to make it UID-ready’. Below left:
 the original 2012 Facebook post that led to the Supreme Court case known
 as the ‘Shreya Singhal case’, challenging the validity of Section 66A of
-the Information Technology Act, 2000.
+the Information Technology Act, 2000.](imgs/31TOD46.png)
 
-Fig 31. (Top left) the original Facebook post that led to the Shreya
+<br/>
+
+![Fig 30. (Top left) the original Facebook post that led to the Shreya
 Singhal judgment. (Top right) The ‘Pink Chaddi’ campaign by a
 ‘Consortium of Pub-Going, Loose and Forward Women’, as a rejoinder to a
 Hindu right-wing organization’s targeting of young people celebrating
 Valentine’s Day, asking for gifts of pink knickers be sent to that
 organization. (Below): Twitter reposts by ‘Shami Witness’ in 2014,
 arrested for pro-ISIS views for whom he was ‘aggregating information’,
-in the words of Karnataka’s Director General of Police.
+in the words of Karnataka’s Director General of Police.](imgs/32TOD46.png)
 
-Fig 32. July 2010. The UIDAI signs a memorandum of Understanding with
+<br/>
+
+![Fig 31. July 2010. The UIDAI signs a memorandum of Understanding with
 the National Coalition of Organisations for Security of Migrant Workers,
 specifically providing for enabling migrants to register with Aadhar.
 This was a critical demonstration of how ‘portable identities’ worked. A
@@ -9976,43 +10057,62 @@ decade later this would be a major issue in March 2020, when the first
 Covid lockdown was declared and millions of such migrants found
 themselves without support in their workplaces but were unable to travel
 home because they could not prove their home address.
+](imgs/33TOD46.png)
 
-Fig 33. 2015, Delhi. Supreme Court of India Shreya Singhal vs U.O.I on
+<br/>
+
+
+![Fig 32. 2015, Delhi. Supreme Court of India Shreya Singhal vs U.O.I on
 24 March, 2015, defineds what ‘information’ is defined by the
 Information Technology Act.
+](imgs/34TOD46.png)
 
-Fig 34. September 2015, Manipur. The Churachandpur protests, following
+<br/>
+
+![Fig 33. September 2015, Manipur. The Churachandpur protests, following
 protests by Kuki groups opposing the introduction of Inner Line Permits,
 led to a week-long internet shutdown. Nine people died in police firing
 widely seen as directly instigated by that shutdown. In an astonishing
 display of physical occupation, for an entire year the bodies of the
 nine dead were kept on public display in mauve coffins under a shamiana,
 in front of which daily speeches occurred under a sign that said ‘Hills
-& Valley as separate entities: the new normal, learn to live with it’.
+& Valley as separate entities: the new normal, learn to live with it’.](imgs/35TOD46.png)
 
-Fig 35. August 2017, Delhi. the Temporary Shutdown of Telecom Services
-(TSTS) Rules are passed.
+<br/>
 
-Fig 36. 2018. The Justice B.N. Srikrishna Committee (aka *A Free and
+![Fig 34. August 2017, Delhi. the Temporary Shutdown of Telecom Services
+(TSTS) Rules are passed.](imgs/36TOD46.png)
+
+<br/>
+
+![Fig 35. 2018. The Justice B.N. Srikrishna Committee (aka *A Free and
 Fair Digital Economy: Protecting Privacy, Empowering Indians*, Ministry
 of Electronics and Information Technology) outlined what it considers
 ‘Sensitive Personal Data’, namely the data that should be the primary
-concerns of the draft Data Protection Bill that followed in 2019.
+concerns of the draft Data Protection Bill that followed in 2019.](imgs/37TOD46.png)
 
-Fig 37. 2019, Delhi. The final draft of the Privacy Bill, formally
+<br/>
+
+![Fig 36.1. 2019, Delhi. The final draft of the Privacy Bill, formally
 withdrawn in August 2022. This had followed the Supreme Court judgment
 of 2017 establishing privacy to be part of Article 21 of the Indian
 Constitution. Key sections, involving Data Fiduciaries, the localisation
 of data, and the exemptions that allow Central Government violation of
-privacy, were among its contentious issues.
+privacy, were among its contentious issues.](imgs/38TOD46.png)
 
-Fig 38. August 2019. The amendment of the Unlawful Activities Prevention
-Act, targeting individuals in addition to organizations as ‘terrorist’.
+<br/>
 
-Fig 39. December 2019: Citizenship Amendment Act 2019, specifically
-identifying religions that qualified for Indian citizenship.
+![Fig 36.2. August 2019. The amendment of the Unlawful Activities Prevention
+Act, targeting individuals in addition to organizations as ‘terrorist’.](imgs/39TOD46.png)
 
-Fig 40. March 2020, New Delhi. Use of the Information Technology
+<br/>
+
+![Fig 37. December 2019: Citizenship Amendment Act 2019, specifically
+identifying religions that qualified for Indian citizenship.](imgs/40TOD46.png)
+
+<br/>
+
+![Fig 38. March 2020, New Delhi. Use of the Information Technology
 (Intermediary Guidelines) Rules of 2011 to prevent ‘false news’ on
 Covid. These rules held ‘intermediaries’, more precisely ‘significant
 social media intermediaries’ (SSMIs), with registered users in India
@@ -10021,44 +10121,68 @@ further amended to require SSMIs to ‘observe certain additional due
 diligence such as appointing certain personnel for compliance, enabling
 identification of the first originator of the information on its
 platform under certain conditions, and deploying technology-based
-measures on a best-effort basis to identify certain types of content’.
+measures on a best-effort basis to identify certain types of content’.](imgs/41TOD46.png)
 
-Fig 41. June 2021. Arsenal Consulting, a Boston-based company
+<br/>
+
+![Fig 39.1. June 2021. Arsenal Consulting, a Boston-based company
 specializing in computer forensics, analyses hard disks by several
 academics, activists and lawyers imprisoned under the UAPA for what has
 come to be known as the ‘Bhima-Koregaon’ case, and proves that much of
 the evidence produced by the police alleging conspiracies to wage war
-against the Indian state were as a result of malware planted.
+against the Indian state were as a result of malware planted.](imgs/43TOD46.png)
 
-Fig 42. January 2020, Srinagar. State-wide order by the Inspector
+<br/>
+
+![Fig 39.2. January 2020, Srinagar. State-wide order by the Inspector
 General of Police for blanket internet shutdown under the Temporary
-Suspension of Telecom Services (TSTS) Rules, 2017.
+Suspension of Telecom Services (TSTS) Rules, 2017.](imgs/44TOD46.png)
 
-Fig 43. January 2020, Delhi. Supreme Court of India - Anuradha Bhasin vs
+<br/>
+
+![Fig 40. January 2020, Delhi. Supreme Court of India - Anuradha Bhasin vs
 Union Of India on 10 January, 2020 – the major case involving the
 legality of internet shutdowns with reference to the 2019 shutdown in
 Kashmir. Sections 148 and 149 deal with the concept of the ‘chilling
-effect’, and its role in suspending free speech.
+effect’, and its role in suspending free speech.](imgs/45TOD46.png)
 
-Fig 44. March 2020. The National Disaster Management Act, 2005, is
+<br/>
+
+![Fig 41. March 2020. The National Disaster Management Act, 2005, is
 invoked, producing Emergency-like conditions in the name of the
-pandemic.
+pandemic.](imgs/46TOD46.png)
 
-Fig 45. March 2020, Mumbai. After the Covid outbreak, amid widespread
+<br/>
+
+![Fig 42. March 2020, Mumbai. After the Covid outbreak, amid widespread
 rumours about the nature of the disease, but also community information
 around the availability of hospital beds (often contrasting with
 official pronouncements), the Commissioner of Police uses Section 144 of
 the Code of Criminal procedure (right to public assembly) to stop
 information dissemination under ‘Whatsapp, Twitter, Facebook, TikTok,
-Instagram etc’.
+Instagram etc’.](imgs/47TOD46.png)
 
-Fig 46. April 2020, Delhi. The Covid-tracking app Arogya Setu is
+<br/>
+
+![Fig 43. April 2020, Delhi. The Covid-tracking app Arogya Setu is
 rendered mandatory in all government office and for all employees, in
 contrast to the explicit declarations that the app was not legally
-mandatory.
+mandatory.](imgs/48TOD46.png)
+<br/>
 
-Fig 47. January 2022. Youtube Licensing policy as part of its new Terms
+![Fig 44. January 2022. Youtube Licensing policy as part of its new Terms
 of Service.
+](imgs/49TOD46.png)
+<br/>
+
+![](imgs/50TOD46.png)
+<br/>
+
+![](imgs/51TOD46.png)
+<br/>
+
+![](imgs/52TOD46.png)
+<br/>
 
 
 
@@ -10069,35 +10193,35 @@ of Service.
 Dara, Rishabh. ‘Intermediary Liability in India: Chilling Effects on
 Free Expression on the Internet 2011’, *The Centre for Internet &*
 Society, 10 April 2012,
-https://cis-india.org/internet-governance/intermediary-liability-in-india.
+<a href="https://cis-india.org/internet-governance/intermediary-liability-in-india">https://cis-india.org/internet-governance/intermediary-liability-in-india</a>.
 
 Engelbart, Douglas C. ‘Augmenting Human Intellect: A Conceptual
 Framework’, Summary Report, SRI Project No. 3578, Stanford Research
-Institute, October 1962, https://www.dougengelbart.org/content/view/138.
+Institute, October 1962, <a href="https://www.dougengelbart.org/content/view/138">https://www.dougengelbart.org/content/view/138</a>.
 
 ‘Infosys Annual Report, 1993–94’, April 1994,
-https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf.
+<a href="https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf">https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-94.pdf</a>.
 
 NAMEDIA, *A Vision for Indian Television*, New Delhi: Media Foundation
 of the Non-aligned, 1986.
 
 National Council of Applied Economic Research, *The NCAER Land Records
 and Services Index (N-LRSI) 2020*, Report 20200201, February 2020,
-https://www.ncaer.org/publication\_details.php?pID=317.
+<a href="https://www.ncaer.org/publication%5C_details.php?pID=317">https://www.ncaer.org/publication\_details.php?pID=317</a>.
 
 People’s Union of Civil Liberties, *Imprisoned Resistance - 5th August
 and its Aftermath*, 2019,
-https://www.pucl.org/reports/imprisoned-resistance-5th-august-and-its-aftermath.
+<a href="https://www.pucl.org/reports/imprisoned-resistance-5th-august-and-its-aftermath">https://www.pucl.org/reports/imprisoned-resistance-5th-august-and-its-aftermath</a>.
 
 Reporters Without Borders. ‘2020 World Press Freedom Index: “Entering a
 Decisive Decade for Journalism, Exacerbated by Coronavirus”’,
-https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus
+<a href="https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus">https://rsf.org/en/2020-world-press-freedom-index-entering-decisive-decade-journalism-exacerbated-coronavirus</a>
 
 Srivastava, Shirish C., Mathur Sharat, and Teo, Thompson. ‘Modernization
 of Passenger Reservation System: Indian Railway’s Dilemma, *ICIS 2006
-Proceedings* 98 (2006), http://aisel.aisnet.org/icis2006/98.
+Proceedings* 98 (2006), <a href="http://aisel.aisnet.org/icis2006/98">http://aisel.aisnet.org/icis2006/98</a>.
 
-Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012, https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/.
+Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012, <a href="https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/">https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/</a>.
 
 ## 
 
@@ -10126,20 +10250,20 @@ Improvement of Data Base for Planning and Policy Making’, Vol. I, 1978,
 File No. O-11-17/1/78-M&I, National Archives of India.
 
 ‘Request for Proposal (RFP) For Selection of SWAN TPA’,
-https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf.
+<a href="https://www.meity.gov.in/writereaddata/files/An8%5C_Indicative%5C_SWAN.pdf">https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf</a>.
 
 Telecom Regulatory Authority of India. ‘Prohibition of Discriminatory
 Tariffs for Data Services Regulations, 2016’, *Gazette of India*, 8
 February 2016,
-https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf.
+<a href="https://trai.gov.in/sites/default/files/Regulation%5C_Data%5C_Service.pdf">https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf</a>.
 
 ‘The Information Technology Act, 2000’, *The Gazette of India*, June
 2000,
-https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf.
+<a href="https://www.indiacode.nic.in/bitstream/123456789/13116/1/it%5C_act%5C_2000%5C_updated.pdf">https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf</a>.
 
 ‘The Information Technology (Amendment) Act, 2008’, *The Gazette of
 India*, February 2009,
-https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=.
+<a href="https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=">https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=</a>.
 
 UIDAI. *UIDAI Strategy Overview:* *Creating a Unique Identity Number for
 Every Resident in India*, Planning Commission/UIDAI, Government of
@@ -10147,7 +10271,7 @@ India, April 2010.
 
 ‘WGITA – IDI Handbook on IT Audit for Supreme Audit Institutions’,
 February 2014,
-https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF.
+<a href="https://icisa.cag.gov.in/resource%5C_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF">https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF</a>.
 
 ## Books and Journal Essays
 
@@ -10196,7 +10320,7 @@ Computing* 2.1 (2005): 2–19.
 
 Bhatia, Gautam. ‘The Aadhaar Judgment: A Dissent for the Ages’, *Indian
 Constitutional Law and Philosophy*, 27 September 2018,
-https://indconlawphil.wordpress.com/2018/09/27/the-aadhaar-judgment-a-dissent-for-the-ages/.
+<a href="https://indconlawphil.wordpress.com/2018/09/27/the-aadhaar-judgment-a-dissent-for-the-ages/">https://indconlawphil.wordpress.com/2018/09/27/the-aadhaar-judgment-a-dissent-for-the-ages/</a>.
 
 ———. *The Transformative Constitution: A Radical Biography in Nine
 Acts*, New Delhi: Harper Collins, 2019.
@@ -10212,7 +10336,7 @@ Perspective’, *IEEE Annals of the History of Computing* 34.4 (2012): 19
 Castelle, Michael. ‘Relational and Non-Relational Models in the
 Entextualization of Bureaucracy’, *Computational Culture* 3 (November
 2013).
-http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/.
+<a href="http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/">http://computationalculture.net/relational-and-non-relational-models-in-the-entextualization-of-bureaucracy/</a>.
 
 Castells, Manuel. *Networks of Outrage and Hope: Social Movements in the
 Internet Age*, Cambridge, UK: Polity Press, 2015.
@@ -10243,7 +10367,7 @@ Massachusetts, and London: The MIT Press, 2016.
 Crawford, Kate and Joler, Vladan. ‘Anatomy of an AI System: The Amazon
 Echo as an Anatomical Map of Human Labor, Data and Planetary
 Resources’, *AI Now Institute and Share Lab,* 7 September 2018,
-https://anatomyof.ai.
+<a href="https://anatomyof.ai">https://anatomyof.ai</a>.
 
 Deleuze, Gilles. *Difference and Repetition*, trans. Paul Patton,
 Columbia: Columbia University Press, 1994.
@@ -10286,7 +10410,7 @@ and Security***,** Kolkata**:** Frontpage Publications Ltd., 2013.
 
 Gilman, Nils, Goldhammer, Jesse, and Weber, Steven. ‘Can You Secure an
 Iron Cage?’, *Limn*, Issue 8, February 2017,
-https://limn.it/articles/can-you-secure-an-iron-cage/.
+<a href="https://limn.it/articles/can-you-secure-an-iron-cage/">https://limn.it/articles/can-you-secure-an-iron-cage/</a>.
 
 Gitelman, Lisa (ed.) *‘Raw Data’ is an Oxymoron*, Cambridge: MIT Press,
 2013.
@@ -10318,7 +10442,7 @@ History,* Cambridge, MA: Harvard University Press, 2013, pp. 84–85.
 
 Jayaram, Malavika. ‘India’s Big Brother Project: The World’s Largest
 Biometrics Identity Program’, *Boston Review*, 19 May 2014,
-https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics.
+<a href="https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics">https://bostonreview.net/world/malavika-jayaram-india-unique-identification-biometrics</a>.
 
 Kaviraj, Sudipta. ‘The Imaginary Institution of India’, in Sudipta
 Kaviraj, *The Imaginary Institution of India: Politics and Ideas*, New
@@ -10349,7 +10473,7 @@ Reality of Science Studies*, Cambridge, Massachusetts: Harvard University Press,
 Moderns*, Cambridge, Massachusetts: Harvard University Press, 2013.
 
 Manohar, Swami, ‘The Simputer: Access Device for the Masses’,
-http://www.simputer.org/simputer/history/paper.pdf.
+<a href="http://www.simputer.org/simputer/history/paper.pdf">http://www.simputer.org/simputer/history/paper.pdf</a>.
 
 Manzano, Maria. *Extensions of First-Order Logic.* Cambridge Tracts in
 Theoretical Computer Science, Series \#19. Cambridge: Cambridge
@@ -10387,7 +10511,7 @@ Technology and Governance in India*, Bangalore: The Centre for Internet
 in India*, Bangalore: Centre for the Study of Culture and Society, 2013.
 
 Ramanathan, Usha. ‘A State of Surveillance’, International Environmental
-Law Research Centre, 2010, http://www.ielrc.org/content/w1002.pdf.
+Law Research Centre, 2010, <a href="http://www.ielrc.org/content/w1002.pdf">http://www.ielrc.org/content/w1002.pdf</a>.
 
 Ramnath, Kalyani, ‘‘We the People’: Seamless Webs and Social Revolution
 in India’s Constituent Assembly Debates’, *South Asia Research* 32.1
@@ -10466,43 +10590,43 @@ ProQuest Historical Newspapers.
 
 ‘After Delhi Metro Opens, You May be Denied Ride Without Mask’, Arogya
 Setu Pass’, *The Mint*, 23 April 2020,
-https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html*.*
+<a href="https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html*.*">https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html*.*</a>
 
 ‘Agrima Joshua Case: Maha HM Anil Deshmukh Asks Mumbai Police to Take
 Legal Action against Comedian over Chhatrapati Shivaji Maharaj Remark’,
 *The Free Press Journal*, 11 July 2020,
-https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
+<a href="https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark">https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark</a>.
 
 ‘Agrima Joshua Row: Comedian Posts Video Apologizing to Members of
 Political Parties’, *The Free Press Journal*, 11 July 2020,
-https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties.
+<a href="https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties">https://www.freepressjournal.in/india/agrima-joshua-row-comedian-posts-video-apologizing-to-members-of-political-parties</a>.
 
 Agrawal, Aditi. ‘Aarogya Setu Will Include Telemedicine, Greater
 Personalisation; May Act as Building Block for India Health Stack’,
 Medianama, 22 April 2020,
-https://www.medianama.com/2020/04/223-aarogya-setu-upcoming-features/.
+<a href="https://www.medianama.com/2020/04/223-aarogya-setu-upcoming-features/">https://www.medianama.com/2020/04/223-aarogya-setu-upcoming-features/</a>.
 
 Akhauri, Tanvi. ‘Shubham Mishra Has Been Arrested, but the Problem of
 Offence-Taking Still Persists’, *shethepeople*, 13 July 2020.
 
 Akshatha M, ‘Land Sharks Hack Bhoomi Data, Shift Government Land Title’,
 *The Economic Times*, 10 September 2018,
-https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms.
+<a href="https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms">https://economictimes.indiatimes.com/news/politics-and-nation/land-sharks-hack-bhoomi-data-shift-government-land-title/articleshow/65749538.cms</a>.
 
 Ananth, Venkat. ‘Government of India: The World’s Biggest App Factory’,
 *The Ken*, 17 October 2016,
-https://the-ken.com/story/government-india-worlds-biggest-app-factory/.
+<a href="https://the-ken.com/story/government-india-worlds-biggest-app-factory/">https://the-ken.com/story/government-india-worlds-biggest-app-factory/</a>.
 
 ‘Appointments,’ *The Times of India*, 6 April 1993, ProQuest Historical
 Newspapers.
 
 Ashar, Hemal. ‘Woman With No Travel History, No Symptoms, Whisked Away
 by BMC’, *Mid-day*, 18 April 2020,
-https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204.
+<a href="https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204">https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204</a>.
 
 Banerjee, Prasid and Nandy, Shreya. ‘Govt’s Arogya Setu App to be
 Installed on Smartphones by Default Soon’, *The Mint*, 29 April 2020,
-https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html.
+<a href="https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html">https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html</a>.
 
 Barik, Soumyarendra. ‘2G Internet on Postpaid, Broadband Partially
 Restored in J&K for Accessing Only ‘White-Listed’ Websites’, Medianama,
@@ -10511,59 +10635,59 @@ Restored in J&K for Accessing Only ‘White-Listed’ Websites’, Medianama,
 
 BBC. ‘New Zealand Man Jailed for 21 Months for Sharing Christchurch
 Shooting Video’, *BBC News*, 18 June 2019,
-https://www.bbc.com/news/world-asia-48671837.
+<a href="https://www.bbc.com/news/world-asia-48671837">https://www.bbc.com/news/world-asia-48671837</a>.
 
 Bhalla, A.S. ‘Can High Technology Help Third World ‘Take-Off’?’,
 *Economic & Political Weekly* 22.27 (1987): 1082–1086.
 
 Bhatia, Rahul. ‘The Inside Story of Facebook’s Biggest Setback’, *The
 Guardian*, 12 May 2016,
-https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg.
+<a href="https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg">https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg</a>.
 
 Bhatti, Bharat, Drèze, Jean, and Khera, Reetika. ‘Experiments with
 Aadhar’, *The Hindu*, 27 June 2012,
-https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece.
+<a href="https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece">https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece</a>.
 
 Bischoff, Paul. ‘Which Government Censors the Tech Giants the Most?’, 19
 October 2021,
-https://www.comparitech.com/blog/vpn-privacy/tech-giant-censorship/.
+<a href="https://www.comparitech.com/blog/vpn-privacy/tech-giant-censorship/">https://www.comparitech.com/blog/vpn-privacy/tech-giant-censorship/</a>.
 
 Blake, Aaron. ‘Kellyanne Conway Says Donald Trump’s Team Has
 ‘Alternative Facts.’ Which Pretty Much Says It All’, *The Washington
 Post*, 22 January 2017,
-https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/.
+<a href="https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/">https://www.washingtonpost.com/news/the-fix/wp/2017/01/22/kellyanne-conway-says-donald-trumps-team-has-alternate-facts-which-pretty-much-says-it-all/</a>.
 
 [Brignall](https://www.theguardian.com/profile/milesbrignall), Miles.
 ‘HSBC Indian Call Centre Worker Accused of Hacking into Accounts’, *The
 Guardian*, 29 June 2006,
-https://www.theguardian.com/money/2006/jun/29/business.india.
+<a href="https://www.theguardian.com/money/2006/jun/29/business.india">https://www.theguardian.com/money/2006/jun/29/business.india</a>.
 
 Chacko, George. ‘INFOSYS: New Game, New Rules: A Case Study’,
 *Management Research News* 27.8/9 (2004): 1–25.
 
 Chaturvedi, Vinita. ‘I Keep a Low Profile to Promote Savita Bhabhi
 Better: Puneet Agarwal’, *The Times of India*, 11 April 2013,
-https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms.
+<a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms">https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-keep-a-low-profile-to-promote-savita-bhabhi-better-puneet-agrawal/articleshow/19493624.cms</a>.
 
 Chauhan, Ashish. ‘Jat Fire Tempts Patidars to Action’, *The Times of
 India*, 22 February 2016,
-https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms.
+<a href="https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms">https://timesofindia.indiatimes.com/city/ahmedabad/jat-fire-tempts-patidars-to-action/articleshow/51086440.cms</a>.
 
 ‘Comic Joshua Gets Rape Threat for Joke on Chhatrapati Shivaji’, *The*
 Quint, 13 July 2020,
-https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji.
+<a href="https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji">https://www.thequint.com/news/india/comic-agrima-joshua-gets-rape-threat-for-joke-on-chhatrapati-shivaji</a>.
 
 David, Nash. ‘Digital ‘Equality’ Not So Equal: Is an Aggressive Facebook
 Turning Free Basics into a Movement?’, *Firstpost*, 24 December 2015,
-https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html.
+<a href="https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html">https://www.firstpost.com/india/is-an-aggressive-facebook-turning-free-basics-into-a-movement-2557360.html</a>.
 
 Deshmane, Akshay. ‘The Dalit Identity Dilemma’, *Frontline*, 28 April
 2017,
-https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece.
+<a href="https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece">https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece</a>.
 
 *DNA*, ‘Patidar Reservation: Social Media Spreading Sardar Patel
 Movement Like Wild Fire’, 22 August 2015,
-http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056.
+<a href="http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056">http://www.dnaindia.com/india/report-patidar-reservation-social-media-spreading-sardar-patel-movement-like-wild-fire-2117056</a>.
 
 Drèze, Jean. ‘Unique Facility, or Recipe for Trouble?’, *The Hindu*, 25
 November 2010,
@@ -10575,68 +10699,68 @@ Post-Intelligencer*, 1924, 23 March 2004.
 Gelineau, Kristen and Gambrell, Jon. ‘New Zealand Mosque Shooter is a
 White Nationalist Who Hates Immigrants, Documents and Video Reveal’,
 *Chicago Tribune*, 15 March 2019,
-https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html.
+<a href="https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html">https://www.chicagotribune.com/nation-world/ct-mosque-killer-white-supremacy-20190315-story.html</a>.
 
 Ghosh, Mohul. ‘Is \#SabKaInternet a Deliberate Attempt by COAI to
 Confuse People?’, *Trak.in*, 2 December 2016,
-https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/.
+<a href="https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/">https://trak.in/tags/business/2015/04/22/sabkainternet-deliberate-attempt-coai-to-confuse/</a>.
 
 Goldsmith, Belinda and Beresford, Meka. ‘India Most Dangerous Country
 for Women with Sexual Violence Rife – Global Poll’, *Reuters*, 26 June
 2018,
-https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076.
+<a href="https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076">https://www.reuters.com/article/women-dangerous-poll-idINKBN1JM076</a>.
 
 Graham-McLay, Charlotte. ‘Spreading the Mosque Shooting Video is a Crime
 in New Zealand’, *The New York Times*, 21 March 2019.
-https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html.
+<a href="https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html">https://www.nytimes.com/2019/03/21/world/asia/new-zealand-attacks-social-media.html</a>.
 
 ‘Gujarat Shuts Down Internet during Exams’, *The Hindu*, 29 February
 2016,
-http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece.
+<a href="http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece">http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/gujarat-shuts-down-internet-during-exam/article8294672.ece</a>.
 
 Hafeez, Sarah. ‘Zee News Producer Quits: Video We Shot Had No Pakistan
 Zindabad Slogan’, *The Indian Express*, 22 February 2016,
-https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/.
+<a href="https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/">https://indianexpress.com/article/india/india-news-india/zee-news-producer-quits-video-we-shot-had-no-pakistan-zindabad-slogan/</a>.
 
 IANS. ‘Google Techie’s Lynching in Karnataka: How an Act of Kindness
 Turned Deadly’, *Business Standard.* 16 July 2018,
-https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351\_1.html.
+<a href="https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351%5C_1.html">https://www.business-standard.com/article/current-affairs/google-techie-s-lynching-in-karnataka-how-an-act-of-kindness-turned-deadly-118071500351\_1.html</a>.
 
 ‘IDM-Informix Tie-up’, *Times of India*, 24 December 1989, ProQuest
 Historical Newspapers.
 
 ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1
 June 2015,
-https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged.
+<a href="https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged">https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</a>.
 
 Jain, Mayank. ‘Mamata is Suppressing all Dissent, Claims Jadavpur
 Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015,
-https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon.
+<a href="https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon">https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</a>.
 
 Jain, Subash. ‘Man Arrested for Getting Aadhaar Card for Dog’,
 *Hindustan Times*, 3 July 2015,
-https://www.hindustantimes.com/india/man-arrested-for-getting-aadhaar-card-for-dog/story-MVtobqWtsrLXm01OkCBSvK.html.
+<a href="https://www.hindustantimes.com/india/man-arrested-for-getting-aadhaar-card-for-dog/story-MVtobqWtsrLXm01OkCBSvK.html">https://www.hindustantimes.com/india/man-arrested-for-getting-aadhaar-card-for-dog/story-MVtobqWtsrLXm01OkCBSvK.html</a>.
 
 Jaiswal, Nimisha. ‘Why Indians Are Turning Down Facebook’s Free
 Internet’, *GlobalPost*, 13 January 2016,
-https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet.
+<a href="https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet">https://theworld.org/stories/2016-01-13/why-indians-are-turning-down-facebooks-free-internet</a>.
 
 ‘JNU Sedition Case: Umar Khalid, Kanhaiya Kumar, Other Accused Appear in
 Court’, *The Wire*, 16 March 2021,
-https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court.
+<a href="https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court">https://thewire.in/law/jnu-sedition-case-umar-khalid-kanhaiya-kumar-delhi-court</a>.
 
 Johari, Aarefa. ‘Gujarat Internet Ban: On Day Six, Citizens Have Had
 Enough of Being Patronized by the State’, *Scroll.in*, 1 September 2015,
-https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state.
+<a href="https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state">https://scroll.in/article/752538/gujarat-internet-ban-on-day-six-citizens-have-had-enough-of-being-patronised-by-the-state</a>.
 
 ‘Journalists Exposing Aadhaar Deserve Award, Not Investigation: Edward
 Snowden’, The News Minute, 9 January 2018,
 
-https://www.thenewsminute.com/article/journalists-exposing-aadhaar-deserve-award-not-investigation-edward-snowden-74409.
+<a href="https://www.thenewsminute.com/article/journalists-exposing-aadhaar-deserve-award-not-investigation-edward-snowden-74409">https://www.thenewsminute.com/article/journalists-exposing-aadhaar-deserve-award-not-investigation-edward-snowden-74409</a>.
 
 Kanwal, Rahul. ‘JNU Row: Did a Fake Video Fuel the Anti-national Fire?’,
 *India Today*, 18 February 2016,
-https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18.
+<a href="https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18">https://www.indiatoday.in/india/story/panelists-debate-whether-kanhaiya-sedition-video-doctored-or-not-309451-2016-02-18</a>.
 
 Kapur, Devesh, Mukhopadhyay, Partha, and Subramanian, Arvind. ‘The Case
 for Direct Cash Transfers to the Poor’, *Economic & Political Weekly*
@@ -10644,15 +10768,15 @@ for Direct Cash Transfers to the Poor’, *Economic & Political Weekly*
 
 Kateshiya, Gopal. ‘Gujarat Protests: Who Are the Patidars, and Why Are
 They Angry’, *The Indian Express*, 27 August 2015,
-https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/.
+<a href="https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/">https://indianexpress.com/article/explained/simply-put-who-are-gujarats-patidars-and-why-are-they-angry/</a>.
 
 KK, Sruthijith. ‘Govt Bans Popular Toon Porn Site’, *Hindustan Times*,
 20 June 2009,
-https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html.
+<a href="https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html">https://www.hindustantimes.com/entertainment/govt-bans-popular-toon-porn-site/story-M7UO7XgStS9Cfrvfziok6J.html</a>.
 
 Krishna, Gopal. ‘Where is WIPRO’s ‘Strategic Vision on the UIDAI
 Project’ Document?’, *Countercurrents*, 7 August 2011,
-https://www.countercurrents.org/krishna070811.htm.
+<a href="https://www.countercurrents.org/krishna070811.htm">https://www.countercurrents.org/krishna070811.htm</a>.
 
 Matthan, Rahul. ‘The Privacy Features That Are Built into Arogya Setu’,
 *The Mint*, 8 April 2020,
@@ -10661,11 +10785,11 @@ Matthan, Rahul. ‘The Privacy Features That Are Built into Arogya Setu’,
 Mehta, Dewang. ‘India on the Global Pathway’, *Times of India*, 7
 February 1996, ProQuest Historical Newspapers.
 
-Mehta, Ivan. ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/.
+Mehta, Ivan. ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, <a href="https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/">https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/</a>.
 
 ‘Nandan Nilekani, Home Ministry End UIDAI Tiff, to Divide Data
 Collection’, *The Economic Times*, 28 January 2012,
-https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst.
+<a href="https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm%5C_source=contentofinterest&amp;utm%5C_medium=text&amp;utm%5C_campaign=cppst">https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst</a>.
 
 ‘Nalanda Computer Education for RDBMS’, *The* *Times of India*, 29 May
 1991, ProQuest Historical Newspapers.
@@ -10678,7 +10802,7 @@ India*, 4 September 1993, ProQuest Historical Documents.
 
 Navlakha, Gautam. ‘‘My Hope Rests on a Speedy and Fair Trial': Gautam
 Navlakha Before His Surrender’, *The Wire*, 14 April 2020,
-https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender.
+<a href="https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender">https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender</a>.
 
 ‘New System for Maruti Launched’, *The Times of India*, 25 October 1994,
 sec. In Brief, ProQuest Historical Newspapers.
@@ -10688,113 +10812,115 @@ Historical Newspapers.
 
 ‘Over 22k Indian Websites, 114 Govt Portals Hacked between Apr 2017-Jan
 2018’, *Business Standard*, 7 March 2018,
-https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html.
+<a href="https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870%5C_1.html">https://www.business-standard.com/article/current-affairs/over-22k-indian-websites-114-govt-portals-hacked-between-apr-2017-jan-2018-118030700870\_1.html</a>.
 
 ‘Overseas Appointments’, *The* *Times of India*, 20 September 1992,
 ProQuest Historical Newspapers.
 
 ‘Oracle Opens India Liaison Office’, *Dataquest*, 1991,
-https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991.
+<a href="https://itihaasa.com/describe/artefact/001%5C_001%5C_0568?referenceYear=1991">https://itihaasa.com/describe/artefact/001\_001\_0568?referenceYear=1991</a>.
 
 Pandey, Brijesh. ‘Natgrid Will Kick in from May 2011. Is the Big Brother
 Threat for Real?’, *Tehelka*, 13 November 2010.
 
 Parthasarthy, Suhrith, Bhatia, Gautam, and Gupta, Apar. ‘Privacy
 Concerns During a Pandemic’, *The Hindu*, 29 April 2020,
-https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece.
+<a href="https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece">https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece</a>.
 
 ‘PM’s Remarks at the Launch of Digital India Week’, 1 July 2015,
-https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128.
+<a href="https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128">https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128</a>.
 
-Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
+Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, <a href="https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/">https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/</a>.
 
-———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, https://www.outlookindia.com/website/story/adding-insult-to-injury/283033. 
+# 
+
+———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, <a href="https://www.outlookindia.com/website/story/adding-insult-to-injury/283033">https://www.outlookindia.com/website/story/adding-insult-to-injury/283033</a>. 
 
 ‘Pune Bourse Goes Online’, *The Times of India*, 19 March 1996, ProQuest
 Historical Newspapers.
 
 Rajagopal, Krishnadas. ‘Plea in Supreme Court to Save Academic Freedom’,
 *The Hindu*, 30 March 2021,
-https://www.thehindu.com/news/national/plea-in-supreme-court-to-save-academic-freedom/article34200750.ece.
+<a href="https://www.thehindu.com/news/national/plea-in-supreme-court-to-save-academic-freedom/article34200750.ece">https://www.thehindu.com/news/national/plea-in-supreme-court-to-save-academic-freedom/article34200750.ece</a>.
 
 Ranjit, Tanisha. ‘When and Where is Aarogya Setu Mandatory? We’re
 Keeping Track’, Internet Democracy Project, 8 May 2020,
-https://internetdemocracy.in/2020/05/aarogya-setu-tracker/.
+<a href="https://internetdemocracy.in/2020/05/aarogya-setu-tracker/">https://internetdemocracy.in/2020/05/aarogya-setu-tracker/</a>.
 
 Rajesh Y.P., ‘Software Firms Eye a Pie in Banking’, *News - India
 Times*, 10 July 1998, ProQuest.
 
 ‘Remember Agrima Joshua’s Vile Abuser Shubham Mishra? He’s Out on Bail
 Now’, *The Free Press Journal*, 18 August 2020,
-https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now.
+<a href="https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now">https://www.freepressjournal.in/entertainment/remember-agrima-joshuas-vile-abuser-shubham-mishra-hes-out-on-bail-now</a>.
 
 Reuters. ‘Bidar Lynching: He Looked Like Terrorist, Says Villager, Days
 After WhatsApp Rumour Leads to Death of 1 in rural Karnataka’,
 *Firstpost*, 30 July 2018,
-https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html.
+<a href="https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html">https://www.firstpost.com/india/bidar-lynching-he-looked-like-terrorist-says-villager-days-after-whatsapp-rumour-leads-to-death-of-1-in-rural-karnataka-4848181.html</a>.
 
 Rodriguez, Ariana. ‘India Bans Adult Cartoon Site SavitaBhabhi.com’,
 *XBIZ Newswire*, 28 June 2009,
-http://newswire.xbiz.com/view.php?id=109797.
+<a href="http://newswire.xbiz.com/view.php?id=109797">http://newswire.xbiz.com/view.php?id=109797</a>.
 
 Roy, Esha. ‘As Nine Bodies Await Burial, Manipur Trenched in Politics of
 Dead and Living’, *Indian Express*, 29 August 2016,
-https://indianexpress.com/article/india/india-news-india/manipur-violence-protests-in-churachandpur-manipur-deaths-2999507/.
+<a href="https://indianexpress.com/article/india/india-news-india/manipur-violence-protests-in-churachandpur-manipur-deaths-2999507/">https://indianexpress.com/article/india/india-news-india/manipur-violence-protests-in-churachandpur-manipur-deaths-2999507/</a>.
 
 Sam, Cyril and Thakurta, Paranjoy Guha, ‘Part 1: Is Facebook in India
 Truly Independent of Political Influence? Not Really – It has Backed
 Modi and BJP’, NewsClick, 22 November 2018,
-https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence.
+<a href="https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence">https://www.newsclick.in/part-1-facebook-india-truly-independent-political-influence</a>.
 
 Shantha, Sukanya. ‘Elgar Parishad: NIA Arrests Hany Babu, 'Pressured Him
 to Implicate Colleagues, Others,’ Says Wife’, *The Wire*, 28 July 2020,
-https://thewire.in/government/nia-bhima-koregaon-hany-babu-arrest-gn-saibaba.
+<a href="https://thewire.in/government/nia-bhima-koregaon-hany-babu-arrest-gn-saibaba">https://thewire.in/government/nia-bhima-koregaon-hany-babu-arrest-gn-saibaba</a>.
 
 Sharma, Pankul. ‘Only Male or Female Can Get PAN Card, Transgenders
 Told’, *Times of India*, 15 March 2018,\
-http://timesofindia.indiatimes.com/articleshow/63321785.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst.
+<a href="http://timesofindia.indiatimes.com/articleshow/63321785.cms?utm%5C_source=contentofinterest&amp;utm%5C_medium=text&amp;utm%5C_campaign=cppst">http://timesofindia.indiatimes.com/articleshow/63321785.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst</a>.
 
 Shira Ovide, ‘A Fix-It Job for Government Tech’, 24 November 2021,
-https://www.nytimes.com/2021/11/24/technology/government-tech.html.
+<a href="https://www.nytimes.com/2021/11/24/technology/government-tech.html">https://www.nytimes.com/2021/11/24/technology/government-tech.html</a>.
 
 Sikri, Aprajita. ‘A US-Indian Database Venture’, *India Abroad*, 1 June
 1990, ProQuest.
 
 Singh, Parminder Jeet. ‘Bringing Data under the Rule of Law’, *The
 Hindu*, 20 September 2018,
-https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece.
+<a href="https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece">https://www.thehindu.com/opinion/op-ed/bringing-data-under-the-rule-of-law/article24988755.ece</a>.
 
 Sircar, Jawhar. ‘A Long Look at Exactly Why and How India Failed its
 Migrant Workers’, *The Wire*, 29 May 2020,
-https://thewire.in/labour/lockdown-migrant-workers-policy-analysis.
+<a href="https://thewire.in/labour/lockdown-migrant-workers-policy-analysis">https://thewire.in/labour/lockdown-migrant-workers-policy-analysis</a>.
 
 Smiley, Lauren. ‘How India Pierced Facebook’s Free Internet’, *Wired*, 1
 February 2016,
-https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/*.*
+<a href="https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/*.*">https://www.wired.com/2016/02/how-india-pierced-facebooks-free-internet-program/*.*</a>
 
 ‘Stir Over OBC Status: Govt Proposes Talks; Hardik Plays Hardball’, *The
 Indian Express*, 23 August 2015,
-http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/.
+<a href="http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/">http://indianexpress.com/article/india/india-others/stir-over-obc-status-govt-proposes-talks-hardik-patel-plays-hard-ball/</a>.
 
 Strang, Ben. ‘Thousands Don’t Believe Official Christchurch Terror
 Attacks Story’, *RNZ*, 4 April 2019,
-https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story.
+<a href="https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story">https://www.rnz.co.nz/news/national/386367/thousands-don-t-believe-official-christchurch-terror-attacks-story</a>.
 
 ‘Tata Unisys Ltd’, *The* *Times of India*, 28 December 1993, ProQuest
 Historical Newspapers.
 
 ‘TRAI Tells Reliance to Put Facebook’s Free Basics Platform on Hold’,
 *The Free Library*, 23 December 2015,
-https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook%27s+Free+Basics+platform+on+hold-a0438721289.
+<a href="https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook&#39;s+Free+Basics+platform+on+hold-a0438721289">https://www.thefreelibrary.com/TRAI+tells+Reliance+to+put+Facebook%27s+Free+Basics+platform+on+hold-a0438721289</a>.
 
 Trivedi, Divya. ‘Anuradha Bhasin: ‘Impossible for Journalists to
 Function’, *Frontline*, 27 September 2019,
 
-https://frontline.thehindu.com/cover-story/impossible-for-journalists-to-function/article29382196.ece.
+<a href="https://frontline.thehindu.com/cover-story/impossible-for-journalists-to-function/article29382196.ece">https://frontline.thehindu.com/cover-story/impossible-for-journalists-to-function/article29382196.ece</a>.
 
 ‘UIDAI to Share Data with Police for Investigations’, *The Hindu*, 6
 February 2013,
-https://www.thehindu.com/news/national/karnataka/uidai-to-share-data-with-police-for-investigations/article4383068.ece.
+<a href="https://www.thehindu.com/news/national/karnataka/uidai-to-share-data-with-police-for-investigations/article4383068.ece">https://www.thehindu.com/news/national/karnataka/uidai-to-share-data-with-police-for-investigations/article4383068.ece</a>.
 
 Valluri, Madhu. ‘How Info-tech can Help Environment’, *The Times of
 India*, 14 April 1993, ProQuest Historical Newspapers.
@@ -10804,11 +10930,11 @@ Weekly* 37.47 (2002): 4699-4722.
 
 *Web We Want.* ‘Indian Comedians Explain Net Neutrality in Free Basics
 Battle’, 13 January 2016,
-https://webwewant.org/news/indian-comedians-explain-net-neutrality/.
+<a href="https://webwewant.org/news/indian-comedians-explain-net-neutrality/">https://webwewant.org/news/indian-comedians-explain-net-neutrality/</a>.
 
 ‘Why Late Justice Krishna Iyer Opposed Biometric Aadhaar’,
 *ToxicsWatch*, 10 December 2014,
-http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html.
+<a href="http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html">http://www.toxicswatch.org/2014/12/why-late-justice-krishna-iyer-opposed.html</a>.
 
 Yamunan, Sruthisagar and Daniyal, Shoaib. ‘As Delhi Police Crack Down on
 Student Leaders, Courts Cite Lockdown to Justify Lack of Scrutiny’,
