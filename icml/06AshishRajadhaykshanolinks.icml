@@ -259,22 +259,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457630 .anchor}Suhrith Parthasarthy, Gautam Bhatia, and Apar Gupta, ‘Privacy Concerns During a Pandemic’, </Content>
+          <Content>Suhrith Parthasarthy, Gautam Bhatia, and Apar Gupta, ‘Privacy Concerns During a Pandemic’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Hindu</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 29 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 29 April 2020, https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -297,13 +289,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See Sections 2(i) and 2(ii), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.indiacode.nic.in/bitstream/123456789/1470/1/a1967-37.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>. The Unlawful Activities (Prevention) Act was originally passed in 1967 and repeatedly amended, mainly defining terrorism, who terrorists are, and what the ‘security and integrity of India’ is. It was replaced by the Prevention of Terrorism Act (POTA) in 2002, but in 2004 it incorporated most of POTA’s language. The July 2019 amendment was to enable the state to impose draconian preventive detention measures to enable people to be jailed without trial, and also to designate individuals, as against groups, as ‘terrorist’.</Content>
+          <Content>See Sections 2(i) and 2(ii), https://www.indiacode.nic.in/bitstream/123456789/1470/1/a1967-37.pdf. The Unlawful Activities (Prevention) Act was originally passed in 1967 and repeatedly amended, mainly defining terrorism, who terrorists are, and what the ‘security and integrity of India’ is. It was replaced by the Prevention of Terrorism Act (POTA) in 2002, but in 2004 it incorporated most of POTA’s language. The July 2019 amendment was to enable the state to impose draconian preventive detention measures to enable people to be jailed without trial, and also to designate individuals, as against groups, as ‘terrorist’.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -354,22 +340,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457599 .anchor}Gautam Navlakha, ‘‘My Hope Rests on a Speedy and Fair Trial': Gautam Navlakha Before His Surrender’, </Content>
+          <Content>Gautam Navlakha, ‘‘My Hope Rests on a Speedy and Fair Trial': Gautam Navlakha Before His Surrender’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Wire</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 14 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 14 April 2020, https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -391,10 +369,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457560 .anchor}Sruthisagar Yamunan and Shoaib Daniyal, ‘As Delhi Police Crack Down on Student Leaders, Courts Cite Lockdown to Justify Lack of Scrutiny’, </Content>
+          <Content>Sruthisagar Yamunan and Shoaib Daniyal, ‘As Delhi Police Crack Down on Student Leaders, Courts Cite Lockdown to Justify Lack of Scrutiny’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Scroll</Content>
@@ -402,7 +378,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 29 April 2020, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny</Content>
           </CharacterStyleRange>
@@ -454,13 +430,7 @@
           <Content>@DelhiPolice</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, ‘Important Information’, Twitter post, 20 April 2020, 10:38 AM, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://twitter.com/DelhiPolice/status/1252101893628796933</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, ‘Important Information’, Twitter post, 20 April 2020, 10:38 AM, https://twitter.com/DelhiPolice/status/1252101893628796933.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -575,13 +545,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>The crucial amendments were the introduction of the ‘illegal migrant’ in section 2(i)(b) and the new requirement in Section 3(i)(c) that ‘both […] parents are citizens of India’ or ‘one […] parent is a citizen and the other is not an illegal migrant’. See </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>The crucial amendments were the introduction of the ‘illegal migrant’ in section 2(i)(b) and the new requirement in Section 3(i)(c) that ‘both […] parents are citizens of India’ or ‘one […] parent is a citizen and the other is not an illegal migrant’. See https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -668,10 +632,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (henceforth Aadhaar Act), Section 2f, defines benefit ‘as any advantage, gift, reward, relief, or payment. in cash or kind, provided to an individual or a group of individuals and includes such other benefits as may be notified by the Central Government’. For details, see </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://uidai.gov.in/images/targeted_delivery_of_financial_and_other_subsidies_benefits_and_services_13072016.pdf</Content>
+          <Content>Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (henceforth Aadhaar Act), Section 2f, defines benefit ‘as any advantage, gift, reward, relief, or payment. in cash or kind, provided to an individual or a group of individuals and includes such other benefits as may be notified by the Central Government’. For details, see https://uidai.gov.in/images/targeted_delivery_of_financial_and_other_subsidies_benefits_and_services_13072016.pdf</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -741,12 +702,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457473 .anchor}Committee of Experts under the Chairmanship of Justice B.N. Srikrishna, </Content>
+          <Content>See Committee of Experts under the Chairmanship of Justice B.N. Srikrishna, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>A Free and Fair Digital Economy: Protecting Privacy, Empowering Indians</Content>
@@ -847,13 +803,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘Notification of the Aarogya Setu Data Access and Knowledge Sharing Protocol, 2020 in Light of the COVID-19 Pandemic’, Ministry of Electronics and Information Technology, Government of India, 11 May 2020, Section 8 (‘Principles for sharing of response data for research purposes’), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.meity.gov.in/writereaddata/files/Aarogya_Setu_data_access_knowledge_Protocol.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>‘Notification of the Aarogya Setu Data Access and Knowledge Sharing Protocol, 2020 in Light of the COVID-19 Pandemic’, Ministry of Electronics and Information Technology, Government of India, 11 May 2020, Section 8 (‘Principles for sharing of response data for research purposes’), https://www.meity.gov.in/writereaddata/files/Aarogya_Setu_data_access_knowledge_Protocol.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -872,10 +822,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457435 .anchor}Rahul Matthan, ‘The Privacy Features That Are Built into Arogya Setu’, </Content>
+          <Content>Rahul Matthan, ‘The Privacy Features That Are Built into Arogya Setu’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Mint</Content>
@@ -883,7 +831,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 8 April 2020, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7</Content>
           </CharacterStyleRange>
@@ -911,22 +859,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457410 .anchor}Hemal Ashar, ‘Woman With No Travel History, No Symptoms, Whisked Away by BMC’, </Content>
+          <Content>Hemal Ashar, ‘Woman With No Travel History, No Symptoms, Whisked Away by BMC’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Mid-day</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 18 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 18 April 2020, https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -946,13 +886,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Suraksha Store, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.surakshastore.com/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Suraksha Store, https://www.surakshastore.com/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -972,18 +906,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>An Aarogya Setu Tracker, set up by the Internet Democracy Project, has listed some 45 agencies who made this app mandatory or required people who have it to behave in a certain way (for example, curfew violators being forced to download the app or Resident Welfare Associations refusing entry without the app and a ‘health certificate’). See </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457386 .anchor}Tanisha Ranjit, ‘When and Where is Aarogya Setu Mandatory? We’re Keeping Track’, Internet Democracy Project, 8 May 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://internetdemocracy.in/2020/05/aarogya-setu-tracker/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>An Aarogya Setu Tracker, set up by the Internet Democracy Project, has listed some 45 agencies who made this app mandatory or required people who have it to behave in a certain way (for example, curfew violators being forced to download the app or Resident Welfare Associations refusing entry without the app and a ‘health certificate’). See Tanisha Ranjit, ‘When and Where is Aarogya Setu Mandatory? We’re Keeping Track’, Internet Democracy Project, 8 May 2020, https://internetdemocracy.in/2020/05/aarogya-setu-tracker/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1003,13 +926,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Office memorandum issued by Ministry of Personnel, Public Grievances and Pensions, 29 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Office memorandum issued by Ministry of Personnel, Public Grievances and Pensions, 29 April 2020, https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1028,22 +945,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457351 .anchor}Prasid Banerjee and Shreya Nandy, ‘Govt’s Arogya Setu App to be Installed on Smartphones by Default Soon’, </Content>
+          <Content>Prasid Banerjee and Shreya Nandy, ‘Govt’s Arogya Setu App to be Installed on Smartphones by Default Soon’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Mint</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 29 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 29 April 2020, https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1065,22 +974,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457325 .anchor}‘After Delhi Metro Opens, You May be Denied Ride Without Mask’, Arogya Setu Pass’, </Content>
+          <Content>After Delhi Metro Opens, You May be Denied Ride Without Mask, Arogya Setu Pass’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Mint</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 23 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 23 April 2020, https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1103,7 +1004,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, </Content>
+          <Content>Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>TNW News</Content>
@@ -1118,10 +1019,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1143,16 +1041,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457240 .anchor}Subhashis Banerjee, ‘Covid Surveillance and Privacy in India’, Internet Freedom Foundation, 1 May 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Subhashis Banerjee, ‘Covid Surveillance and Privacy in India’, Internet Freedom Foundation, 1 May 2020, https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1369,10 +1259,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457207 .anchor}UIDAI, </Content>
+          <Content>UIDAI, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>UIDAI Strategy Overview:</Content>
@@ -1403,10 +1291,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108457163 .anchor}Nandan Nilekani, </Content>
+          <Content>Nandan Nilekani, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Imagining India: Ideas for the New Century</Content>
@@ -1437,10 +1323,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk107784335 .anchor}Partha Chatterjee, ‘Beyond the Nation? Or Within?’, </Content>
+          <Content>Partha Chatterjee, ‘Beyond the Nation? Or Within?’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Social Text</Content>
@@ -1660,12 +1544,7 @@
           <Content>A Vision for Indian Television</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk107838632 .anchor}New Delhi: Media Foundation of the Non-aligned, 1986.</Content>
+          <Content>, New Delhi: Media Foundation of the Non-aligned, 1986.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -1684,10 +1563,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk107839608 .anchor}A.S. Bhalla, ‘Can High Technology Help Third World ‘Take-Off’?’, </Content>
+          <Content>A.S. Bhalla, ‘Can High Technology Help Third World ‘Take-Off’?’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Economic &amp; Political Weekly</Content>
@@ -1952,17 +1829,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>[</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455829 .anchor}]{#_Hlk107938555 .anchor}Jean </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk107938511 .anchor}Drèze, ‘Unique Facility, or Recipe for Trouble?’, </Content>
+          <Content>Jean Drèze, ‘Unique Facility, or Recipe for Trouble?’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Hindu</Content>
@@ -1970,7 +1837,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 25 November 2010, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece</Content>
           </CharacterStyleRange>
@@ -1995,22 +1862,14 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455791 .anchor}Bharat Bhatti, Jean Drèze, and Reetika Khera, ‘Experiments with Aadhar’, </Content>
+          <Content>Bharat Bhatti, Jean Drèze, and Reetika Khera, ‘Experiments with Aadhar’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Hindu</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 27 June 2012, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 27 June 2012, https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2098,13 +1957,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>All references to the NPR taken from the Census of India’s FAQs: </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://censusindia.gov.in/2011-common/faqs.html</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>. This particular FAQ, outlining the social audit, is no longer on the Census website.</Content>
+          <Content>All references to the NPR taken from the Census of India’s FAQs: https://censusindia.gov.in/2011-common/faqs.html. This particular FAQ, outlining the social audit, is no longer on the Census website.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2130,21 +1983,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455748 .anchor}‘Nandan Nilekani, Home Ministry End UIDAI Tiff, to Divide Data Collection’, </Content>
+          <Content>See ‘Nandan Nilekani, Home Ministry End UIDAI Tiff, to Divide Data Collection’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Economic Times</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 28 January 2012, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst</Content>
+          <Content>, 28 January 2012, https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2176,7 +2021,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,</Content>
+          <Content>R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
       <Br />
@@ -2185,10 +2030,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2214,13 +2056,7 @@
           <Content>Tehelka</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 13 November 2010). Also see, Usha Ramanathan, ‘A State of Surveillance’, International Environmental Law Research Centre, 2010, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>http://www.ielrc.org/content/w1002.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 13 November 2010). Also see, Usha Ramanathan, ‘A State of Surveillance’, International Environmental Law Research Centre, 2010, http://www.ielrc.org/content/w1002.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2342,15 +2178,9 @@
           <Content>Frontline</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 28 April 2017,</Content>
+          <Content>, 28 April 2017, </Content>
         </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <Br />
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece</Content>
           </CharacterStyleRange>
@@ -2438,10 +2268,7 @@
           <Content>&#x2028;</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>http://timesofindia.indiatimes.com/articleshow/63321785.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>http://timesofindia.indiatimes.com/articleshow/63321785.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2479,13 +2306,7 @@
           <Content>Union of India and Others</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, WP (C) 494/2012 (2018). For details see </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://main.sci.gov.in/supremecourt/2012/35071/35071_2012_Judgement_26-Sep-2018.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, WP (C) 494/2012 (2018). For details see https://main.sci.gov.in/supremecourt/2012/35071/35071_2012_Judgement_26-Sep-2018.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2511,13 +2332,7 @@
           <Content>Indian Constitutional Law and Philosophy</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 27 September 2018, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indconlawphil.wordpress.com/2018/09/27/the-aadhaar-judgment-a-dissent-for-the-ages/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 27 September 2018, https://indconlawphil.wordpress.com/2018/09/27/the-aadhaar-judgment-a-dissent-for-the-ages/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -2839,13 +2654,7 @@
           <Content>Hindustan Times</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 3 July 2015, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.hindustantimes.com/india/man-arrested-for-getting-aadhaar-card-for-dog/story-MVtobqWtsrLXm01OkCBSvK.html</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 3 July 2015, https://www.hindustantimes.com/india/man-arrested-for-getting-aadhaar-card-for-dog/story-MVtobqWtsrLXm01OkCBSvK.html.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -3230,7 +3039,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, </Content>
+          <Content>Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Regimes of Narcissism, Regimes of Despair</Content>
@@ -3433,12 +3242,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>[</Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455286 .anchor}]{#_Hlk88296178 .anchor}Giorgio Agamben, </Content>
+          <Content>Giorgio Agamben, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Homo Sacer</Content>
@@ -3524,13 +3328,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See Memorandum of Understanding between the UIDAI and the National Coalition of Organisations for Security of Migrant Workers (represented by Aajeevika Bureau), executed on 29 July 2010, to avert crises precisely such as this one. For details, see </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://uidai.gov.in/images/mou/partners/Coalition_of_Migrant_Workers_NGOs.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>See Memorandum of Understanding between the UIDAI and the National Coalition of Organisations for Security of Migrant Workers (represented by Aajeevika Bureau), executed on 29 July 2010, to avert crises precisely such as this one. For details, see https://uidai.gov.in/images/mou/partners/Coalition_of_Migrant_Workers_NGOs.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -3556,7 +3354,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, </Content>
+          <Content>See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Wire</Content>
@@ -3564,7 +3362,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, 29 May 2020, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://thewire.in/labour/lockdown-migrant-workers-policy-analysis</Content>
           </CharacterStyleRange>
@@ -3827,10 +3625,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455197 .anchor}Kalyani Ramnath, ‘‘We the People’: Seamless Webs and Social Revolution in India’s Constituent Assembly Debates’, </Content>
+          <Content>Kalyani Ramnath, ‘‘We the People’: Seamless Webs and Social Revolution in India’s Constituent Assembly Debates’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>South Asia Research</Content>
@@ -3991,13 +3787,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ministry of Communications and Information Technology, Notification on changes to the Information Technology Act, 2000, issued on 11 April 2011, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.meity.gov.in/writereaddata/files/GSR3_10511%281%29.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Ministry of Communications and Information Technology, Notification on changes to the Information Technology Act, 2000, issued on 11 April 2011, https://www.meity.gov.in/writereaddata/files/GSR3_10511%281%29.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4105,13 +3895,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Unlawful Activities (Prevention) Amendment Bill, 2019, Section 6-iii-c, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://egazette.nic.in/WriteReadData/2019/210355.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Unlawful Activities (Prevention) Amendment Bill, 2019, Section 6-iii-c, https://egazette.nic.in/WriteReadData/2019/210355.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4259,10 +4043,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455158 .anchor}Devesh Kapur, Partha Mukhopadhyay and Arvind Subramanian, ‘The Case for Direct Cash Transfers to the Poor’, </Content>
+          <Content>Devesh Kapur, Partha Mukhopadhyay and Arvind Subramanian, ‘The Case for Direct Cash Transfers to the Poor’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Economic &amp; Political Weekly</Content>
@@ -4363,10 +4145,8 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
-        </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108455129 .anchor}Partha Chatterjee, ‘Democracy and Economic Transformation in India’, </Content>
+          <Content>Partha Chatterjee, ‘Democracy and Economic Transformation in India’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Economic &amp; Political Weekly</Content>
@@ -4477,13 +4257,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Citizenship (Amendment) Act, 2019. For details, see </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://egazette.nic.in/WriteReadData/2019/214646.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Citizenship (Amendment) Act, 2019. For details, see https://egazette.nic.in/WriteReadData/2019/214646.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4503,13 +4277,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Citizenship (Registration of Citizens and Issue of National Identity Cards) Rules, 2003, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://censusindia.gov.in/2011-Act&amp;Rules/notifications/citizenship_rules2003.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Citizenship (Registration of Citizens and Issue of National Identity Cards) Rules, 2003, https://censusindia.gov.in/2011-Act&amp;Rules/notifications/citizenship_rules2003.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4574,13 +4342,7 @@
           <Content>Countercurrents</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 7 August 2011, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.countercurrents.org/krishna070811.htm</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 7 August 2011, https://www.countercurrents.org/krishna070811.htm.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4791,13 +4553,7 @@
           <Content>The Hindu</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 6 February 2013, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.thehindu.com/news/national/karnataka/uidai-to-share-data-with-police-for-investigations/article4383068.ece</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 6 February 2013, https://www.thehindu.com/news/national/karnataka/uidai-to-share-data-with-police-for-investigations/article4383068.ece.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -4956,13 +4712,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See the legal services advice being offered here: </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>http://www.legalservicesindia.com/article/2316/Meaning-and-Kind-of-Person.html</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>See the legal services advice being offered here: http://www.legalservicesindia.com/article/2316/Meaning-and-Kind-of-Person.html.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5227,13 +4977,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Section 66 of the IT Act (‘Hacking with computer system’): ‘Whoever with the intent to cause or knowing that he is likely to cause wrongful loss or damage to the public or any person destroys or deletes or alters any information residing in a computer resource or diminishes its value or utility or affects it injuriously by any means, commits hack’. For details, see </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.meity.gov.in/content/offences</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Section 66 of the IT Act (‘Hacking with computer system’): ‘Whoever with the intent to cause or knowing that he is likely to cause wrongful loss or damage to the public or any person destroys or deletes or alters any information residing in a computer resource or diminishes its value or utility or affects it injuriously by any means, commits hack’. For details, see https://www.meity.gov.in/content/offences.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5262,13 +5006,7 @@
           <Content>Overview of Leading Indian Social Media</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 21 December 2010, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://fas.org/irp/dni/osc/india-social.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 21 December 2010, https://fas.org/irp/dni/osc/india-social.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5294,13 +5032,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Wikipedia, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://en.wikipedia.org/wiki/Pink_Chaddi_Campaign</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Wikipedia, https://en.wikipedia.org/wiki/Pink_Chaddi_Campaign.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5320,10 +5052,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://cis-india.org/internet-governance/resources/section-66A-information-technology-act</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>https://cis-india.org/internet-governance/resources/section-66A-information-technology-act.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5364,19 +5093,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, </Content>
+          <Content>Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Scroll</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 12 March 2015, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 12 March 2015, https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5408,13 +5131,7 @@
           <Content>Free Press Journal</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 1 June 2019, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 1 June 2019, https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5440,13 +5157,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5478,13 +5189,7 @@
           <Content>UOI</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, WP (Criminal) No. 167 of 2012, (24 March 2015), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/110813550/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, WP (Criminal) No. 167 of 2012, (24 March 2015), https://indiankanoon.org/doc/110813550/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5507,13 +5212,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>These are: (1) the sovereignty and integrity of India, (2) the security of the State, (3) friendly relations with foreign States, (4) public order, (5) decency (6) morality or in relation to contempt of court, (7) defamation (8) incitement to an offence. See </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/493243/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>These are: (1) the sovereignty and integrity of India, (2) the security of the State, (3) friendly relations with foreign States, (4) public order, (5) decency (6) morality or in relation to contempt of court, (7) defamation (8) incitement to an offence. See https://indiankanoon.org/doc/493243/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5536,12 +5235,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Shuddhabrata Sengupta, </Content>
-        </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
-        </HyperlinkTextSource>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>{#_Hlk108445835 .anchor}‘Media Trials and Courtroom Tribulations: The Battle of Images, Words and Shadows in the 13 December Case’, in </Content>
+          <Content>Shuddhabrata Sengupta, ‘Media Trials and Courtroom Tribulations: The Battle of Images, Words and Shadows in the 13 December Case’, in </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>13 December, A Reader: The Strange Case of the Attack on the Indian Parliament</Content>
@@ -5594,13 +5288,7 @@
           <Content>Mahant Suresh Das &amp; Ors</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Civil Appeals Nos 10866-10867 of 2010 (2019), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.sci.gov.in/pdf/JUD_2.pdf</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, Civil Appeals Nos 10866-10867 of 2010 (2019), https://www.sci.gov.in/pdf/JUD_2.pdf.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5650,13 +5338,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Paul Bischoff, ‘Which Government Censors the Tech Giants the Most?’, 19 October 2021, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.comparitech.com/blog/vpn-privacy/tech-giant-censorship/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Paul Bischoff, ‘Which Government Censors the Tech Giants the Most?’, 19 October 2021, https://www.comparitech.com/blog/vpn-privacy/tech-giant-censorship/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5685,13 +5367,7 @@
           <Content>State of Kerala</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, WP (C) 19716/2019-L (19 September 2019), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/188439981/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>; </Content>
+          <Content>, WP (C) 19716/2019-L (19 September 2019), https://indiankanoon.org/doc/188439981/; </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Banashree Gogoi</Content>
@@ -5703,13 +5379,7 @@
           <Content>Union of India and 7 Ors</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, GAHC010310492019, Case No. : PIL 78/2019 (19 December 2019), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/175955438/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>; </Content>
+          <Content>, GAHC010310492019, Case No. : PIL 78/2019 (19 December 2019), https://indiankanoon.org/doc/175955438/; </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Anuradha Bhasin</Content>
@@ -5721,13 +5391,7 @@
           <Content>Union of India</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Writ Petition (Civil) No. 1031 of 2019 (10 January 2020), </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/82461587/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>; </Content>
+          <Content>, Writ Petition (Civil) No. 1031 of 2019 (10 January 2020), https://indiankanoon.org/doc/82461587/; </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Foundation for Media Professionals</Content>
@@ -5739,13 +5403,7 @@
           <Content>Union Territory of Jammu and Kashmir</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Writ Petition (Civil) of 2020 (D. No. 10817 of 2020) (11 May 2020), (</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indiankanoon.org/doc/123992151/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, Writ Petition (Civil) of 2020 (D. No. 10817 of 2020) (11 May 2020), (https://indiankanoon.org/doc/123992151/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5804,10 +5462,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://indianexpress.com/article/india/india-news-india/manipur-violence-protests-in-churachandpur-manipur-deaths-2999507/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>https://indianexpress.com/article/india/india-news-india/manipur-violence-protests-in-churachandpur-manipur-deaths-2999507/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -5889,10 +5544,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://frontline.thehindu.com/cover-story/impossible-for-journalists-to-function/article29382196.ece</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>https://frontline.thehindu.com/cover-story/impossible-for-journalists-to-function/article29382196.ece.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -6156,7 +5808,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/</Content>
           </CharacterStyleRange>
@@ -6232,13 +5884,7 @@
           <Content>Imprisoned Resistance - 5th August and its Aftermath</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 2019, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.pucl.org/reports/imprisoned-resistance-5th-august-and-its-aftermath</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>, 2019, https://www.pucl.org/reports/imprisoned-resistance-5th-august-and-its-aftermath.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -6542,7 +6188,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># Pramod K. Verma, Architecting Platforms for Innovation</Content>
+          <Content>Pramod K. Verma, Architecting Platforms for Innovation</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
       <Br />
@@ -6550,7 +6196,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.slideshare.net/indiastack/architecting-platforms-for-innovation</Content>
           </CharacterStyleRange>
@@ -6588,13 +6234,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Aditi Agrawal, ‘Aarogya Setu Will Include Telemedicine, Greater Personalisation; May Act as Building Block for India Health Stack’, Medianama, 22 April 2020, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>https://www.medianama.com/2020/04/223-aarogya-setu-upcoming-features/</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>.</Content>
+          <Content>Aditi Agrawal, ‘Aarogya Setu Will Include Telemedicine, Greater Personalisation; May Act as Building Block for India Health Stack’, Medianama, 22 April 2020, https://www.medianama.com/2020/04/223-aarogya-setu-upcoming-features/.</Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
@@ -6635,220 +6275,52 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.slideshare.net/indiastack/architecting-platforms-for-innovation" Name="link" DestinationURL="https://www.slideshare.net/indiastack/architecting-platforms-for-innovation" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-31" Name="https://www.slideshare.net/indiastack/architecting-platforms-for-innovation" Source="htss-31" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="https://www.slideshare.net/indiastack/architecting-platforms-for-innovation" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.slideshare.net/indiastack/architecting-platforms-for-innovation</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/" Name="link" DestinationURL="https://www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-30" Name="https://www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="https://www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.medianama.com/2020/01/223-partial-internet-restoration-jammu-kashmir/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-29" Name="#section-6" Source="htss-29" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-28" Name="#section-6" Source="htss-28" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-27" Name="#section-6" Source="htss-27" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-26" Name="#section-6" Source="htss-26" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//thewire.in/labour/lockdown-migrant-workers-policy-analysis" Name="link" DestinationURL="https://thewire.in/labour/lockdown-migrant-workers-policy-analysis" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-25" Name="https://thewire.in/labour/lockdown-migrant-workers-policy-analysis" Source="htss-25" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="https://thewire.in/labour/lockdown-migrant-workers-policy-analysis" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//thewire.in/labour/lockdown-migrant-workers-policy-analysis</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-24" Name="#section-6" Source="htss-24" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece" Name="link" DestinationURL="https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-23" Name="https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece" Source="htss-23" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="https://frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//frontline.thehindu.com/cover-story/the-dalit-identity-dilemma/article9629313.ece</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-22" Name="#section-6" Source="htss-22" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-21" Name="#section-6" Source="htss-21" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece" Name="link" DestinationURL="https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-20" Name="https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-3" Name="https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-19" Name="#section-6" Source="htss-19" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-18" Name="#section-6" Source="htss-18" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-17" Name="#section-6" Source="htss-17" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-16" Name="#section-6" Source="htss-16" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-15" Name="#section-6" Source="htss-15" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-14" Name="#section-6" Source="htss-14" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="#section-6" Source="htss-13" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="#section-6" Source="htss-12" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="#section-6" Source="htss-11" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="#section-6" Source="htss-10" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="#section-6" Source="htss-9" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="#section-6" Source="htss-8" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7" Name="link" DestinationURL="https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="#section-6" Source="htss-6" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="#section-6" Source="htss-5" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny" Name="link" DestinationURL="https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-1" Name="https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="#section-6" Source="htss-3" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="#section-6" Source="htss-2" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/#section-6" Name="link" DestinationURL="#section-6" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="#section-6" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/#section-6</Destination>
     </Properties>
   </Hyperlink>
 </Document>
