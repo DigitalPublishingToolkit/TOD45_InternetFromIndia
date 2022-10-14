@@ -54,18 +54,20 @@ h1, h2, h3, h4, h5, h6 {
 h1{
     font-size:1.8em;
     text-transform:none;
+    color: #94c570;
     page-break-before: none;
 }
 
 h2{
     font-size: 1.2em;
     text-transform:none;
+    color: #f18c5d;
     margin-top: 1.2em;
 }
 
 h3{
     font-size: 1.0em;
-    color: #8e8a7b;
+    color: #000000;
     margin-top: 1em;
 }
 
@@ -110,7 +112,7 @@ img {
     width: auto;
     height: auto;
 }
-/* Use this code for box with a border by applying div class="statbox" to your md content */ 
+/* Use this code for box with a border by applying div class="statbox" to your md content */
 .statbox {
     font-size: 1.5em;
     font-family: 'OpenSans-Light';
