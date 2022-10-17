@@ -80,7 +80,7 @@ to some’ and the far more inflammatory ‘incitement by which such words
 lead to an imminent causal connection with public disorder, security of
 State etc’.[^05MainIntroduction_7]
 
-\_\_\_\_\_\_
+\*\*\*
 
 It may well be possible to read into Nariman’s view of data’s content
 neutrality, and the potentially inflammatory nature of *all* data in the
@@ -563,11 +563,12 @@ from it.
     such messages, shall be punishable with imprisonment for a term
     which may extend to three years and with fine.
 
-[^05MainIntroduction_3]: Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012,
+[^05MainIntroduction_3]: Pranesh Prakash, ‘Social Media Regulation vs. Suppression of
+    Freedom of Speech’, *Kafila Online*, 19 November 2012,
 
     https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
 
-[^05MainIntroduction_4]: Pranesh Prakash,‘Adding Insult to
+[^05MainIntroduction_4]: Pranesh Prakash, ‘Adding Insult to
     Injury’, *Outlook India*, 19 November 2012,
     https://www.outlookindia.com/website/story/adding-insult-to-injury/283033.
 
