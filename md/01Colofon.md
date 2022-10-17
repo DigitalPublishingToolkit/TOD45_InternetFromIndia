@@ -67,3 +67,7 @@ of this license, visit
 ![](imgs/INC-logoCMYK.png)
 
 <br/> 
+
+![](imgs/1.1.jpg)
+
+<br/>
