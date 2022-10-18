@@ -125,33 +125,35 @@ Express* and raiot.in. This is his first book. 
  <a href='ch004.xhtml'>**Series Introduction**</a>
 <br/>
 
- <a href='ch004.xhtml'>**Introduction: Data Without Content, or the Medium With no Message**</a>
+ <a href='ch005.xhtml'>**Introduction: Data Without Content, or the Medium With no Message**</a>
 <br/>
 
 
-<a href='ch005.xhtml'>**The Insidiousness of Information Overload**</a>
+<a href='ch006.xhtml'>**The Insidiousness of Information Overload**</a>
 <br/>Nishant Shah 
 
-<a href='ch006.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
+<a href='ch007.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
 <br/>Ashish Rajadhyaksha
 
-<a href='ch007.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
+<a href='ch008.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
 Digital Governance**</a>
 <br/>Nafis Aziz Hasan
 
-<a href='ch008.xhtml'>**About the book: *An* Internet *from* India**</a>
+<a href='ch009.xhtml'>**About the book: *An* Internet *from* India**</a>
 <br/>
 
-<a href='ch009.xhtml'>**Annotated timeline**</a>
+<a href='ch010.xhtml'>**Annotated timeline**</a>
 <br/>
 
-<a href='ch010.xhtml'>**The Archive**</a>
+<a href='ch011.xhtml'>**The Archive**</a>
 <br/>
-
-<a href='ch012.xhtml'>**Consolidated bibliography**</a>
 
 <a href='ch013.xhtml'>**Acknowledgments**</a>
 <br/>
+
+<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -531,7 +533,7 @@ to some’ and the far more inflammatory ‘incitement by which such words
 lead to an imminent causal connection with public disorder, security of
 State etc’.[^05MainIntroduction_7]
 
-\_\_\_\_\_\_
+\*\*\*
 
 It may well be possible to read into Nariman’s view of data’s content
 neutrality, and the potentially inflammatory nature of *all* data in the
@@ -1014,11 +1016,12 @@ from it.
     such messages, shall be punishable with imprisonment for a term
     which may extend to three years and with fine.
 
-[^05MainIntroduction_3]: Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012,
+[^05MainIntroduction_3]: Pranesh Prakash, ‘Social Media Regulation vs. Suppression of
+    Freedom of Speech’, *Kafila Online*, 19 November 2012,
 
     https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
 
-[^05MainIntroduction_4]: Pranesh Prakash,‘Adding Insult to
+[^05MainIntroduction_4]: Pranesh Prakash, ‘Adding Insult to
     Injury’, *Outlook India*, 19 November 2012,
     https://www.outlookindia.com/website/story/adding-insult-to-injury/283033.
 

@@ -80,32 +80,34 @@ Express* and raiot.in. This is his first book. 
  <a href='ch004.xhtml'>**Series Introduction**</a>
 <br/>
 
- <a href='ch004.xhtml'>**Introduction: Data Without Content, or the Medium With no Message**</a>
+ <a href='ch005.xhtml'>**Introduction: Data Without Content, or the Medium With no Message**</a>
 <br/>
 
 
-<a href='ch005.xhtml'>**The Insidiousness of Information Overload**</a>
+<a href='ch006.xhtml'>**The Insidiousness of Information Overload**</a>
 <br/>Nishant Shah 
 
-<a href='ch006.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
+<a href='ch007.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
 <br/>Ashish Rajadhyaksha
 
-<a href='ch007.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
+<a href='ch008.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
 Digital Governance**</a>
 <br/>Nafis Aziz Hasan
 
-<a href='ch008.xhtml'>**About the book: *An* Internet *from* India**</a>
+<a href='ch009.xhtml'>**About the book: *An* Internet *from* India**</a>
 <br/>
 
-<a href='ch009.xhtml'>**Annotated timeline**</a>
+<a href='ch010.xhtml'>**Annotated timeline**</a>
 <br/>
 
-<a href='ch010.xhtml'>**The Archive**</a>
+<a href='ch011.xhtml'>**The Archive**</a>
 <br/>
-
-<a href='ch012.xhtml'>**Consolidated bibliography**</a>
 
 <a href='ch013.xhtml'>**Acknowledgments**</a>
 <br/>
+
+<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+
+
 
 <div style="page-break-after: always;"></div>
