@@ -128,7 +128,6 @@ Express* and raiot.in. This is his first book. 
  <a href='ch005.xhtml'>**Introduction: Data Without Content, or the Medium With no Message**</a>
 <br/>
 
-
 <a href='ch006.xhtml'>**The Insidiousness of Information Overload**</a>
 <br/>Nishant Shah 
 
@@ -148,10 +147,13 @@ Digital Governance**</a>
 <a href='ch011.xhtml'>**The Archive**</a>
 <br/>
 
-<a href='ch013.xhtml'>**Acknowledgments**</a>
+<a href='ch012.xhtml'>**Acknowledgments**</a>
 <br/>
 
-<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+<a href='ch013.xhtml'>**Consolidated Bibliography**</a>
+<br/>
+
+
 
 
 
