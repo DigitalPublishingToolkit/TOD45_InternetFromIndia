@@ -1,0 +1,194 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/AdobeFnt23.lst
+FileLength:4228
+FileModTime:687965981
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:75 Bold
+MenuName:Helvetica 55 Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:12 pt. Helvetica* 75 Bold   07472
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/HelveNeuBol
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30960
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:45 Light
+MenuName:Helvetica 45 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:12 pt. Helvetica* 45 Light   02472
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/HelveNeuLig
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30807
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:46 Light Italic
+MenuName:Helvetica 45 Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:12 pt. Helvetica* 46 Light Italic   11472
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/HelveNeuLigIta
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31168
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+MenuName:Helvetica 55 Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:12 pt Helvetica* 55 Roman   05472
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/HelveNeuRom
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29772
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-LightExt
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/HelveticaNeue
+ResourceID:5773
+MacStyle:0
+FileLength:476369
+FileModTime:82470154
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothic-BoldTwo
+FamilyName:Trade Gothic
+StyleName:Bold No. 2
+MenuName:TradeGothic
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic Bold No. 2
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/TradeGotBolTwo
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29296
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothic-Light
+FamilyName:Trade Gothic
+StyleName:Light
+MenuName:TradeGothic Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic Light
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/TradeGotLig
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27442
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothic-LightOblique
+FamilyName:Trade Gothic
+StyleName:Light Oblique
+MenuName:TradeGothic Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Trade Gothic Light Oblique
+WritingScript:Roman
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/TradeGotLigObl
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35081
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:TradeGothic-BoldCondTwentyObl
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD45_InternetFromIndia/TOD#45 cover DEF4 map/Document fonts/TradeGothic
+ResourceID:13162
+MacStyle:0
+FileLength:306083
+FileModTime:82386036
+%EndFont
+
