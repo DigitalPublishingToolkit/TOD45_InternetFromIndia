@@ -644,8 +644,6 @@ Concerns During a Pandemic’, *The Hindu*, 29 April 2020,
 
 Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, <a href="https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/">https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/</a>.
 
-# 
-
 ———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, <a href="https://www.outlookindia.com/website/story/adding-insult-to-injury/283033">https://www.outlookindia.com/website/story/adding-insult-to-injury/283033</a>. 
 
 ‘Pune Bourse Goes Online’, *The Times of India*, 19 March 1996, ProQuest

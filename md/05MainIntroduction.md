@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# INTRODUCTION
+# Introduction
 
 ## Data Without Content, or the Medium With no Message
 

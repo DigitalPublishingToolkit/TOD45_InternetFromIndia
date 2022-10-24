@@ -102,10 +102,11 @@ Digital Governance**</a>
 <a href='ch011.xhtml'>**The Archive**</a>
 <br/>
 
-<a href='ch013.xhtml'>**Acknowledgments**</a>
+<a href='ch012.xhtml'>**Acknowledgments**</a>
 <br/>
 
-<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+<a href='ch013.xhtml'>**Bibliography**</a>
+<br/>
 
 <a href='ch015.xhtml'>**About the Authors**</a>
 <br/>
@@ -345,6 +346,7 @@ invisible in turn. This book not only helps us understand what has come
 to pass, but also helps us ask more questions.
  
 
+#Series Introduction
 
 **Overload, Creep, Excess: An Internet from India** is part of a series
 of titles supported by the Centre for the Study of Culture & Society
@@ -425,7 +427,7 @@ very much of the present.
 
 
 
-# INTRODUCTION
+# Introduction
 
 ## Data Without Content, or the Medium With no Message
 
@@ -11440,8 +11442,6 @@ Concerns During a Pandemic’, *The Hindu*, 29 April 2020,
 <a href="https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128">https://www.narendramodi.in/pm-s-remarks-at-the-launch-of-digital-india-week-175128</a>.
 
 Pranesh Prakash, ‘Social Media Regulation vs. Suppression of Freedom of Speech’, *Kafila Online*, 19 November 2012, <a href="https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/">https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/</a>.
-
-# 
 
 ———. ‘Adding Insult to Injury’, *Outlook India*, 19 November 2012, <a href="https://www.outlookindia.com/website/story/adding-insult-to-injury/283033">https://www.outlookindia.com/website/story/adding-insult-to-injury/283033</a>. 
 

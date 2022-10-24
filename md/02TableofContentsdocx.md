@@ -52,10 +52,11 @@ Digital Governance**</a>
 <a href='ch011.xhtml'>**The Archive**</a>
 <br/>
 
-<a href='ch013.xhtml'>**Acknowledgments**</a>
+<a href='ch012.xhtml'>**Acknowledgments**</a>
 <br/>
 
-<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+<a href='ch013.xhtml'>**Bibliography**</a>
+<br/>
 
 <a href='ch015.xhtml'>**About the Authors**</a>
 <br/>
