@@ -118,11 +118,11 @@ They give data a form and interpretive possibilities. They also, as this
 essay shows, make data potentially dangerous, going beyond the
 conditions of its arrangement.
 
-**I**
+##I.
 
 ## REMAKING GOVERNMENT IN THE REALM OF THE DIGITAL
 
-## The techno-politics of neoliberalism
+### The techno-politics of neoliberalism
 
 In 1993, Infosys recorded revenue of \$5 million.[^07NafisHasan_3] One year later,
 that had jumped to \$9 million on the back of Finacle – a banking system
@@ -672,7 +672,7 @@ spectacular, or episodic forms of violence that scholars of the state
 have alerted us to, but what I call a form of ‘slow violence’ given the
 slow and concealed way repair creeps into a citizen’s life.
 
-## II
+## II.
 
 ## THE PLANNING COMMISSION’S QUEST FOR ‘DATA IMPROVEMENT’
 
@@ -1031,15 +1031,11 @@ the politics of NIC’s work with government departments and has over the
 years led to a gap between intent and outcome, evident from the
 checkered nature of digitization projects in government.
 
-## III
-
-##  
+## III.
 
 ## DATA EXCESS: RELATIONAL DATABASE MANAGEMENT AND DATA PROLIFERATION 
 
-## 
-
-## Technical Specifics of RDBMS
+### Technical Specifics of RDBMS
 
 The storage of data from a tree-based or network structure to one of
 rows and columns opened up possibilities for the arrangement and access
@@ -1738,9 +1734,7 @@ citizen services, and being saddled with the burden of repairing data
 and losing that status, depicts the experience of slow violence emerging
 in these interactions.
 
-## IV
-
-## 
+## IV.
 
 ## CONTAINING EXCESS OR RETURN TO THE LOCAL
 

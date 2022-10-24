@@ -125,7 +125,7 @@ the public domain – a right directly threatened by the 2020 lockdown.
 
 ## 
 
-## I
+## I.
 
 ## 
 
@@ -235,7 +235,7 @@ rumors floated by some vested elements’. The arrests, they said, had
 been made ‘based on analysis of scientific and forensic evidence,
 including video footages, technical & other footprints’.[^06AshishRajadhayksha_10]
 
-\_\_\_\_\_\_
+\*\*\*
 
 
 This essay does not deal with the specific legal situation that Safoora
@@ -321,7 +321,7 @@ one’s exclusion from substantive citizenship’, says Jayal.[^06AshishRajadhay
 would thus produce some of its most elaborate contours in India as a
 fight for social justice.
 
-\_\_\_\_\_\_
+\*\*\*
 
 Digital platforms arrived in the 2000s with the intention of delivering
 state welfare with a utopian promise. They were to accurately identify
@@ -1452,7 +1452,7 @@ other, and his village of Toba Tek Singh ‘in the middle, on a piece of
 land that had no name’ – so too these migrants found themselves in an
 identity abyss and told to quarantine themselves in it.[^06AshishRajadhayksha_90]
 
-## III
+## III.
 
 ## 
 
@@ -1894,7 +1894,7 @@ General of the UIDAI, Ashok Dalwai, said that data could be shared with
 security agencies, particularly for cases relating to national security,
 on the basis of court orders.[^06AshishRajadhayksha_119]
 
-## IV
+## IV.
 
 ## 
 
@@ -2220,7 +2220,7 @@ generating new kinds of nonuniversal narrative communities. Such
 communities may well need a reinvoking of the Directive Principles as
 they take the meaning of citizenship to its liminal extremes.
 
-## V
+## V.
 
 ## 
 
@@ -2544,7 +2544,7 @@ body has only one identity with no choice in the matter.
     Misinformation on Corona Virus issued to ‘All Social Media
     Platforms’ by MEITY, dated March 20, 2020.
 
-[^06AshishRajadhayksha_4]: []{#_Hlk108457630 .anchor}Suhrith Parthasarthy, Gautam Bhatia, and
+[^06AshishRajadhayksha_4]: Suhrith Parthasarthy, Gautam Bhatia, and
     Apar Gupta, ‘Privacy Concerns During a Pandemic’, *The Hindu*, 29
     April 2020,
     <a href="https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece">https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece</a>.
@@ -2573,12 +2573,12 @@ body has only one identity with no choice in the matter.
     thereafter, many prominent lawyers, activists, and academics have
     been targeted by the police under the UAPA and jailed without trial.
 
-[^06AshishRajadhayksha_7]: []{#_Hlk108457599 .anchor}Gautam Navlakha, ‘‘My Hope Rests on a
+[^06AshishRajadhayksha_7]: Gautam Navlakha, ‘‘My Hope Rests on a
     Speedy and Fair Trial': Gautam Navlakha Before His Surrender’, *The
     Wire*, 14 April 2020,
     <a href="https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender">https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender</a>.
 
-[^06AshishRajadhayksha_8]: []{#_Hlk108457560 .anchor}Sruthisagar Yamunan and Shoaib Daniyal,
+[^06AshishRajadhayksha_8]: Sruthisagar Yamunan and Shoaib Daniyal,
     ‘As Delhi Police Crack Down on Student Leaders, Courts Cite Lockdown
     to Justify Lack of Scrutiny’, *Scroll*, 29 April 2020,
     <https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny>.
@@ -2624,7 +2624,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_16]: Jayal, *Citizenship and its Discontents*, p. 19.
 
-[^06AshishRajadhayksha_17]: See []{#_Hlk108457473 .anchor}Committee of Experts under the
+[^06AshishRajadhayksha_17]: See Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India,
@@ -2651,11 +2651,11 @@ body has only one identity with no choice in the matter.
     research purposes’),
     <a href="https://www.meity.gov.in/writereaddata/files/Aarogya%5C_Setu%5C_data%5C_access%5C_knowledge%5C_Protocol.pdf">https://www.meity.gov.in/writereaddata/files/Aarogya\_Setu\_data\_access\_knowledge\_Protocol.pdf</a>.
 
-[^06AshishRajadhayksha_22]: []{#_Hlk108457435 .anchor}Rahul Matthan, ‘The Privacy Features
+[^06AshishRajadhayksha_22]: Rahul Matthan, ‘The Privacy Features
     That Are Built into Arogya Setu’, *The Mint*, 8 April 2020,
     <https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7>.
 
-[^06AshishRajadhayksha_23]: []{#_Hlk108457410 .anchor}Hemal Ashar, ‘Woman With No Travel
+[^06AshishRajadhayksha_23]: Hemal Ashar, ‘Woman With No Travel
     History, No Symptoms, Whisked Away by BMC’, *Mid-day*, 18 April
     2020,
     <a href="https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204">https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204</a>.
@@ -2667,7 +2667,7 @@ body has only one identity with no choice in the matter.
     required people who have it to behave in a certain way (for example,
     curfew violators being forced to download the app or Resident
     Welfare Associations refusing entry without the app and a ‘health
-    certificate’). See []{#_Hlk108457386 .anchor}Tanisha Ranjit, ‘When
+    certificate’). See Tanisha Ranjit, ‘When
     and Where is Aarogya Setu Mandatory? We’re Keeping Track’, Internet
     Democracy Project, 8 May 2020,
     <a href="https://internetdemocracy.in/2020/05/aarogya-setu-tracker/">https://internetdemocracy.in/2020/05/aarogya-setu-tracker/</a>.
@@ -2676,21 +2676,21 @@ body has only one identity with no choice in the matter.
     Grievances and Pensions, 29 April 2020,
     <a href="https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/">https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/</a>.
 
-[^06AshishRajadhayksha_27]: []{#_Hlk108457351 .anchor}Prasid Banerjee and Shreya Nandy,
+[^06AshishRajadhayksha_27]: Prasid Banerjee and Shreya Nandy,
     ‘Govt’s Arogya Setu App to be Installed on Smartphones by Default
     Soon’, *The Mint*, 29 April 2020,
     <a href="https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html">https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html</a>.
 
-[^06AshishRajadhayksha_28]: []{#_Hlk108457325 .anchor}‘After Delhi Metro Opens, You May be
+[^06AshishRajadhayksha_28]: ‘After Delhi Metro Opens, You May be
     Denied Ride Without Mask’, Arogya Setu Pass’, *The Mint*, 23 April
     2020,
     <a href="https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html">https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html</a>.
 
-[^06AshishRajadhayksha_29]: #  Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
+[^06AshishRajadhayksha_29]: Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
 
     <a href="https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/">https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/</a>.
 
-[^06AshishRajadhayksha_30]: []{#_Hlk108457240 .anchor}Subhashis Banerjee, ‘Covid Surveillance
+[^06AshishRajadhayksha_30]: Subhashis Banerjee, ‘Covid Surveillance
     and Privacy in India’, Internet Freedom Foundation, 1 May 2020,
     <a href="https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440">https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440</a>.
 
@@ -2705,14 +2705,14 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_33]: Section 2(k) of the Aadhaar Act.
 
-[^06AshishRajadhayksha_34]: []{#_Hlk108457207 .anchor}UIDAI, *UIDAI Strategy Overview:*
+[^06AshishRajadhayksha_34]: UIDAI, *UIDAI Strategy Overview:*
     *Creating a Unique Identity Number for Every Resident in India*,
     Planning Commission/UIDAI, Government of India, April 2010.
 
-[^06AshishRajadhayksha_35]: []{#_Hlk108457163 .anchor}Nandan Nilekani, *Imagining India:
+[^06AshishRajadhayksha_35]: Nandan Nilekani, *Imagining India:
     Ideas for the New Century*, New Delhi: Penguin, 2008, p. 122.
 
-[^06AshishRajadhayksha_36]: []{#_Hlk107784335 .anchor}Partha Chatterjee, ‘Beyond the Nation?
+[^06AshishRajadhayksha_36]: Partha Chatterjee, ‘Beyond the Nation?
     Or Within?’, *Social Text* 56 (1998): 57–69.
 
 [^06AshishRajadhayksha_37]: Nilekani, *Imagining India*, p. 373.
@@ -2733,10 +2733,9 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_40]: Sen, ‘Markets’, p. 135.
 
-[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, []{#_Hlk107838632
-    .anchor}New Delhi: Media Foundation of the Non-aligned, 1986.
+[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, New Delhi: Media Foundation of the Non-aligned, 1986.
 
-[^06AshishRajadhayksha_42]: []{#_Hlk107839608 .anchor}A.S. Bhalla, ‘Can High Technology Help
+[^06AshishRajadhayksha_42]: A.S. Bhalla, ‘Can High Technology Help
     Third World ‘Take-Off’?’, *Economic & Political Weekly* 22.27
     (1987): 1082–1086.
 
@@ -2782,12 +2781,12 @@ body has only one identity with no choice in the matter.
     present Digital India and UMANG (Unified Mobile Application for
     New-age Governance) initiatives.
 
-[^06AshishRajadhayksha_50]: [[]{#_Hlk108455829 .anchor}]{#_Hlk107938555 .anchor}Jean
-    []{#_Hlk107938511 .anchor}Drèze, ‘Unique Facility, or Recipe for
+[^06AshishRajadhayksha_50]: Jean
+   Drèze, ‘Unique Facility, or Recipe for
     Trouble?’, *The Hindu*, 25 November 2010,
     <https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece>.
 
-[^06AshishRajadhayksha_51]: []{#_Hlk108455791 .anchor}Bharat Bhatti, Jean Drèze, and Reetika
+[^06AshishRajadhayksha_51]: Bharat Bhatti, Jean Drèze, and Reetika
     Khera, ‘Experiments with Aadhar’, *The Hindu*, 27 June 2012,
     <a href="https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece">https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece</a>.
 
@@ -2797,12 +2796,12 @@ body has only one identity with no choice in the matter.
     <a href="https://censusindia.gov.in/2011-common/faqs.html">https://censusindia.gov.in/2011-common/faqs.html</a>. This particular
     FAQ, outlining the social audit, is no longer on the Census website.
 
-[^06AshishRajadhayksha_54]: See []{#_Hlk108455748 .anchor}‘Nandan Nilekani, Home Ministry End
+[^06AshishRajadhayksha_54]: See ‘Nandan Nilekani, Home Ministry End
     UIDAI Tiff, to Divide Data Collection’, *The Economic Times*, 28
     January 2012,
     <a href="https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm%5C_source=contentofinterest&amp;utm%5C_medium=text&amp;utm%5C_campaign=cppst">https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst</a>
 
-[^06AshishRajadhayksha_55]: #  R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
+[^06AshishRajadhayksha_55]: R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
 
     <a href="https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/">https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/</a>.
 
@@ -2907,7 +2906,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_82]: Sukumar, *Midnight’s Machines*, pp. 114–115.
 
-[^06AshishRajadhayksha_83]: #  Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
+[^06AshishRajadhayksha_83]:  Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
 
 [^06AshishRajadhayksha_84]: Chatterjee, *A Princely Impostor?*, p. 366.
 
@@ -2917,7 +2916,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_86]: *Puttaswamy* v *UOI*. Dissenting judgment. Part G3: Identity and
     Identification, No. 185.
 
-[^06AshishRajadhayksha_87]: [[]{#_Hlk108455286 .anchor}]{#_Hlk88296178 .anchor}Giorgio
+[^06AshishRajadhayksha_87]: Giorgio
     Agamben, *Homo Sacer*: *Sovereign Power and Bare Life*, Stanford:
     Stanford University Press, 1998.
 
@@ -2927,7 +2926,7 @@ body has only one identity with no choice in the matter.
     avert crises precisely such as this one. For details, see
     <a href="https://uidai.gov.in/images/mou/partners/Coalition%5C_of%5C_Migrant%5C_Workers%5C_NGOs.pdf">https://uidai.gov.in/images/mou/partners/Coalition\_of\_Migrant\_Workers\_NGOs.pdf</a>.
 
-[^06AshishRajadhayksha_89]: #  See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
+[^06AshishRajadhayksha_89]: See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
 
 [^06AshishRajadhayksha_90]: Saadat Hasan Manto’s classic 1955 short story ‘Toba Tek Singh’,
     in which the newly formed governments of India and Pakistan exchange
@@ -2978,7 +2977,7 @@ body has only one identity with no choice in the matter.
     assistance provided to BPL households through the PDS amounted to
     less than INR 5 per person per month.
 
-[^06AshishRajadhayksha_95]: []{#_Hlk108455197 .anchor}Kalyani Ramnath, ‘‘We the People’:
+[^06AshishRajadhayksha_95]: Kalyani Ramnath, ‘‘We the People’:
     Seamless Webs and Social Revolution in India’s Constituent Assembly
     Debates’, *South Asia Research* 32.1 (2012): 58.
 
@@ -3008,7 +3007,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_105]: The United Progressive Alliance or UPA is a coalition of parties
     formed soon after the 2004 general election.
 
-[^06AshishRajadhayksha_106]: []{#_Hlk108455158 .anchor}Devesh Kapur, Partha Mukhopadhyay and
+[^06AshishRajadhayksha_106]: Devesh Kapur, Partha Mukhopadhyay and
     Arvind Subramanian, ‘The Case for Direct Cash Transfers to the
     Poor’, *Economic & Political Weekly* 43.15 (2008): 37–43.
 
@@ -3017,7 +3016,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_108]: Kapur et al., ‘The Case for Direct Cash Transfers’, p. 39.
     Emphasis is mine.
 
-[^06AshishRajadhayksha_109]: []{#_Hlk108455129 .anchor}Partha Chatterjee, ‘Democracy and
+[^06AshishRajadhayksha_109]: Partha Chatterjee, ‘Democracy and
     Economic Transformation in India’, *Economic & Political Weekly*
     43.16 (2008): 53–62.
 
@@ -3115,13 +3114,13 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_133]: <a href="https://cis-india.org/internet-governance/resources/section-66A-information-technology-act">https://cis-india.org/internet-governance/resources/section-66A-information-technology-act</a>.
 
-[^06AshishRajadhayksha_134]: #  Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, <a href="https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon">https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</a>. 
+[^06AshishRajadhayksha_134]: Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, <a href="https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon">https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</a>. 
 
 [^06AshishRajadhayksha_135]: See ‘Youth has Confessed to Operating Pro-IS Twitter Account:
     Karnataka DGP’, *Free Press Journal*, 1 June 2019,
     <a href="https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp">https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp</a>.
 
-[^06AshishRajadhayksha_136]: #  ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, <a href="https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged">https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</a>.
+[^06AshishRajadhayksha_136]: ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, <a href="https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged">https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</a>.
 
 [^06AshishRajadhayksha_137]: *Shreya Singhal* v *UOI*, WP (Criminal) No. 167 of 2012, (24
     March 2015), <a href="https://indiankanoon.org/doc/110813550/">https://indiankanoon.org/doc/110813550/</a>.
@@ -3132,7 +3131,7 @@ body has only one identity with no choice in the matter.
     contempt of court, (7) defamation (8) incitement to an offence. See
     <a href="https://indiankanoon.org/doc/493243/">https://indiankanoon.org/doc/493243/</a>.
 
-[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, []{#_Hlk108445835 .anchor}‘Media Trials
+[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, ‘Media Trials
     and Courtroom Tribulations: The Battle of Images, Words and Shadows
     in the 13 December Case’, in *13 December, A Reader: The Strange
     Case of the Attack on the Indian Parliament*, New Delhi: Penguin
@@ -3218,7 +3217,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_162]: Arunima, ‘Cameras, Campuses and the Future of Politics', pp.
     17–18.
 
-[^06AshishRajadhayksha_163]: #  Pramod K. Verma, Architecting Platforms for Innovation
+[^06AshishRajadhayksha_163]: Pramod K. Verma, Architecting Platforms for Innovation
 
     <https://www.slideshare.net/indiastack/architecting-platforms-for-innovation>
 

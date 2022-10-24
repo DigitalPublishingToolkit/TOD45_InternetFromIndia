@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **About the book: *An* Internet *from* India**
+# **About the book: An Internet from India**
 
 One of the thorniest questions you can ask authors is: ‘What is the book
 about?’ The instinctive tendency is to give detailed, nuanced, specific
@@ -533,7 +533,7 @@ who can bear the affordances of digital verification and the burden of
 digitization, and it has clear consequences on the futures that are
 being predicated on the promise of digitization.
 
-\_\_\_
+\*\*\*
 
 This glossary is our way of leading you into some of the questions that
 tie these three essays together. It is also a way of finding our limits,

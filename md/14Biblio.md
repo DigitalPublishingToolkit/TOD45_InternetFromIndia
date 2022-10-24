@@ -58,50 +58,31 @@ Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Obse
 
 ## Government Documents and Judgments
 
-Committee of Experts under the Chairmanship of Justice B.N.
-Srikrishna, *A Free and Fair Digital Economy: Protecting Privacy,
-Empowering Indians,* Ministry of Electronics and Information Technology,
-Government of India, 2018.
-
-‘eDistrict Mission Mode Project Under the National eGovernance Plan.
-Pilot Implementation Guidelines’, Department of Information Technology,
-Government of India, January 2009,
-<https://www.meity.gov.in/writereaddata/files/eDistGuidelines_Feb09(rev1).pdf>.
-
-Planning Commission, ‘Computerized Data Bank’ - Consultancy Assistance
-from Institutions, 1976, File No. M-12038/3/76 – M&I, National Archives
+1976: Planning Commission, ‘Computerized Data Bank’ - Consultancy Assistance
+from Institutions, File No. M-12038/3/76 – M&I, National Archives
 of India.
 
-Planning Commission, ‘Setting up of a National Informatics Centre -
-Proposal from the Electronics Commission’, 1977, File No. 11017/5/77
+1978:Planning Commission, ‘Setting up of a National Informatics Centre -
+Proposal from the Electronics Commission’, File No. 11017/5/77
 M&I, National Archives of India.
 
-Planning Commission, ‘Standing Committee for Directing and Reviewing
-Improvement of Data Base for Planning and Policy Making’, Vol. I, 1978,
+2009:Planning Commission, ‘Standing Committee for Directing and Reviewing
+Improvement of Data Base for Planning and Policy Making’, Vol. I,
 File No. O-11-17/1/78-M&I, National Archives of India.
 
-‘Request for Proposal (RFP) For Selection of SWAN TPA’,
-<a href="https://www.meity.gov.in/writereaddata/files/An8%5C_Indicative%5C_SWAN.pdf">https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf</a>.
-
-Telecom Regulatory Authority of India. ‘Prohibition of Discriminatory
-Tariffs for Data Services Regulations, 2016’, *Gazette of India*, 8
-February 2016,
-<a href="https://trai.gov.in/sites/default/files/Regulation%5C_Data%5C_Service.pdf">https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf</a>.
-
-‘The Information Technology Act, 2000’, *The Gazette of India*, June
-2000,
+2009:‘The Information Technology Act, 2000’, *The Gazette of India*, June,
 <a href="https://www.indiacode.nic.in/bitstream/123456789/13116/1/it%5C_act%5C_2000%5C_updated.pdf">https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf</a>.
 
-‘The Information Technology (Amendment) Act, 2008’, *The Gazette of
+2009:‘The Information Technology (Amendment) Act, 2008’, *The Gazette of
 India*, February 2009,
 <a href="https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=">https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=</a>.
 
-UIDAI. *UIDAI Strategy Overview:* *Creating a Unique Identity Number for
+2010:UIDAI. *Strategy Overview:* *Creating a Unique Identity Number for
 Every Resident in India*, Planning Commission/UIDAI, Government of
 India, April 2010.
 
-‘WGITA – IDI Handbook on IT Audit for Supreme Audit Institutions’,
-February 2014,
+2014: ‘WGITA – IDI Handbook on IT Audit for Supreme Audit Institutions’,
+February,
 <a href="https://icisa.cag.gov.in/resource%5C_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF">https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF</a>.
 
 ## Books and Journal Essays

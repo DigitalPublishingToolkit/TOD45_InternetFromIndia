@@ -78,7 +78,7 @@ interdisciplinary/institutional barrier-breaking, and sustained if only
 momentarily by the temporary convergence of academic-activist drive and
 independent support.
 
-\_\_\_\_\_\_
+
 
 ## This Volume
 

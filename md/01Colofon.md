@@ -21,48 +21,42 @@ INC Theory on Demand \#45
 
 ## OVERLOAD, CREEP, EXCESS – AN INTERNET FROM INDIA
 
-Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
 
-Copy editor: Sunaina Dalaya
-
-Cover Design: Katja van Stiphout
-
-Design and EPUB development:  Tommaso Campagna and Jasmin Leech
-
-Published by the Institute of Network Cultures, Amsterdam 2022
-
-ISBN print:
-
-ISBN EPUB:
-
-Institute of Network Cultures
-
-Amsterdam University of Applied Sciences
-
-Emai: <info@networkcultures.org>
-
-Web: [www.networkcultures.org](http://www.networkcultures.org)
-
-Email: <viralimageculture@networkcultures.org>
-
-Web:
-[www.networkcultures.org/viralimageculture](http://www.networkcultures.org/viralimageculture)
-
-Order a copy or download this publication for free at:
-[www.networkcultures.org/publications](http://www.networkcultures.org/publications)
-
-Subscribe to the INC newsletter:
-[www.networkcultures.org/newsletter](http://www.networkcultures.org/newsletter)
-
-Subscribe to the INC Viral Image Culture newsletter:
-[www.networkcultures.org/viralimageculture](http://www.networkcultures.org/viralimageculture)
-
-This publication is licensed under the Creative Commons Attribution
-NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
-of this license, visit
-[www.creativecommons.org/licences/by-nc-sa/4.0/](http://www.creativecommons.org/licences/by-nc-sa/4.0/).
-
+INC Theory on Demand #45
+<br/>**Overload, Creep, Excess - An Internet from India**
 <br/>
+<br/>Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
+<br/>
+<br/>Copy editor: Sunaina Dalaya
+<br/>
+<br/>Cover Design: Katja van Stiphout
+<br/>Design and EPUB development: Tommaso Campagna and Jasmin Leech<br/>
+<br/>Published by the Institute of Network Cultures, Amsterdam, 2022
+<br/>ISBN print: 9789492302922
+<br/>ISBN EPUB: 9789492302922
+<br/>
+<br/>**Contact**
+Institute of Network Cultures
+<br/>
+Amsterdam University of Applied Sciences (HVA)
+<br/>
+Faculty of DMCI
+<br/>
+Benno Premsela Huis
+<br/>
+Rhijnspoorplein
+<br/>
+Room 04A07
+<br/>
+1019 GC Amsterdam
+<br/>
+The Netherlands
+<br/>
+Email: info@networkcultures.org
+<br/>
+Web: www.networkcultures.org 
+<br/>
+<br/><br/>
 
 ![](imgs/INC-logoCMYK.png)
 

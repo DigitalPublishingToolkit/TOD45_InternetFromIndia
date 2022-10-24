@@ -2,7 +2,7 @@
 
 # OVERLOAD, CREEP, EXCESS
 ## AN INTERNET FROM INDIA
-### BY Nishant Shah, Ashish Rajadhyaksha, and Nafis Hasan
+### Nishant Shah, Ashish Rajadhyaksha, and Nafis Hasan
 
 
 
@@ -10,141 +10,104 @@ INC Theory on Demand \#45
 
 ## OVERLOAD, CREEP, EXCESS – AN INTERNET FROM INDIA
 
+
+INC Theory on Demand #45
+<br/>
+**Overload, Creep, Excess - An Internet from India**
+<br/>
+<br/>
 Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
-
+<br/>
+<br/>
 Copy editor: Sunaina Dalaya
-
+<br/>
+<br/>
 Cover Design: Katja van Stiphout
-
-Design and EPUB development:  Tommaso Campagna and Jasmin Leech
-
-Published by the Institute of Network Cultures, Amsterdam 2022
-
-ISBN print:
-
-ISBN EPUB:
-
+<br/>
+Design and EPUB development: Tommaso Campagna and Jasmin Leech
+<br/>
+<br/>
+Published by the Institute of Network Cultures, Amsterdam, 2022
+<br/>
+ISBN print: 9789492302922
+<br/>
+ISBN EPUB: 9789492302922
+<br/>
+<br/>
+**Contact**
 Institute of Network Cultures
-
-Amsterdam University of Applied Sciences
-
-Emai: <info@networkcultures.org>
-
-Web: [www.networkcultures.org](http://www.networkcultures.org)
-
-Email: <viralimageculture@networkcultures.org>
-
-Web:
-[www.networkcultures.org/viralimageculture](http://www.networkcultures.org/viralimageculture)
-
-Order a copy or download this publication for free at:
-[www.networkcultures.org/publications](http://www.networkcultures.org/publications)
-
-Subscribe to the INC newsletter:
-[www.networkcultures.org/newsletter](http://www.networkcultures.org/newsletter)
-
-Subscribe to the INC Viral Image Culture newsletter:
-[www.networkcultures.org/viralimageculture](http://www.networkcultures.org/viralimageculture)
-
-This publication is licensed under the Creative Commons Attribution
-NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
-of this license, visit
-[www.creativecommons.org/licences/by-nc-sa/4.0/](http://www.creativecommons.org/licences/by-nc-sa/4.0/).
-
+<br/>
+Amsterdam University of Applied Sciences (HVA)
+<br/>
+Faculty of DMCI
+<br/>
+Benno Premsela Huis
+<br/>
+Rhijnspoorplein
+<br/>
+Room 04A07
+<br/>
+1019 GC Amsterdam
+<br/>
+The Netherlands
+<br/>
+Email: info@networkcultures.org
+<br/>
+Web: www.networkcultures.org 
+<br/>
+<br/>
 <br/>
 
 ![](imgs/INC-logoCMYK.png)
 
 <br/> 
 
+![](imgs/1.1.jpg)
+
+<br/>
 
 
-# OVERLOAD, CREEP, EXCESS – AN INTERNET FROM INDIA
 
-### Nishant Shah, Ashish Rajadhyaksha, Nafis Hasan
-
-Foreword: Chinmayi Arun
-
-## About this book: 
-
-This book locates India’s flourishing internet within a complex 24-year
-history that has seen an unprecedented re-organization of social and
-political life. Three essays provide independent perspectives on a
-common area of inquiry, an era that witnessed a fundamental mutation of
-the State, its mechanisms of planning and governance, the public domain
-and the everyday, all mediated by digital technology, all impacting its
-internet. Bringing the essays together is a common timeline, which
-begins in the late 1970s, includes such landmarks as the Information
-Technology Act, the much-discussed Aadhaar biometric identification
-programme, the chequered career of social media, and the widespread use
-of internet shutdowns.
-
-## About the Authors
-
-**Nishant Shah** is a feminist, humanist, technologist. He was the
-cofounder of The Centre for Internet & Society, India. He is currently
-an endowed professor of aesthetics and cultures of technology at ArtEZ
-University of the Arts and Radboud University in the Netherlands, a
-Faculty Associate at the Berkman Klein Centre for Internet & Society,
-Harvard University, USA, and a Knowledge Partner with the Digital Asia
-Hub, Hong Kong. His current preoccupations are around questions of
-digital technologies, narrative practices for collective action, and
-cultural politics of Artificial Intelligence.
-
-**Ashish Rajadhyaksha** worked as Senior Fellow at the Centre for the
-Study of Culture and Society. Although known primarily as a film
-scholar, he has published widely on digital governance, including the
-book *The Last Cultural Mile: An Inquiry into Technology and Governance
-in India* (2011), ‘State Power and Technological Citizenship in India:
-From the Postcolonial to the Digital Age’ (with Itty Abraham) in *East
-Asian Science, Technology and Society: An International Journal* (2015),
-and *In the Wake of Aadhaar: The Digital Ecoystem of Governance in
-India* (2013).
-
-**Nafis Aziz Hasan** has been researching the techno-politics of digital
-media, material politics of public institutions, and technological
-policies for governance, with a regional focus on India. One part of his
-project seeks to offer a historical understanding of digital technology
-in relation to prior technologies of rule. Another aspect of his work
-draws on rich ethnographic material on the assemblage of people,
-processes, and technologies, generated over a decade from across India.
-His work has appeared in academic journals such as *South
-Asia*, *Political and Legal Anthropology Review*, and *Economic and
-Political Weekly*, and popular outlets such as thewire.in, *New Indian
-Express* and raiot.in. This is his first book. 
 
 #Table of Contents
 
 
  <a href='ch003.xhtml'>**Foreward**</a>
-<br/>
+<br/> Chinmayi Arun
 
  <a href='ch004.xhtml'>**Series Introduction**</a>
-<br/>
+<br/> 
 
+ <a href='ch005.xhtml'>**Introduction**</a>
+<br/> Nishant Shah, Ashish Rajadhyaksha, Nafis Aziz Hasan
 
-<a href='ch005.xhtml'>**The Insidiousness of Information Overload**</a>
+<a href='ch006.xhtml'>**The Insidiousness of Information Overload**</a>
 <br/>Nishant Shah 
 
-<a href='ch006.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
+<a href='ch007.xhtml'>**The Ambivalence of ‘Creep’: A Biopolitical History of Citizenship in Digital Times**</a>
 <br/>Ashish Rajadhyaksha
 
-<a href='ch007.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
+<a href='ch008.xhtml'>**‘Slow Violence’ and Vacant Citizenship: The Excesses of India’s
 Digital Governance**</a>
 <br/>Nafis Aziz Hasan
-
-<a href='ch008.xhtml'>**About the book: *An* Internet *from* India**</a>
+<br/>
 <br/>
 
-<a href='ch009.xhtml'>**Annotated timeline**</a>
+<a href='ch009.xhtml'>**About the Book**</a>
 <br/>
 
-<a href='ch010.xhtml'>**The Archive**</a>
+<a href='ch010.xhtml'>**Annotated timeline**</a>
 <br/>
 
-<a href='ch012.xhtml'>**Consolidated bibliography**</a>
+<a href='ch011.xhtml'>**The Archive**</a>
+<br/>
 
 <a href='ch013.xhtml'>**Acknowledgments**</a>
+<br/>
+
+<a href='ch014.xhtml'>**Consolidated bibliography**</a>
+
+<a href='ch015.xhtml'>**About the Authors**</a>
 <br/>
 
 <div style="page-break-after: always;"></div>
@@ -444,7 +407,7 @@ interdisciplinary/institutional barrier-breaking, and sustained if only
 momentarily by the temporary convergence of academic-activist drive and
 independent support.
 
-\_\_\_\_\_\_
+
 
 ## This Volume
 
@@ -459,6 +422,642 @@ project, on paper, PDF, and video, are in the public domain. This volume
 is, among other things, a retrospective turn to that epochal moment, and
 the decades that both preceded and followed it, using insights that are
 very much of the present.
+
+
+
+# INTRODUCTION
+
+## Data Without Content, or the Medium With no Message
+
+In February 2015, India’s Supreme Court delivered a landmark judgment on
+the right to speech.[^05MainIntroduction_1] The issue was itself, certainly by today’s
+standards, relatively insignificant – a Facebook post by a young woman
+in the small town of Palghar, in Maharashtra, that another young woman
+had ‘liked’ – that blew up when police arrested the two women under
+something named Section 66A of India’s Information Technology Act, 2000,
+which redefined India’s hallowed right to free speech into the digital
+era.[^05MainIntroduction_2]
+
+The Court easily agreed with the primary argument of the petitioners on
+the specific question of free speech. This was the easier part, for, as
+legal scholar Pranesh Prakash wrote, it would have taken ‘a highly
+clever lawyer and a highly credulous judge to make ‘liking’ of a
+Facebook status update an act capable of being charged with
+electronically “sending … any information that is grossly offensive or
+has menacing character”’.[^05MainIntroduction_3] Most lawyers also were agreed that, as
+Prakash elsewhere unambiguously asserted, ‘‘liking’ is protected speech
+under Article 19(1)(a)’.[^05MainIntroduction_4]
+
+Justice Rohinton Nariman, who wrote the judgment, however went further.
+He took the debate beyond the relatively settled domain of the content
+of protected free speech and into a far more ambiguous and contested
+space, namely the legal nature and the properties of data itself. In
+seeking to regulate speech, the specific amendment to the Information
+Technology Act that was now being challenged had sought to define speech
+as *all* forms of digital storage and movement. ‘Section 66A’, Nariman
+said, ‘casts the net very wide’, for it effectively seeks to control
+‘all information that is disseminated over the internet’. Its diktat was
+being sought to be extended, he pointed out, over any ‘computer,
+computer system, computer resource or communication device including
+attachments in text, image, audio, video and any other electronic
+record’.[^05MainIntroduction_5]
+
+Could all of this data be even understood as speech? Speech in India has
+a specific legal history. The right to speech is a key right, defined by
+the Constitution of India as one of the cornerstones of the freedom that
+India’s citizens had been promised with Independence. Such speech has
+had particular meaning. It has defined speakers as conscious subjects
+who know what they are saying, what meaning their speech can have, who
+take responsibility for what they are saying. If what they are saying is
+seen as dangerous, such danger ‘should not be remote, conjectural or
+far-fetched’ but should have ‘proximate and direct nexus’ with what is
+said.[^05MainIntroduction_6] Did all data disseminated over the internet produce such a
+speaker? If not, how was it speech?
+
+But even that wasn’t the real problem. The real problem was that, in
+defining objectionable speech, the Act ‘refers only to the medium
+through which such information is disseminated’. It was, reversing the
+famous McLuhan dictum, as though the *message was now the medium*.
+‘Information of all kinds is roped in’, Nariman went on. ‘Such
+information may have scientific, literary or artistic value, it may
+refer to current events, it may be obscene or seditious’, none of this
+apparently made any difference to the regulator. As a result, ‘no
+distinction is made between mere discussion or advocacy of a particular
+point of view which may be annoying or inconvenient or grossly offensive
+to some’ and the far more inflammatory ‘incitement by which such words
+lead to an imminent causal connection with public disorder, security of
+State etc’.[^05MainIntroduction_7]
+
+\*\*\*
+
+It may well be possible to read into Nariman’s view of data’s content
+neutrality, and the potentially inflammatory nature of *all* data in the
+paranoid view of the state censor, an inevitable if unintended afterlife
+to Tim Berners-Lee’s original famous May 1990 conception of the ubiquity
+of information on the internet – when a ‘web’ of ‘hypertext documents’
+would become intelligible across browsers everywhere. Now it was
+precisely the *illusion of its intelligibility* – the capacity of the
+digital delivery mechanisms to simulate speech in the way they assumed
+that universal accessibility automatically equated with damage – that
+allowed police and judicial authorities to read whatever they chose into
+it. It also made the sheer possession of any device traceable however
+remotely to seemingly suspect data into a non-bailable criminal act.
+
+A scant three years later, in another Supreme Court case in 2018,
+Justice Nariman’s premonition was graphically on view when the eminent
+historian Romila Thapar led a small group of senior academics to
+challenge the legality of the arrest of five human rights activists and
+lawyers.[^05MainIntroduction_8] In their rejoinder, the police made a series of
+fantastical, ever-expanding claims of a nationwide conspiracy on the
+part of the accused to overthrow the Indian state. They based this
+entirely on ‘material retrieved from the computers, laptops, pen drives
+and memory cards of \[…\] accused persons’. Such material, they
+asserted, revealed the arrested ‘as active members of the Communist
+Party of India (Maoist), a banned organisation, and reflected a design
+of being involved in the commission of offences having the potential to
+destabilise the country’. They had been, the police added, arrested ‘not
+because of their political activities’ but for ‘selecting and
+encouraging cadres in \[…\] banned organizations to go underground \[…\]
+mobilizing and distributing money, facilitating selection and purchase
+of arms, deciding the rates of such arms and suggesting the routes and
+ways of smuggling such arms into India for \[…\] training and laying
+booby traps and directional mines’.
+
+None of this had been proved in any court. Instead, as Justice
+Chandrachud pointed out, the police claimed at a press conference to
+possess ‘more than sufficient evidence against the five individuals’
+without indicating what this evidence was. Three days later, the judge
+continued, ‘letters (many of which should form part of the case diary)
+were selectively flashed and read out’ and ‘leaked to the media’, even
+though the concerned officer admitted – once again only on television –
+that ‘the letters which had been read out by him were still undergoing
+forensic analysis together with the electronic devices’.[^05MainIntroduction_9] Since then,
+as regards the specific detainees of the Bhima-Koregaon undertrials, a
+US-based forensics company named Arsenal Consulting has shown, in its
+own analysis of some of the disks owned by them, that significant
+malware existed indicating the possibility of ‘planted’ evidence.
+Although Arsenal’s report has been widely circulated, it too has not
+appeared in Court evidence since the National Investigative Agency has
+challenged the *locus standi* of this organization, and so it too hangs
+– like the data the police claim to have – in a liminal ghostly
+existence hovering over the actual legal process.
+
+## Possession 
+
+This book is centered around a proposition. ‘Somewhere’, says Nishant
+Shah in his essay, ‘in the last few years, without us even realizing it,
+and in an almost non-dramatic fashion, we have foundationally changed
+our idea of who we are as information subjects’. The human being has
+become ‘rehumanized’, ‘parsed, processed, and presented only through
+interfaces that render it recognizable’.
+
+The essays in this book address a relatively recent development: the
+ever-expanding tsunami of data that surrounds, engulfs, and contaminates
+us all, passes through our devices and implicates us in multiple
+actions. We look at how the experience of both receiving and producing
+data has transformed several basic concepts of democratic politics such
+as citizenship, authorship, the right to life, to livelihood and to
+speech, and indeed our experience of the public domain itself. Such data
+defines us as much to the state as to online entities trying to access
+us, sell us things, troll us, qualify or disqualify us, even as we on
+our side relentlessly seek to understand and avail of an ever-expanding
+range of new and often unfamiliar rights, goods, services, and
+privileges available ‘online’.
+
+This transformation has taken place within a relatively short span of
+time. Although Nafis Hasan’s essay explores an essential 70s-80s
+prequel, the book mostly covers a narrower period – between, as Nishant
+Shah has it, the Information Technology Act of 2000 and Facebook’s Free
+Basics project of 2016 or, as Ashish Rajadhyaksha suggests, between 2009
+(when in a single month India announced its massive biometric Aadhaar
+project and passed the draconian Section 66A) and 2020, which saw the
+Supreme Court judgment on the longest and severest internet shutdown the
+world has yet seen in Kashmir.[^05MainIntroduction_10]
+
+In this time, we saw data – together with the manner of its gathering,
+its location, its securing, and the ability to interpret it –
+foundationally transform the basic armature of the modern state. In some
+measure the technological transformation was built, Hasan argues, on the
+arrival of RDBMS (or Relational Database Management System) to India.
+Introduced as a corporate technology, and responsible for much of the
+famous information technology boom of the 90s, it was the mounting of
+governmental functioning onto RDBMS that reinvented governance itself
+into something of a corporate-style service provider with the National
+e-Governance Plan (NeGP) of 2006, and also thereby into what Indian
+political scientist Partha Chatterjee has described as the ‘tactically
+extended state’.[^05MainIntroduction_11] It transformed the modern state away from what
+Hasan calls the constraints of ‘an overbearing fidelity to the
+organizational design of bureaucracy, to its hierarchies and rules, as
+well as to the computational design of information systems’ and into a
+new era in which digital governance ‘clogs the information highway,
+storms into the lanes, cracks, and crevices of daily life’.
+
+A more complex register concerned the parallel morphing of several
+universal and ‘unbound’ conceptions of identity into unrecognizable
+avatars following the rise of targeted delivery of benefit alongside
+equally targeted surveillance technologies. We began encountering a new
+kind of subjectivity that surely rewrote the old Hegelian negotiation
+between subjec*tion*, or the condition of being a sovereign subject
+defined by the King and the State, and subjec*tivity*, or the individual
+egotistic interiorization of both the freedoms and responsibilities of
+the citizen-subject. Shah calls it a crossroads between being subjects
+*of* information (where we spend much of our life producing, consciously
+or otherwise, information about who we are, what we do, and how we
+relate to the world around us), subjects *to* information (as
+algorithmic data mining constantly produces information structures that
+determine various markers of who we think we are), and *subjective to*
+information (as we keep filtering everything that does not directly
+pertain to us, produce a bias in favor of information that is customized
+for our specific needs, and eventually find ourselves in filter bubbles,
+‘echo chambers of network neighborhoods that protect us from people who
+are unlike us’).
+
+At all these stages we encounter informational excess as a condition of
+existence, as we turn into subjects ‘whose *ontology* lies in
+information overload’. Such an ‘ontology’, says Shah, is pivoted around
+what may be the most basic, founding transformation taking place in our
+‘rehumanization’: a move away from *representation*, upon which the
+entire polity of the 20th century was based, and into *simulation*. It
+is not, as we saw (in the Nariman judgment when free speech was being
+sought to be re-simulated into media of data storage and dissemination)
+a *break* from the past as much as it is the *re-signification* of the
+classical public sphere, morphing its key concepts such as democracy or
+rights into a new era that significantly redefines basic meaning-making
+languages that have historically founded our representation-driven 20th
+century. The shift from representation to simulation, paralleled by
+further transformations from author*ity* to author*ization*, also forces
+another transformation from older conditions of possibility to new
+structures defined by probability.
+
+This ontology is manifested in permanent systemic crisis, but it is a
+crisis that, for perhaps the first time in history, has become
+*naturalized*. It has even turned into an everyday state of being. As
+human beings reconcile to their new condition (one that Hasan, on his
+side, names ‘responsibilization’), they become ever-more dependent on
+‘information-overload managing technologies’, even as these technologies
+in turn ‘train’ human users to meet technology halfway. At the heart of
+information overload, says Shah, is the argument that we are now in a
+cybernetic feedback loop with ourselves, where we produce and consume
+our own data, and engage with it through multiple terrains so that we no
+longer can see outside of the data streams into which we are permanently
+immersed.
+
+Such humans are a new construct – ‘yousers’, Shah calls them – with new
+claims, new promises (including, as he points out, the promise of
+immortality that requires the older human to step out of the model of
+being either human or relevant and to enter this new world where Google
+would be their savior) and, most of all, transformed citizenship norms.
+We are possessed by a ‘condition of informality’ that defines ‘our
+authorship, which in turn defines who speaks, on behalf of whom, in what
+voice, and with what authority’. It defines ‘agency, choice, freedom,
+and truth’.
+
+It also appears connected with what Hasan calls a *techne* of
+neoliberalism that, while demanding a lesser or leaner government, often
+actually *expands* regulation and domination through multiple seemingly
+autonomous entities not part of the formal state apparatus but guided
+instead by a corporate enterprise logic. Hasan sees it as a confluence
+of two interconnected trajectories. One is precisely technological – the
+‘electronification of governance’ redefined an old command-driven,
+centralized planned economy into a new center-periphery imagination. The
+second is more ideological, a neoliberal transformation of the
+democratic state that allowed – often in the name of the very people
+whose rights were being taken away – the conversion of state benefit
+into elite privilege.
+
+## Being Possessed By
+
+The authors of this volume first came together in 2010. This was a year
+after Aadhaar or the ‘Unique Identity for Every Indian Resident’ project
+had been announced with much fanfare by the Government of India, under
+which members of a large team were to research the grassroots social
+impact of mass digitization. ‘The Identity Project’ (as we named it) ran
+for three years, during which time we carried out detailed field
+research in seven Indian states, generated a mound of documentation,
+conducted four major workshops, and published three books.[^05MainIntroduction_12] The
+multiple outcomes and findings of that particular project, on paper,
+PDF, and video, have been p8ublished and are easily accessible.[^05MainIntroduction_13]
+
+At that time, in 2010, we had sought – against, it must be said,
+considerable pressure from numerous friends, coworkers, and colleagues
+who offered grim forebodings about this new development and saw
+totalitarian designs behind it – to withhold judgment, and to try and
+understand what the digital ecosystem of governance might actually look
+like. It has been, as Ashish Rajadhyaksha’s essay shows, an unfolding
+story, especially in the startlingly *déjà vu* manner in which the new
+Arogya Setu app evoked, in 2020, much of the voluntary/mandatory shadow
+dance that we had seen in the old Aadhaar playbook. As the last decade
+panned out, especially in the series of Supreme Court judgments between
+2016 and 2018, it appeared that a new story could be told of the earlier
+period when, coinciding with the arrival of social media, a new
+apparatus of state regulation was also being assembled.
+
+Such a retrospective retelling, Rajadhyaksha suggests, would now place
+the National Population Register (NPR) as a far more central player in
+the story of the first two decades of the present century than we
+recognized when it was passed into law in 2010, to create a register of
+India’s ‘usual residents’, redefining both the Citizenship Act, 1955 and
+the Citizenship (Registration of Citizens and Issue of National Identity
+Cards) Rules, 2003. In 2010, it had appeared that Aadhaar, which had
+repeatedly claimed *not* to be mandatory and *not* about citizens but
+rather about residents, and had presented itself in far more social
+media-friendly terms than the NPR, had been in some conflict with the
+coercive approach of the NPR, which had made registration mandatory for
+all those who had either lived or intended to live in in India for six
+months or more. A retrospective timeline – especially outlined in detail
+by the 2018 Supreme Court judgment on Aadhaar – however suggests that
+the two were very much envisaged together and were indeed always meant
+to be two halves of a single picture.
+
+Although this picture came together in public imagination only in 2019
+with the passing of the Citizenship Amendment Act, 2019 and in the
+protests that followed, what it did mean was that, even as
+information-starved Indians everywhere were both consuming and producing
+digital content, we were also being possessed by a larger ecosystem that
+governed us. Such a state, and its attendant crisis, has been often most
+directly evidenced in anxiety around access: both the *granting* of
+access and concerns about the *control and regulation* of practices that
+emerge.
+
+In 2018, the Supreme Court judgment defined the condition of being
+possessed by data in yet another way: by calling it ‘civil death’.[^05MainIntroduction_14]
+It described what was happening as a ‘compulsory bartering away’ of
+‘rights freely exercised, liberties freely enjoyed, entitlements granted
+by the Constitution and laws’. All these rights, liberties, and laws
+were being ‘made conditional’, and citizens were being compelled, in
+return, to give up their biometrics ‘voluntarily’, allow their
+biometrics and demographic information to be stored by the state and
+private operators, and then used for a process termed ‘authentication’.
+
+Such an operation has, said the Court, the ‘*propensity to cause the
+civil death of an individual by simply switching of Aadhaar of that
+person*’. If the Indian Constitution ‘balances rights of individuals
+against State interest’, Aadhaar ‘completely upsets this balance and
+skews the relationship between the citizen and the State enabling the
+State to totally dominate the individual’.
+
+Civil death, in this sense, may well be the extreme condition of such
+possession – where data is viewed as something of a life-support
+apparatus. More commonly, however, it redefines citizenship into a
+condition of suspended animation of what Hasan calls ‘slow violence’. In
+his detailed example of the digitization of landownership records, he
+describes it as the routine ‘violence of data repair’ when actual people
+find themselves trapped in a legally precarious condition of ‘temporal
+vacuity, a state of limbo, a temporary break from ongoing relationships’
+which, while not an extraordinary event of ‘spectacular violence’, is
+nevertheless an equally deadly ‘circuitous low-grade suffering’.
+
+## Accidental Possession and Verifiability 
+
+In July 2020, Delhi University’s much-respected professor of English,
+Hany Babu, was arrested by the National Investigation Agency, yet
+another target in the state crackdown on intellectuals, academics, and
+activists on the Left. As part of their inquiry, the Agency seized
+Babu’s computer, and their ‘forensic inquiry’ claimed, in what had
+become a by-now familiar police playbook, that some sort of a ‘disk
+partition’ had existed in that machine between February and April 2019,
+and that this partition had contained 62 files with ‘‘incriminating
+details’ about his involvement in the Maoist movement’.[^05MainIntroduction_15] Hany Babu
+said he had made no such partition, possessed no such files.
+
+Eight months later, five senior academics – including several of Hany
+Babu’s colleagues – went yet again to the Supreme Court with what
+appeared to be a far more basic anxiety than even the protection of
+their liberty: namely the potential loss of their research through
+unauthorized seizure of their computers and hard disks. Such seizure,
+they said, endangered decades of research work for their computers
+contained ‘their life’s work’, ‘extensive field work spanning decades or
+the results of scientific experiments or calculations’, ‘patentable
+material \[…\] or work that runs the risk of being plagiarised’. All
+such research work was ‘irreplaceable’. In the hands of the police, it
+could ‘run the risk of damage, loss, destruction’ or – the academic’s
+ultimate nightmare – ‘even distortion’.[^05MainIntroduction_16]
+
+The question of what data is may in these fraught times open up,
+together with an ontology, a parallel epistemic trajectory. Documents,
+as Lisa Gitelman says in the beginning of her book *Paper Knowledge*,
+are at base ‘epistemic objects’, ‘recognizable sites and subjects of
+interpretation across the disciplines and beyond’ and are thus
+‘evidential structures’ – essentially there to document, to *know* and
+to *show* (along with their corollary, ‘no show’, or no proof).[^05MainIntroduction_17]
+While their digital variants may inherit some of these properties, these
+successor objects reveal a deeply disquieting elusiveness, where you (or
+rather, your device) could have chance encounters with other data or
+other human beings tampering with it, that can only be navigated in real
+time.
+
+Raw data, says a well-known book, is an ‘oxymoron’ for data is
+everywhere, always already ‘cooked’.[^05MainIntroduction_18] ‘Access-centered discourse
+overrides the complex terrain of the human-technology relationship –
+usage, adoption, penetration, internalization, proliferation, nudging –
+and becomes the single point of obsession in telling the promise of the
+internet’, writes Shah. There is a double bind of anxiety, defining both
+the concerns around privacy (and the draft Personal Data Protection Bill
+of 2019) or the multiple Terms of Service and of Intermediary Liability
+that define both informational control and access regulation. It is a
+role that the state in its orthodox avatar is often unable to perform,
+forcing new layers of ‘*state-like organizations* that would take up
+state-like functions in order to help deal with the threat of access’.
+
+Shah’s introduction of pornography into this picture, and his addition
+to the famous Rule 34 of the internet that claims that ‘If something
+exists, there is \[internet\] porn of it’, with a further Rule 35 that
+‘If there is porn on the net, people will access it’, also brings a new
+political edge to transgressive access which he understands as a
+question of agency within the logics of regulation. In January 2018,
+when a news report appeared that a journalist had been able, via a
+WhatsApp group and an INR 500 bribe, to access the main databases of
+Aadhaar, the journalist, instead of being recognized as a whistleblower,
+was promptly charged with a criminal offence.[^05MainIntroduction_19] Among those who came
+to her rescue at the time was Edward Snowden. He contended that Aadhaar
+was ‘creating a systemisation of the public’ that was unrelated to its
+original agenda.
+
+The incident, alongside the tantalizing ease of the hack, also brought
+to the fore the phenomenon of what we might call accidental possession.
+This is *data contaminated*, not in its content, not even by how you
+came across it, but most commonly in the way *it* accessed *you*.
+The idea that there
+exists only one single definable truth and any truth becomes a truth
+only when it is *verifiable*, as this entire teleology of
+truth-production got technologized (usually by interminable systems of
+authentication), it also produced strange fruit that produced the very
+opposite of their stated intentions when you found yourself caught
+within the irresistibility of its flow.
+
+There has been, for example, the growing phenomenon of *impunity*, or
+what political theorist Anant Teltumbde calls the ‘macabre spectacle’ of
+extreme violence conducted in the full glare of the media.[^05MainIntroduction_20] When
+perpetrators of violence perform their actions in front of cameras,
+leaving no one in doubt as to what happened, but nevertheless force a
+legal challenge to the verification apparatus precisely from the excess
+of data they have produced, they point to one of the basic consequences
+of what Rajadhyaksha calls ‘creep’. If the entire history of state
+digitization, from the Information Technology Act of 2000 through to
+Aadhaar 2009 to the Citizenship Amendment Act of 2019, unveils a
+relentless process of making ‘creep’ ubiquitous through the incessant
+production of information overload, it necessarily also opens a
+disquieting underside. Both the hacker’s pornographic transgressions and
+its opposite, fears of police tampering, evoke the same crisis as do the
+perpetrators of violence on camera – the possibility that data in its
+very nature is always already contaminated, and that both the ‘truth’ it
+stands for as well as the apparatus of its verifiability remain
+compromised. What we see is, in a way, a new problem for democratic
+governance, and it points to one of the more bizarre consequences of the
+transition of the subject from a beneficiary of data practices into a
+source for data harvesting.
+
+## 
+
+## The Body, the State
+
+Much of this book deals with the apparatus of the digital state. As the
+crisis of the informational subject reveals itself and reveals thereby
+the unprecedented challenges to the Directive Principles of the
+Constitution of India that define the responsibilities of the state, it
+necessarily opens up a larger question on the ideologies of the state
+apparatus itself – as distinct from the ruling ideologies of whichever
+government happens to be in power. There was once the idealism of a
+hierarchical, centralized, ordered state that regulated, along with its
+data itself, a parallel meaning-making apparatus on what the data meant,
+how it should be interpreted, who should be given access to it, and how
+it could translate into policy. From the 80s, this idealism was replaced
+with a second idealism of the neoliberal state, this time premised on
+the seamless capacity of data to travel unhindered, to become both
+universally accessible and universally intelligible. Such a belief,
+which underpinned the protocols of networking and delivery of targeted
+benefit, was in some measure adapted from the early idealism of the
+internet, one that (we have suggested above) Justice Nariman’s judgment
+of 2015 may well have brought to a close. We need, as we turn to a yet
+more recent chapter in both idealisms, to not only question their
+salience, but also to track – as Nafis Hasan does at the end of his
+essay – a yet further development, where once again the state is seeking
+to close down its borders to once more localize access: this time within
+the boundaries of the nation.
+
+Already, in 2019, and long before the pandemic saw national borders
+being made tighter and more impregnable than perhaps ever in history,
+both the morphing of the colonial Section 144 of the Indian Penal Code
+(the right to public assembly) into the longest and most severe internet
+shutdown the world has seen in Kashmir (over 500 days) – a blanket shut
+off from data that threatened a ‘civil death’ type crisis of
+unprecedented proportions – as well as the extreme Emergency-like
+deployment, with the first COVID-19 outbreak, of the National Disaster
+Management Act, 2005 in March 2020 revealed further state reinventions
+through reinscribing real-life conditions into virtuality and back into
+real life, and also the central presence of the embodied informational
+subject in these makeovers. Overriding the question of how data
+challenges the sovereignty of the nation-state, what we may be
+witnessing is something opposite, namely the reinscription of data to
+make something of a massive digital cartography project in the
+re-encoding of the state. Its various *avatar*s,[^05MainIntroduction_21] from hierarchical
+to networked to boundary-driven – and the corresponding *avatar*s of its
+citizen, from resident (Aadhaar’s favored term) to ‘usual resident’ (as
+used in the NPR) to beneficiary to ‘natural person’ and ‘data principal’
+(as used in the Personal Data Protection Bill) – may well be best
+comprehended as simulations of the models of democracy rather than
+merely their digital renditions.
+
+One result of this simulation process is the growing *weaponization* of
+concepts like ‘sovereign national interest’ and ‘security and integrity
+of India’ to define a new legal apparatus alongside the multiple new
+identity and biotechnological checks that regulate national borders.
+India’s legal system has, says legal theorist Gautam Bhatia, in recent
+years taken a major turn.[^05MainIntroduction_22] Indian law has historically been
+constituted by two parallel regimes, the criminal justice system (or
+CJS) characterized by elements of due process, personal rights, and
+rigorous judicial review of state power, and a parallel ‘preventive
+detention system’ (PDS) in which none of these features obtain.
+
+The two halves have been historically incompatible, but in recent years
+this incompatibility has been solved by the simple if deadly expedient
+of the return of the old colonial sedition law and its sequel laws,
+Terrorist and Disruptive Activities (Prevention) Act, 1987 (TADA),
+Prevention of Terrorism Act, 2002, and now the Unlawful Activities
+Prevention Act, 1967. All of these have been premised on custodial
+detention, on absolute executive (as against judicial) supremacy. Almost
+all are derived from unpredictable encounters with contaminated data.
+
+Such weaponization of the apparatus of verifiability could be
+intentional and targeted, as with digital benefit and surveillance, or
+could emerge as a consequence of the sheer randomness of accidental
+possession – where you did not discover data as much as it discovered
+you, or when your inadvertent stumbling into a data ecosystem
+automatically criminalized you. Identity here becomes a life-and-death
+matter of dealing with essentially accidental encounters. If its extreme
+condition is the threat to life itself – when a person’s digital
+identity gets obliterated, hacked, or simply shut off – mostly it is a
+slow-burning process of coming to terms with both the aspirational as
+well as targeted consequences of overload, to learn overnight when to be
+visible and when it is best not to be.
+
+The focus on the embodied data-subject is thus no longer merely the
+bearer of data but an instantiation of the data practices into which the
+body finds itself immersed, voluntarily or otherwise. The weaponization
+of data as evidence to punish, control, and contain the body is
+therefore a corollary of digital misinformation and civil death. Both
+conditions are eventually tied to the idea of ownership defined not in
+terms of possession but of *distribution*. If data evidences are no
+longer about discrete bodies and institutions where ownership can be
+demonstrated, disrupted, or contained, then we could be looking at new
+challenges posed by the conditions of data circulation to meaning
+itself.
+
+In the end, if Justice Nariman’s pronouncements on data may have ended
+one kind of internet dream, his parallel point about making ‘no
+distinction’ between ‘mere discussion or advocacy’ and ‘incitement by
+which such words lead to an imminent causal connection with public
+disorder’ may well open up another possibility.[^05MainIntroduction_23] The signification
+of data through circulation exists within, but also breaches, the
+boundaries of the state. In either case, it defines several of our
+immediate political challenges, the subjective condition of being
+immersed in informationality, or the consequences of being disconnected
+from it.
+
+[^05MainIntroduction_1]: Supreme Court of India, *Shreya Singhal* v *Union of India*, WP
+    (Criminal) No. 167 of 2012 (24 March 2015),
+    https://indiankanoon.org/doc/110813550/.
+
+[^05MainIntroduction_2]: The original 66A said that ‘any person who sends, by means of a
+    computer resource or a communication device, (a) any information
+    that is grossly offensive or has menacing character; or (b) any
+    information which he knows to be false, but for the purpose of
+    causing annoyance, inconvenience, danger, obstruction, insult,
+    injury, criminal intimidation, enmity, hatred or ill will,
+    persistently by making use of such computer resource or a
+    communication device, (c) any electronic mail or electronic mail
+    message for the purpose of causing annoyance or inconvenience or to
+    deceive or to mislead the addressee or recipient about the origin of
+    such messages, shall be punishable with imprisonment for a term
+    which may extend to three years and with fine.
+
+[^05MainIntroduction_3]: Pranesh Prakash, ‘Social Media Regulation vs. Suppression of
+    Freedom of Speech’, *Kafila Online*, 19 November 2012,
+
+    https://kafila.online/2012/11/19/social-media-regulation-vs-suppression-of-freedom-of-speech-pranesh-prakash/.
+
+[^05MainIntroduction_4]: Pranesh Prakash, ‘Adding Insult to
+    Injury’, *Outlook India*, 19 November 2012,
+    https://www.outlookindia.com/website/story/adding-insult-to-injury/283033.
+
+[^05MainIntroduction_5]: *Shreya Singhal* v *UOI*.
+
+[^05MainIntroduction_6]: Supreme Court of India, *S. Rangarajan Etc* v *P. Jagjivan Ram*,
+    1989 SCR (2) 204, 1989 SCC (2) 574, 30 March 1989,
+    https://indiankanoon.org/doc/341773/.
+
+[^05MainIntroduction_7]: *Shreya Singhal* v *UOI*.
+
+[^05MainIntroduction_8]: Supreme Court of India, *Romila Thapar* v *Union of India*, Writ
+    Petition (Criminal) No. 268 of 2018, 28 September, 2018,
+    https://indiankanoon.org/doc/52834611/. This concerned the arrest
+    and incarceration without bail of several well-known activists,
+    lawyers, and academics in 2018, known as the ‘Bhima-Koregaon’ case.
+    On the occasion of the bicentenary celebrations of a colonial war
+    celebrated by the Dalit community in Maharashtra, a political rally
+    was held. It led to retaliatory violence, that in turn led to a
+    major crackdown across the country. Most of the arrested are still
+    in jail.
+
+[^05MainIntroduction_9]: *Romila Thapar* v *UOI*.
+
+[^05MainIntroduction_10]: Internet shutdown for 552 days, starting August 4, 2019, when
+    Article 370 of the Constitution was abrogated by Parliament.
+
+[^05MainIntroduction_11]: Partha Chatterjee, *I am the People: Reflections on Popular
+    Sovereignty Today*, Ranikhet: Permanent Black, 2019, p 73.
+
+[^05MainIntroduction_12]: See Ashish Rajadhyaksha, *The Last Cultural Mile: An Inquiry into
+    Technology and Governance in India*, Bangalore: The Centre for
+    Internet & Society/Researchers@Work, 2011; Rajadhyaksha (ed.), *In
+    the Wake of Aadhaar: The Digital Ecosystem of Governance in India*,
+    Bangalore: Centre for the Study of Culture and Society, 2013; Atig
+    Ghosh (ed.), *Branding the Migrant: Arguments of Rights, Welfare and
+    Security***,** Kolkata**:** Frontpage Publications Ltd., 2013.
+
+[^05MainIntroduction_13]: The entire video archive is available on the open access platform
+    pad.ma. See
+    https://pad.ma/grid/title/list==zi:The\_Identity\_Project.
+
+[^05MainIntroduction_14]: ‘Gist of the Challenge to the Aadhaar Scheme as Well as the Act’,
+    Sec 59, Supreme Court of India, *Justice K.S. Puttaswamy (retd)* v
+    *Union of India*, Writ Petition (C) 494/2012 (2018),
+    https://main.sci.gov.in/supremecourt/2012/35071/35071\_2012\_Judgement\_26-Sep-2018.pdf.
+
+[^05MainIntroduction_15]: Sukanya Shantha, ‘Elgar Parishad: NIA
+    Arrests Hany Babu, 'Pressured Him to Implicate Colleagues, Others,’
+    Says Wife’, *The Wire*, 28 July 2020,
+    https://thewire.in/government/nia-bhima-koregaon-hany-babu-arrest-gn-saibaba.
+
+[^05MainIntroduction_16]: Krishnadas Rajagopal, ‘Plea in Supreme Court to Save Academic
+    Freedom’, *The Hindu*, 30 March 2021,
+    https://www.thehindu.com/news/national/plea-in-supreme-court-to-save-academic-freedom/article34200750.ece.
+
+[^05MainIntroduction_17]: Lisa Gitelman, *Paper Knowledge:
+    Towards a Media History of Documents*, Durham: Duke University
+    Press, 2014, pp 1–2.
+
+[^05MainIntroduction_18]: Lisa Gitelman (ed.) *‘Raw Data’ is an
+    Oxymoron*, Cambridge: MIT Press, 2013.
+
+[^05MainIntroduction_19]: ‘Journalists Exposing Aadhaar Deserve
+    Award, Not Investigation: Edward Snowden’, The News Minute, 9
+    January 2018,
+
+    https://www.thenewsminute.com/article/journalists-exposing-aadhaar-deserve-award-not-investigation-edward-snowden-74409.
+
+[^05MainIntroduction_20]: Anant Teltumbde, *The Persistence of
+    Caste: The Khairlanji Murders and India's Hidden Apartheid*, London:
+    Zed Books, 2010, pp. 54, 137.
+
+[^05MainIntroduction_21]: Avatar, in this context, is a variant phase or version of a
+    continuing basic entity.
+
+[^05MainIntroduction_22]: Gautam Bhatia, *The Transformative
+    Constitution: A Radical Biography in Nine Acts*, New Delhi: Harper
+    Collins, 2019, p 257.
+
+[^05MainIntroduction_23]: *Shreya Singhal* v *UOI*.
 
 
 
@@ -548,9 +1147,9 @@ of the most pernicious problems of our times as a result of the
 engineering, cultural shaping, and political proliferation of the state
 of overload.
 
-## SECTION I 
+## I. 
 
-## INFORMATIONALLY YOURS: OVERLOADED\
+## INFORMATIONALLY YOURS: OVERLOADED
 
 In July 2020, when India, and the rest of the world, was reeling from
 the COVID-19 pandemic, a YouTube video went viral in the country.[^05NIshantShah_1]
@@ -1896,7 +2495,7 @@ principles, and technosocial standards naturalize the making of this
 user – and particularly consider the questions of power, agency, and
 choice as they unfold in these informationally overloaded systems.
 
-## SECTION II 
+## II. 
 
 ## 
 
@@ -2266,7 +2865,7 @@ understood as a ‘cyborg body’ that circulates to create informational
 instability. As Haraway had prophesized, ‘we can no longer go back
 materially or ideologically’.[^05NIshantShah_101]
 
-## From Authority to Authorization\
+## From Authority to Authorization
 
 Perhaps this shift from representation to simulation is best understood
 as a shift from author*ity* to author*ization*, illustrated in the
@@ -2384,7 +2983,7 @@ pretends to be representing a reality and only ends up simulating the
 small world that works through connections, circulations,
 recontextualization, and computational realities.
 
-## From Possibility to Probability\
+## From Possibility to Probability
 
 The reason why networked authorization works over human authority and
 discretion is not only to do with the life cycle of rumors and speed of
@@ -2668,8 +3267,7 @@ written.
 
 [^05NIshantShah_3]: ‘Agrima Joshua Case: Maha HM Anil Deshmukh Asks Mumbai Police to
     Take Legal Action against Comedian over Chhatrapati Shivaji Maharaj
-    Remark’, *The Free Press Journal*, 11 July 2020, []{#_Hlk105225732
-    .anchor}https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
+    Remark’, *The Free Press Journal*, 11 July 2020, https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
 
 [^05NIshantShah_4]: ‘Agrima Joshua Row: Comedian Posts Video Apologizing to Members of
     Political Parties’, *The Free Press Journal*, 11 July 2020,
@@ -3206,7 +3804,7 @@ the public domain – a right directly threatened by the 2020 lockdown.
 
 ## 
 
-## I
+## I.
 
 ## 
 
@@ -3316,7 +3914,7 @@ rumors floated by some vested elements’. The arrests, they said, had
 been made ‘based on analysis of scientific and forensic evidence,
 including video footages, technical & other footprints’.[^06AshishRajadhayksha_10]
 
-\_\_\_\_\_\_
+\*\*\*
 
 
 This essay does not deal with the specific legal situation that Safoora
@@ -3402,7 +4000,7 @@ one’s exclusion from substantive citizenship’, says Jayal.[^06AshishRajadhay
 would thus produce some of its most elaborate contours in India as a
 fight for social justice.
 
-\_\_\_\_\_\_
+\*\*\*
 
 Digital platforms arrived in the 2000s with the intention of delivering
 state welfare with a utopian promise. They were to accurately identify
@@ -4533,7 +5131,7 @@ other, and his village of Toba Tek Singh ‘in the middle, on a piece of
 land that had no name’ – so too these migrants found themselves in an
 identity abyss and told to quarantine themselves in it.[^06AshishRajadhayksha_90]
 
-## III
+## III.
 
 ## 
 
@@ -4975,7 +5573,7 @@ General of the UIDAI, Ashok Dalwai, said that data could be shared with
 security agencies, particularly for cases relating to national security,
 on the basis of court orders.[^06AshishRajadhayksha_119]
 
-## IV
+## IV.
 
 ## 
 
@@ -5301,7 +5899,7 @@ generating new kinds of nonuniversal narrative communities. Such
 communities may well need a reinvoking of the Directive Principles as
 they take the meaning of citizenship to its liminal extremes.
 
-## V
+## V.
 
 ## 
 
@@ -5625,7 +6223,7 @@ body has only one identity with no choice in the matter.
     Misinformation on Corona Virus issued to ‘All Social Media
     Platforms’ by MEITY, dated March 20, 2020.
 
-[^06AshishRajadhayksha_4]: []{#_Hlk108457630 .anchor}Suhrith Parthasarthy, Gautam Bhatia, and
+[^06AshishRajadhayksha_4]: Suhrith Parthasarthy, Gautam Bhatia, and
     Apar Gupta, ‘Privacy Concerns During a Pandemic’, *The Hindu*, 29
     April 2020,
     <a href="https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece">https://www.thehindu.com/opinion/op-ed/privacy-concerns-during-a-pandemic/article31456602.ece</a>.
@@ -5654,12 +6252,12 @@ body has only one identity with no choice in the matter.
     thereafter, many prominent lawyers, activists, and academics have
     been targeted by the police under the UAPA and jailed without trial.
 
-[^06AshishRajadhayksha_7]: []{#_Hlk108457599 .anchor}Gautam Navlakha, ‘‘My Hope Rests on a
+[^06AshishRajadhayksha_7]: Gautam Navlakha, ‘‘My Hope Rests on a
     Speedy and Fair Trial': Gautam Navlakha Before His Surrender’, *The
     Wire*, 14 April 2020,
     <a href="https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender">https://thewire.in/rights/gautam-navlakha-bhima-koregaon-nia-surrender</a>.
 
-[^06AshishRajadhayksha_8]: []{#_Hlk108457560 .anchor}Sruthisagar Yamunan and Shoaib Daniyal,
+[^06AshishRajadhayksha_8]: Sruthisagar Yamunan and Shoaib Daniyal,
     ‘As Delhi Police Crack Down on Student Leaders, Courts Cite Lockdown
     to Justify Lack of Scrutiny’, *Scroll*, 29 April 2020,
     <https://scroll.in/article/960591/as-delhi-police-crack-down-on-student-leaders-court-cites-lockdown-to-justify-lack-of-scrutiny>.
@@ -5705,7 +6303,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_16]: Jayal, *Citizenship and its Discontents*, p. 19.
 
-[^06AshishRajadhayksha_17]: See []{#_Hlk108457473 .anchor}Committee of Experts under the
+[^06AshishRajadhayksha_17]: See Committee of Experts under the
     Chairmanship of Justice B.N. Srikrishna, *A Free and Fair Digital
     Economy: Protecting Privacy, Empowering Indians*, Ministry of
     Electronics and Information Technology, Government of India,
@@ -5732,11 +6330,11 @@ body has only one identity with no choice in the matter.
     research purposes’),
     <a href="https://www.meity.gov.in/writereaddata/files/Aarogya%5C_Setu%5C_data%5C_access%5C_knowledge%5C_Protocol.pdf">https://www.meity.gov.in/writereaddata/files/Aarogya\_Setu\_data\_access\_knowledge\_Protocol.pdf</a>.
 
-[^06AshishRajadhayksha_22]: []{#_Hlk108457435 .anchor}Rahul Matthan, ‘The Privacy Features
+[^06AshishRajadhayksha_22]: Rahul Matthan, ‘The Privacy Features
     That Are Built into Arogya Setu’, *The Mint*, 8 April 2020,
     <https://epaper.livemint.com/Home/ShareArticle?OrgId=b5a81ef7>.
 
-[^06AshishRajadhayksha_23]: []{#_Hlk108457410 .anchor}Hemal Ashar, ‘Woman With No Travel
+[^06AshishRajadhayksha_23]: Hemal Ashar, ‘Woman With No Travel
     History, No Symptoms, Whisked Away by BMC’, *Mid-day*, 18 April
     2020,
     <a href="https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204">https://www.mid-day.com/articles/coronavirus-outbreak-woman-with-no-travel-history-no-symptoms-whisked-away-by-bmc/22737204</a>.
@@ -5748,7 +6346,7 @@ body has only one identity with no choice in the matter.
     required people who have it to behave in a certain way (for example,
     curfew violators being forced to download the app or Resident
     Welfare Associations refusing entry without the app and a ‘health
-    certificate’). See []{#_Hlk108457386 .anchor}Tanisha Ranjit, ‘When
+    certificate’). See Tanisha Ranjit, ‘When
     and Where is Aarogya Setu Mandatory? We’re Keeping Track’, Internet
     Democracy Project, 8 May 2020,
     <a href="https://internetdemocracy.in/2020/05/aarogya-setu-tracker/">https://internetdemocracy.in/2020/05/aarogya-setu-tracker/</a>.
@@ -5757,21 +6355,21 @@ body has only one identity with no choice in the matter.
     Grievances and Pensions, 29 April 2020,
     <a href="https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/">https://www.scconline.com/blog/post/2020/04/29/central-government-employees-asked-to-download-aarogyasetu-app-on-their-mobile-phones-immediately/</a>.
 
-[^06AshishRajadhayksha_27]: []{#_Hlk108457351 .anchor}Prasid Banerjee and Shreya Nandy,
+[^06AshishRajadhayksha_27]: Prasid Banerjee and Shreya Nandy,
     ‘Govt’s Arogya Setu App to be Installed on Smartphones by Default
     Soon’, *The Mint*, 29 April 2020,
     <a href="https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html">https://www.livemint.com/technology/apps/govt-s-aarogya-setu-app-to-be-installed-on-smartphones-by-default-soon-11588170539557.html</a>.
 
-[^06AshishRajadhayksha_28]: []{#_Hlk108457325 .anchor}‘After Delhi Metro Opens, You May be
+[^06AshishRajadhayksha_28]: ‘After Delhi Metro Opens, You May be
     Denied Ride Without Mask’, Arogya Setu Pass’, *The Mint*, 23 April
     2020,
     <a href="https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html">https://www.livemint.com/news/india/after-delhi-metro-opens-you-may-be-denied-ride-without-mask-aarogya-setu-pass-11587649373682.html</a>.
 
-[^06AshishRajadhayksha_29]: #  Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
+[^06AshishRajadhayksha_29]: Ivan Mehta, ‘India Wants to Build an Ultra-intrusive ‘Wristband’ to Track Coronavirus Patients’ Every Move’, *TNW News*, 22 April 2020, 
 
     <a href="https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/">https://thenextweb.com/in/2020/04/22/india-wants-to-build-an-ultra-intrusive-wristband-to-track-coronavirus-patients-every-move/</a>.
 
-[^06AshishRajadhayksha_30]: []{#_Hlk108457240 .anchor}Subhashis Banerjee, ‘Covid Surveillance
+[^06AshishRajadhayksha_30]: Subhashis Banerjee, ‘Covid Surveillance
     and Privacy in India’, Internet Freedom Foundation, 1 May 2020,
     <a href="https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440">https://forum.internetfreedom.in/t/webinar-covid-surveillance-and-privacy-in-india-may-01-2020-5-50-pm/440</a>.
 
@@ -5786,14 +6384,14 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_33]: Section 2(k) of the Aadhaar Act.
 
-[^06AshishRajadhayksha_34]: []{#_Hlk108457207 .anchor}UIDAI, *UIDAI Strategy Overview:*
+[^06AshishRajadhayksha_34]: UIDAI, *UIDAI Strategy Overview:*
     *Creating a Unique Identity Number for Every Resident in India*,
     Planning Commission/UIDAI, Government of India, April 2010.
 
-[^06AshishRajadhayksha_35]: []{#_Hlk108457163 .anchor}Nandan Nilekani, *Imagining India:
+[^06AshishRajadhayksha_35]: Nandan Nilekani, *Imagining India:
     Ideas for the New Century*, New Delhi: Penguin, 2008, p. 122.
 
-[^06AshishRajadhayksha_36]: []{#_Hlk107784335 .anchor}Partha Chatterjee, ‘Beyond the Nation?
+[^06AshishRajadhayksha_36]: Partha Chatterjee, ‘Beyond the Nation?
     Or Within?’, *Social Text* 56 (1998): 57–69.
 
 [^06AshishRajadhayksha_37]: Nilekani, *Imagining India*, p. 373.
@@ -5814,10 +6412,9 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_40]: Sen, ‘Markets’, p. 135.
 
-[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, []{#_Hlk107838632
-    .anchor}New Delhi: Media Foundation of the Non-aligned, 1986.
+[^06AshishRajadhayksha_41]: NAMEDIA, *A Vision for Indian Television*, New Delhi: Media Foundation of the Non-aligned, 1986.
 
-[^06AshishRajadhayksha_42]: []{#_Hlk107839608 .anchor}A.S. Bhalla, ‘Can High Technology Help
+[^06AshishRajadhayksha_42]: A.S. Bhalla, ‘Can High Technology Help
     Third World ‘Take-Off’?’, *Economic & Political Weekly* 22.27
     (1987): 1082–1086.
 
@@ -5863,12 +6460,12 @@ body has only one identity with no choice in the matter.
     present Digital India and UMANG (Unified Mobile Application for
     New-age Governance) initiatives.
 
-[^06AshishRajadhayksha_50]: [[]{#_Hlk108455829 .anchor}]{#_Hlk107938555 .anchor}Jean
-    []{#_Hlk107938511 .anchor}Drèze, ‘Unique Facility, or Recipe for
+[^06AshishRajadhayksha_50]: Jean
+   Drèze, ‘Unique Facility, or Recipe for
     Trouble?’, *The Hindu*, 25 November 2010,
     <https://www.thehindu.com/opinion/op-ed/Unique-facility-or-recipe-for-trouble/article15714630.ece>.
 
-[^06AshishRajadhayksha_51]: []{#_Hlk108455791 .anchor}Bharat Bhatti, Jean Drèze, and Reetika
+[^06AshishRajadhayksha_51]: Bharat Bhatti, Jean Drèze, and Reetika
     Khera, ‘Experiments with Aadhar’, *The Hindu*, 27 June 2012,
     <a href="https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece">https://www.thehindu.com/opinion/lead/Experiments-with-Aadhaar/article12916184.ece</a>.
 
@@ -5878,12 +6475,12 @@ body has only one identity with no choice in the matter.
     <a href="https://censusindia.gov.in/2011-common/faqs.html">https://censusindia.gov.in/2011-common/faqs.html</a>. This particular
     FAQ, outlining the social audit, is no longer on the Census website.
 
-[^06AshishRajadhayksha_54]: See []{#_Hlk108455748 .anchor}‘Nandan Nilekani, Home Ministry End
+[^06AshishRajadhayksha_54]: See ‘Nandan Nilekani, Home Ministry End
     UIDAI Tiff, to Divide Data Collection’, *The Economic Times*, 28
     January 2012,
     <a href="https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm%5C_source=contentofinterest&amp;utm%5C_medium=text&amp;utm%5C_campaign=cppst">https://economictimes.indiatimes.com/news/politics-and-nation/nandan-nilekani-home-ministry-end-uidai-tiff-to-divide-data-collection/articleshow/11655516.cms?utm\_source=contentofinterest&utm\_medium=text&utm\_campaign=cppst</a>
 
-[^06AshishRajadhayksha_55]: #  R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
+[^06AshishRajadhayksha_55]: R. Swaminathan, ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Observer Research Foundation, 7 April 2012,
 
     <a href="https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/">https://www.orfonline.org/research/uidai-npr-row-identity-politics-of-a-different-kind/</a>.
 
@@ -5988,7 +6585,7 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_82]: Sukumar, *Midnight’s Machines*, pp. 114–115.
 
-[^06AshishRajadhayksha_83]: #  Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
+[^06AshishRajadhayksha_83]:  Ashis Nandy, ‘Coming Home: Religion, Mass Violence and the Exiled and Secret Selves of a Citizen-Killer’, in Ashis Nandy, *Regimes of Narcissism, Regimes of Despair*, New Delhi: Oxford University Press, 2013, p. 65.
 
 [^06AshishRajadhayksha_84]: Chatterjee, *A Princely Impostor?*, p. 366.
 
@@ -5998,7 +6595,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_86]: *Puttaswamy* v *UOI*. Dissenting judgment. Part G3: Identity and
     Identification, No. 185.
 
-[^06AshishRajadhayksha_87]: [[]{#_Hlk108455286 .anchor}]{#_Hlk88296178 .anchor}Giorgio
+[^06AshishRajadhayksha_87]: Giorgio
     Agamben, *Homo Sacer*: *Sovereign Power and Bare Life*, Stanford:
     Stanford University Press, 1998.
 
@@ -6008,7 +6605,7 @@ body has only one identity with no choice in the matter.
     avert crises precisely such as this one. For details, see
     <a href="https://uidai.gov.in/images/mou/partners/Coalition%5C_of%5C_Migrant%5C_Workers%5C_NGOs.pdf">https://uidai.gov.in/images/mou/partners/Coalition\_of\_Migrant\_Workers\_NGOs.pdf</a>.
 
-[^06AshishRajadhayksha_89]: #  See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
+[^06AshishRajadhayksha_89]: See Jawhar Sircar, ‘A Long Look at Exactly Why and How India Failed its Migrant Workers’, *The Wire*, 29 May 2020, <https://thewire.in/labour/lockdown-migrant-workers-policy-analysis>.  
 
 [^06AshishRajadhayksha_90]: Saadat Hasan Manto’s classic 1955 short story ‘Toba Tek Singh’,
     in which the newly formed governments of India and Pakistan exchange
@@ -6059,7 +6656,7 @@ body has only one identity with no choice in the matter.
     assistance provided to BPL households through the PDS amounted to
     less than INR 5 per person per month.
 
-[^06AshishRajadhayksha_95]: []{#_Hlk108455197 .anchor}Kalyani Ramnath, ‘‘We the People’:
+[^06AshishRajadhayksha_95]: Kalyani Ramnath, ‘‘We the People’:
     Seamless Webs and Social Revolution in India’s Constituent Assembly
     Debates’, *South Asia Research* 32.1 (2012): 58.
 
@@ -6089,7 +6686,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_105]: The United Progressive Alliance or UPA is a coalition of parties
     formed soon after the 2004 general election.
 
-[^06AshishRajadhayksha_106]: []{#_Hlk108455158 .anchor}Devesh Kapur, Partha Mukhopadhyay and
+[^06AshishRajadhayksha_106]: Devesh Kapur, Partha Mukhopadhyay and
     Arvind Subramanian, ‘The Case for Direct Cash Transfers to the
     Poor’, *Economic & Political Weekly* 43.15 (2008): 37–43.
 
@@ -6098,7 +6695,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_108]: Kapur et al., ‘The Case for Direct Cash Transfers’, p. 39.
     Emphasis is mine.
 
-[^06AshishRajadhayksha_109]: []{#_Hlk108455129 .anchor}Partha Chatterjee, ‘Democracy and
+[^06AshishRajadhayksha_109]: Partha Chatterjee, ‘Democracy and
     Economic Transformation in India’, *Economic & Political Weekly*
     43.16 (2008): 53–62.
 
@@ -6196,13 +6793,13 @@ body has only one identity with no choice in the matter.
 
 [^06AshishRajadhayksha_133]: <a href="https://cis-india.org/internet-governance/resources/section-66A-information-technology-act">https://cis-india.org/internet-governance/resources/section-66A-information-technology-act</a>.
 
-[^06AshishRajadhayksha_134]: #  Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, <a href="https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon">https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</a>. 
+[^06AshishRajadhayksha_134]: Mayank Jain, ‘Mamata is Suppressing all Dissent, Claims Jadavpur Professor Arrested for Sharing a Cartoon’, *Scroll*, 12 March 2015, <a href="https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon">https://scroll.in/article/712933/mamata-is-suppressing-all-dissent-claims-jadavpur-professor-arrested-for-sharing-a-cartoon</a>. 
 
 [^06AshishRajadhayksha_135]: See ‘Youth has Confessed to Operating Pro-IS Twitter Account:
     Karnataka DGP’, *Free Press Journal*, 1 June 2019,
     <a href="https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp">https://www.freepressjournal.in/india/youth-has-confessed-to-operating-pro-is-twitter-account-karnataka-dgp</a>.
 
-[^06AshishRajadhayksha_136]: #  ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, <a href="https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged">https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</a>.
+[^06AshishRajadhayksha_136]: ‘ISIS Propagandist Shami Witness: Man Charged in India, Channel 4, 1 June 2015, <a href="https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged">https://www.channel4.com/news/isis-shami-witness-medhi-masroor-biswas-charged</a>.
 
 [^06AshishRajadhayksha_137]: *Shreya Singhal* v *UOI*, WP (Criminal) No. 167 of 2012, (24
     March 2015), <a href="https://indiankanoon.org/doc/110813550/">https://indiankanoon.org/doc/110813550/</a>.
@@ -6213,7 +6810,7 @@ body has only one identity with no choice in the matter.
     contempt of court, (7) defamation (8) incitement to an offence. See
     <a href="https://indiankanoon.org/doc/493243/">https://indiankanoon.org/doc/493243/</a>.
 
-[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, []{#_Hlk108445835 .anchor}‘Media Trials
+[^06AshishRajadhayksha_139]: Shuddhabrata Sengupta, ‘Media Trials
     and Courtroom Tribulations: The Battle of Images, Words and Shadows
     in the 13 December Case’, in *13 December, A Reader: The Strange
     Case of the Attack on the Indian Parliament*, New Delhi: Penguin
@@ -6299,7 +6896,7 @@ body has only one identity with no choice in the matter.
 [^06AshishRajadhayksha_162]: Arunima, ‘Cameras, Campuses and the Future of Politics', pp.
     17–18.
 
-[^06AshishRajadhayksha_163]: #  Pramod K. Verma, Architecting Platforms for Innovation
+[^06AshishRajadhayksha_163]: Pramod K. Verma, Architecting Platforms for Innovation
 
     <https://www.slideshare.net/indiastack/architecting-platforms-for-innovation>
 
@@ -6415,11 +7012,11 @@ They give data a form and interpretive possibilities. They also, as this
 essay shows, make data potentially dangerous, going beyond the
 conditions of its arrangement.
 
-**I**
+##I.
 
 ## REMAKING GOVERNMENT IN THE REALM OF THE DIGITAL
 
-## The techno-politics of neoliberalism
+### The techno-politics of neoliberalism
 
 In 1993, Infosys recorded revenue of \$5 million.[^07NafisHasan_3] One year later,
 that had jumped to \$9 million on the back of Finacle – a banking system
@@ -6969,7 +7566,7 @@ spectacular, or episodic forms of violence that scholars of the state
 have alerted us to, but what I call a form of ‘slow violence’ given the
 slow and concealed way repair creeps into a citizen’s life.
 
-## II
+## II.
 
 ## THE PLANNING COMMISSION’S QUEST FOR ‘DATA IMPROVEMENT’
 
@@ -7328,15 +7925,11 @@ the politics of NIC’s work with government departments and has over the
 years led to a gap between intent and outcome, evident from the
 checkered nature of digitization projects in government.
 
-## III
-
-##  
+## III.
 
 ## DATA EXCESS: RELATIONAL DATABASE MANAGEMENT AND DATA PROLIFERATION 
 
-## 
-
-## Technical Specifics of RDBMS
+### Technical Specifics of RDBMS
 
 The storage of data from a tree-based or network structure to one of
 rows and columns opened up possibilities for the arrangement and access
@@ -8035,9 +8628,7 @@ citizen services, and being saddled with the burden of repairing data
 and losing that status, depicts the experience of slow violence emerging
 in these interactions.
 
-## IV
-
-## 
+## IV.
 
 ## CONTAINING EXCESS OR RETURN TO THE LOCAL
 
@@ -8788,7 +9379,7 @@ government since the Commission built its first centralized database?
 
 
 
-# **About the book: *An* Internet *from* India**
+# **About the book: An Internet from India**
 
 One of the thorniest questions you can ask authors is: ‘What is the book
 about?’ The instinctive tendency is to give detailed, nuanced, specific
@@ -9304,7 +9895,7 @@ who can bear the affordances of digital verification and the burden of
 digitization, and it has clear consequences on the futures that are
 being predicated on the promise of digitization.
 
-\_\_\_
+\*\*\*
 
 This glossary is our way of leading you into some of the questions that
 tie these three essays together. It is also a way of finding our limits,
@@ -10179,6 +10770,50 @@ identifying religions that qualified for Indian citizenship.](imgs/43TOD46.png)
 
 
 
+# Acknowledgments
+
+This book has been long in the making. A lot of it happened even before
+the idea of such a book came together. The authors, old collaborators
+and friends, thank each other, and will raise a toast whenever it is
+that we reconvene, someday, in a single space. Nishant expresses his
+gratitude to the people that made the Centre for Internet & Society
+possible – Sunil Abraham, Pranesh Prakash, and Nirmita Narsimhan, with
+whom it all started and grew. There were some incredible scholars whose
+work framed the Internet and Society history in India through its
+Researchers At Work series – Asha Achuthan and Namita Malhotra, in
+particular. Nishant’s writing owes its intellectual and emotional debt
+to different collaborators and interlocutors – Chinmayi Arun, Alexandra
+Juhasz, Wendy Chun, David Theo Goldberg, Elizabeth Losh, Martin Warnke,
+Malavika Jairam, Clemens Apprich, Rolien Hyong, and Renee Ridgway, who
+have all workshopped these different ideas over time. He acknowledges
+the generous support of the Digital Earth Project at Hivos and the
+Feminist Internet Research Network at the Association of Progressive
+Communication, where parts of this work were presented and grew. Ashish
+Rajadhyaksha recalls the many colleagues who worked, along with his
+co-authors, on the Identity Project at the Centre for the Study of
+Culture and Society, and thanks Sruti Chaganti and Kakarala Sitharamam.
+A special thanks to <http://pad.ma>, to Lawrence Liang, Shaina Anand and
+Ashok Sukumaran. The Identity Project was funded by the Ford Foundation,
+Delhi. For advice on 'following the technology', Nafis Hasan is very
+grateful to Chris Kelty at UCLA and the wonderful magazine he
+co-edits, *LIMN,* particularly Issue 8, which set him on the path of
+excavating the stratigraphy of technical structures that lead to the
+devastating excesses this book addresses. He is also very thankful for
+the grants and research positions that have made the writing and editing
+possible.
+
+The authors all remember the Centre for the Study of Culture and
+Society, and Tejaswini Niranjana, S.V. Srinivas, and many other faculty
+and students there. We are grateful to Geert Lovink and the team of the
+Institute of Network Cultures for enabling this book. We express our
+deepest thanks to Ravi Sundaram, Chris Kelty, and Michelle Kasprzak for
+their detailed, careful, and generous comments on this book, and
+Chinmayi Arun for the foreword. Finally, we thank Sunaina Dalaya for her
+copyediting, her attention to detail, and for bringing the book together
+in such a wonderful way.
+
+
+
 # Bibliography
 
 ## Reports
@@ -10220,50 +10855,31 @@ Swaminathan, R. ‘UIDAI-NPR Row: Identity Politics of a Different Kind’, Obse
 
 ## Government Documents and Judgments
 
-Committee of Experts under the Chairmanship of Justice B.N.
-Srikrishna, *A Free and Fair Digital Economy: Protecting Privacy,
-Empowering Indians,* Ministry of Electronics and Information Technology,
-Government of India, 2018.
-
-‘eDistrict Mission Mode Project Under the National eGovernance Plan.
-Pilot Implementation Guidelines’, Department of Information Technology,
-Government of India, January 2009,
-<https://www.meity.gov.in/writereaddata/files/eDistGuidelines_Feb09(rev1).pdf>.
-
-Planning Commission, ‘Computerized Data Bank’ - Consultancy Assistance
-from Institutions, 1976, File No. M-12038/3/76 – M&I, National Archives
+1976: Planning Commission, ‘Computerized Data Bank’ - Consultancy Assistance
+from Institutions, File No. M-12038/3/76 – M&I, National Archives
 of India.
 
-Planning Commission, ‘Setting up of a National Informatics Centre -
-Proposal from the Electronics Commission’, 1977, File No. 11017/5/77
+1978:Planning Commission, ‘Setting up of a National Informatics Centre -
+Proposal from the Electronics Commission’, File No. 11017/5/77
 M&I, National Archives of India.
 
-Planning Commission, ‘Standing Committee for Directing and Reviewing
-Improvement of Data Base for Planning and Policy Making’, Vol. I, 1978,
+2009:Planning Commission, ‘Standing Committee for Directing and Reviewing
+Improvement of Data Base for Planning and Policy Making’, Vol. I,
 File No. O-11-17/1/78-M&I, National Archives of India.
 
-‘Request for Proposal (RFP) For Selection of SWAN TPA’,
-<a href="https://www.meity.gov.in/writereaddata/files/An8%5C_Indicative%5C_SWAN.pdf">https://www.meity.gov.in/writereaddata/files/An8\_Indicative\_SWAN.pdf</a>.
-
-Telecom Regulatory Authority of India. ‘Prohibition of Discriminatory
-Tariffs for Data Services Regulations, 2016’, *Gazette of India*, 8
-February 2016,
-<a href="https://trai.gov.in/sites/default/files/Regulation%5C_Data%5C_Service.pdf">https://trai.gov.in/sites/default/files/Regulation\_Data\_Service.pdf</a>.
-
-‘The Information Technology Act, 2000’, *The Gazette of India*, June
-2000,
+2009:‘The Information Technology Act, 2000’, *The Gazette of India*, June,
 <a href="https://www.indiacode.nic.in/bitstream/123456789/13116/1/it%5C_act%5C_2000%5C_updated.pdf">https://www.indiacode.nic.in/bitstream/123456789/13116/1/it\_act\_2000\_updated.pdf</a>.
 
-‘The Information Technology (Amendment) Act, 2008’, *The Gazette of
+2009:‘The Information Technology (Amendment) Act, 2008’, *The Gazette of
 India*, February 2009,
 <a href="https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=">https://eprocure.gov.in/cppp/rulesandprocs/kbadqkdlcswfjdelrquehwuxcfmijmuixngudufgbuubgubfugbububjxcgfvsbdihbgfGhdfgFHytyhRtMTk4NzY=</a>.
 
-UIDAI. *UIDAI Strategy Overview:* *Creating a Unique Identity Number for
+2010:UIDAI. *Strategy Overview:* *Creating a Unique Identity Number for
 Every Resident in India*, Planning Commission/UIDAI, Government of
 India, April 2010.
 
-‘WGITA – IDI Handbook on IT Audit for Supreme Audit Institutions’,
-February 2014,
+2014: ‘WGITA – IDI Handbook on IT Audit for Supreme Audit Institutions’,
+February,
 <a href="https://icisa.cag.gov.in/resource%5C_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF">https://icisa.cag.gov.in/resource\_files/c60986ef8dd5d4f658df077c1b5dceb7.PDF</a>.
 
 ## Books and Journal Essays
@@ -10936,45 +11552,36 @@ Student Leaders, Courts Cite Lockdown to Justify Lack of Scrutiny’,
 
 
 
-# Acknowledgments
+# About the Authors
 
-This book has been long in the making. A lot of it happened even before
-the idea of such a book came together. The authors, old collaborators
-and friends, thank each other, and will raise a toast whenever it is
-that we reconvene, someday, in a single space. Nishant expresses his
-gratitude to the people that made the Centre for Internet & Society
-possible – Sunil Abraham, Pranesh Prakash, and Nirmita Narsimhan, with
-whom it all started and grew. There were some incredible scholars whose
-work framed the Internet and Society history in India through its
-Researchers At Work series – Asha Achuthan and Namita Malhotra, in
-particular. Nishant’s writing owes its intellectual and emotional debt
-to different collaborators and interlocutors – Chinmayi Arun, Alexandra
-Juhasz, Wendy Chun, David Theo Goldberg, Elizabeth Losh, Martin Warnke,
-Malavika Jairam, Clemens Apprich, Rolien Hyong, and Renee Ridgway, who
-have all workshopped these different ideas over time. He acknowledges
-the generous support of the Digital Earth Project at Hivos and the
-Feminist Internet Research Network at the Association of Progressive
-Communication, where parts of this work were presented and grew. Ashish
-Rajadhyaksha recalls the many colleagues who worked, along with his
-co-authors, on the Identity Project at the Centre for the Study of
-Culture and Society, and thanks Sruti Chaganti and Kakarala Sitharamam.
-A special thanks to <http://pad.ma>, to Lawrence Liang, Shaina Anand and
-Ashok Sukumaran. The Identity Project was funded by the Ford Foundation,
-Delhi. For advice on 'following the technology', Nafis Hasan is very
-grateful to Chris Kelty at UCLA and the wonderful magazine he
-co-edits, *LIMN,* particularly Issue 8, which set him on the path of
-excavating the stratigraphy of technical structures that lead to the
-devastating excesses this book addresses. He is also very thankful for
-the grants and research positions that have made the writing and editing
-possible.
+**Nishant Shah** is a feminist, humanist, technologist. He was the
+cofounder of The Centre for Internet & Society, India. He is currently
+an endowed professor of aesthetics and cultures of technology at ArtEZ
+University of the Arts and Radboud University in the Netherlands, a
+Faculty Associate at the Berkman Klein Centre for Internet & Society,
+Harvard University, USA, and a Knowledge Partner with the Digital Asia
+Hub, Hong Kong. His current preoccupations are around questions of
+digital technologies, narrative practices for collective action, and
+cultural politics of Artificial Intelligence.
 
-The authors all remember the Centre for the Study of Culture and
-Society, and Tejaswini Niranjana, S.V. Srinivas, and many other faculty
-and students there. We are grateful to Geert Lovink and the team of the
-Institute of Network Cultures for enabling this book. We express our
-deepest thanks to Ravi Sundaram, Chris Kelty, and Michelle Kasprzak for
-their detailed, careful, and generous comments on this book, and
-Chinmayi Arun for the foreword. Finally, we thank Sunaina Dalaya for her
-copyediting, her attention to detail, and for bringing the book together
-in such a wonderful way.
+**Ashish Rajadhyaksha** worked as Senior Fellow at the Centre for the
+Study of Culture and Society. Although known primarily as a film
+scholar, he has published widely on digital governance, including the
+book *The Last Cultural Mile: An Inquiry into Technology and Governance
+in India* (2011), ‘State Power and Technological Citizenship in India:
+From the Postcolonial to the Digital Age’ (with Itty Abraham) in *East
+Asian Science, Technology and Society: An International Journal* (2015),
+and *In the Wake of Aadhaar: The Digital Ecoystem of Governance in
+India* (2013).
 
+**Nafis Aziz Hasan** has been researching the techno-politics of digital
+media, material politics of public institutions, and technological
+policies for governance, with a regional focus on India. One part of his
+project seeks to offer a historical understanding of digital technology
+in relation to prior technologies of rule. Another aspect of his work
+draws on rich ethnographic material on the assemblage of people,
+processes, and technologies, generated over a decade from across India.
+His work has appeared in academic journals such as *South
+Asia*, *Political and Legal Anthropology Review*, and *Economic and
+Political Weekly*, and popular outlets such as thewire.in, *New Indian
+Express* and raiot.in. This is his first book. 

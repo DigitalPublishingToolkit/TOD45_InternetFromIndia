@@ -103,9 +103,9 @@ of the most pernicious problems of our times as a result of the
 engineering, cultural shaping, and political proliferation of the state
 of overload.
 
-## SECTION I 
+## I. 
 
-## INFORMATIONALLY YOURS: OVERLOADED\
+## INFORMATIONALLY YOURS: OVERLOADED
 
 In July 2020, when India, and the rest of the world, was reeling from
 the COVID-19 pandemic, a YouTube video went viral in the country.[^05NIshantShah_1]
@@ -1451,7 +1451,7 @@ principles, and technosocial standards naturalize the making of this
 user – and particularly consider the questions of power, agency, and
 choice as they unfold in these informationally overloaded systems.
 
-## SECTION II 
+## II. 
 
 ## 
 
@@ -1821,7 +1821,7 @@ understood as a ‘cyborg body’ that circulates to create informational
 instability. As Haraway had prophesized, ‘we can no longer go back
 materially or ideologically’.[^05NIshantShah_101]
 
-## From Authority to Authorization\
+## From Authority to Authorization
 
 Perhaps this shift from representation to simulation is best understood
 as a shift from author*ity* to author*ization*, illustrated in the
@@ -1939,7 +1939,7 @@ pretends to be representing a reality and only ends up simulating the
 small world that works through connections, circulations,
 recontextualization, and computational realities.
 
-## From Possibility to Probability\
+## From Possibility to Probability
 
 The reason why networked authorization works over human authority and
 discretion is not only to do with the life cycle of rumors and speed of
@@ -2223,8 +2223,7 @@ written.
 
 [^05NIshantShah_3]: ‘Agrima Joshua Case: Maha HM Anil Deshmukh Asks Mumbai Police to
     Take Legal Action against Comedian over Chhatrapati Shivaji Maharaj
-    Remark’, *The Free Press Journal*, 11 July 2020, []{#_Hlk105225732
-    .anchor}https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
+    Remark’, *The Free Press Journal*, 11 July 2020, https://www.freepressjournal.in/mumbai/agrima-joshua-case-maha-hm-anil-deshmukh-asks-mumbai-police-to-take-legal-action-against-comedian-over-chhatrapati-shivaji-maharaj-remark.
 
 [^05NIshantShah_4]: ‘Agrima Joshua Row: Comedian Posts Video Apologizing to Members of
     Political Parties’, *The Free Press Journal*, 11 July 2020,
