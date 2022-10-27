@@ -4,23 +4,17 @@
 ## AN INTERNET FROM INDIA
 ### Nishant Shah, Ashish Rajadhyaksha, and Nafis Hasan
 
-
-
-INC Theory on Demand \#45
-
-## OVERLOAD, CREEP, EXCESS – AN INTERNET FROM INDIA
+<div style="page-break-after: always;"></div>
 
 
 INC Theory on Demand #45
-<br/>
+
 **Overload, Creep, Excess - An Internet from India**
-<br/>
 <br/>
 Authors: Nishant Shah, Ashish Rajadhyaksha and Nafis Hasan
 <br/>
 <br/>
 Copy editor: Sunaina Dalaya
-<br/>
 <br/>
 Cover Design: Katja van Stiphout
 <br/>
@@ -38,18 +32,6 @@ ISBN EPUB: 9789492302922
 Institute of Network Cultures
 <br/>
 Amsterdam University of Applied Sciences (HVA)
-<br/>
-Faculty of DMCI
-<br/>
-Benno Premsela Huis
-<br/>
-Rhijnspoorplein
-<br/>
-Room 04A07
-<br/>
-1019 GC Amsterdam
-<br/>
-The Netherlands
 <br/>
 Email: info@networkcultures.org
 <br/>
